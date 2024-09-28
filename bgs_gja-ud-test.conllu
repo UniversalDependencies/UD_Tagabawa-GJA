@@ -2,13 +2,13 @@
 # text = Igsulat to baye ka sulat para ka rarak nya.
 # text_gloss = wrote the girl a letter to friend her.
 # text_en = The girl wrote a letter to her friend.
-1	Igsulat	sulat	VERB	_	_	0	_	_	Gloss=wrote
+1	Igsulat	sulat	VERB	_	_	0	root	_	Gloss=wrote
 2	to	to	ADP	_	_	3	 case	_	Gloss=the
 3	baye	baye	NOUN	_	_	1	nsubj	_	Gloss=girl
 4	ka	ka	ADP	_	_	5	case	_	Gloss=a
 5	sulat	sulat	NOUN	_	_	1	obj	_	Gloss=letter
 6	para	para	ADP	_	_	8	case	_	Gloss=to
 7	ka	ka	ADP	_	_	6	fixed	_	_
-8	rarak	rarak	NOUN	_	_	1	obl	_	Gloss=friend
+8	rarak	rare	NOUN	_	_	1	obl	_	Gloss=friend
 9	nya	nya	PRON	_	_	8	nmod	_	Gloss=her|SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
