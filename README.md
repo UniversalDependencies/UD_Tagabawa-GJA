@@ -1,11 +1,11 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+UD_Tagabawa_GJA is a collection of anntoated Bagobo-Tagabawa sentences taken from different sources. It is currently under development.
 
 
 # Introduction
 
-...
+Annotation is done manually by Glyd Jun Arañes with and Mary Jane Cooke. This treebank is part of Glyd's research for his PhD in Language Studies at the University of Helsinki.
 
 
 # Acknowledgments
