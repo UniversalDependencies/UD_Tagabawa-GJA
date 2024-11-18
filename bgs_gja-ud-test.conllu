@@ -63,10 +63,10 @@
 7	!	!	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bgs_cairo-6
-# text = Igsugo nya toʔ sawa din na iglimpyo ka kotse .
+# text = Igsugoʔ nya toʔ sawa din na iglimpyo ka kotse .
 # text_gloss = Told she husband her to wash the car.
 # text_en = She made her husband wash the car.
-1	Igsugo	sugo	VERB	_	_	_	_	_	_
+1	Igsugoʔ	sugoʔ	VERB	_	_	_	_	_	_
 2	nya	nya	PRON	_	_	1	nmod	_	_
 3	toʔ	toʔ	ADP	_	_	4	case	_	_
 4	sawa	sawa	NOUN	_	_	1	nsubj	_	_
