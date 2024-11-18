@@ -1,11 +1,11 @@
 # Summary
 
-UD_Tagabawa_GJA is a collection of anntoated Bagobo-Tagabawa sentences taken from different sources. It is currently under development.
+UD_Tagabawa_GJA is a collection of annotated Bagobo-Tagabawa sentences taken from different sources. It is currently under development.
 
 
 # Introduction
 
-Annotation is done manually by Glyd Jun Arañes with Mary Jane Cooke. This treebank is part of Glyd's research for his PhD in Language Studies at the University of Helsinki.
+Annotation is done manually by Glyd Jun Arañes with Mary Jane Cooke and Geoffrey Marfa. This treebank is part of Glyd's research for his PhD in Language Studies at the University of Helsinki.
 
 
 # Acknowledgments
