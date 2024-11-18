@@ -1,14 +1,93 @@
 # sent_id = bgs_cairo-1
-# text = Igsulat to baye ka sulat para ka rarak nya.
+# text = ʔIgsulat toʔ baye ka sulat para ka rarak nya .
 # text_gloss = wrote the girl a letter to friend her.
 # text_en = The girl wrote a letter to her friend.
-1	Igsulat	sulat	VERB	_	_	0	root	_	Gloss=wrote
-2	to	to	ADP	_	_	3	 case	_	Gloss=the
-3	baye	baye	NOUN	_	_	1	nsubj	_	Gloss=girl
-4	ka	ka	ADP	_	_	5	case	_	Gloss=a
-5	sulat	sulat	NOUN	_	_	1	obj	_	Gloss=letter
-6	para	para	ADP	_	_	8	case	_	Gloss=to
-7	ka	ka	ADP	_	_	6	fixed	_	_
-8	rarak	rarak	NOUN	_	_	1	obl	_	Gloss=friend
-9	nya	nya	PRON	_	_	8	nmod	_	Gloss=her|SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+1	ʔIgsulat	sulat	VERB	_	_	0	_	_	_
+2	toʔ	ʔtoʔ	ADP	_	Case=Nom	3	case	_	_
+3	baye	baye	NOUN	_	_	1	nsubj	_	_
+4	ka	ka	ADP	_	Case=Gen	5	case	_	_
+5	sulat	sulat	NOUN	_	_	1	obj	_	_
+6	para	para	ADP	_	_	8	case	_	_
+7	ka	ka	ADP	_	Case=Dat	6	fixed	_	_
+8	rarak	rarak	NOUN	_	_	1	obl	_	_
+9	nya	nya	PRON	_	_	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = bgs_cairo-2
+# text = ʔIring gudan .
+# text_gloss = 
+# text_en = 
+1	ʔIring	ʔIring	ADV	_	_	2	advmod	_	_
+2	gudan	udan	VERB	_	_	0	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = bgs_cairo-3
+# text = Igsulayan niyak hunong ka sigupan ak ginám .
+# text_gloss = 
+# text_en = 
+1	Igsulayan	sulay	VERB	_	_	0	_	_	_
+2-3	niyak	niya	PRON	_	_	_	_	_	_
+2	niya	niya	PRON	_	_	1	nmod	_	_
+3	k	ka	ADP	_	_	4	case	_	_
+4	hunong	hunong	NOUN	_	_	1	ccomp	_	_
+5	ka	ka	ADP	_	_	6	case	_	_
+6	sigupan	sigupan	NOUN	_	_	4	obj	_	_
+7	ak	ak	CCONJ	_	_	8	cc	_	_
+8	ginám	ginám	NOUN	_	_	6	obj	_	_
+9	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = bgs_cairo-4
+# text = Gusto ka'd pano ked ?
+# text_gloss = 
+# text_en = 
+1	Gusto	gusto	VERB	_	_	0	_	_	_
+2-3	ka'd	_	_	_	_	_	_	_	_
+2	ka	ikaw	PRON	_	_	1	nmod	_	_
+3	'd	na	PART	_	_	2	mark	_	_
+4	pano	pano	VERB	_	_	1	ccomp	_	_
+5-6	ked	ke	PRON	_	_	_	nmod	_	_
+5	ked	ke	PRON	_	_	4	nmod	_	_
+6	d	na	ADV	_	_	5	advmod	_	_
+7	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = bgs_cairo-5
+# text = Sam , ʔabrihiʔ no toʔ bintana !
+# text_gloss = 
+# text_en = 
+1	Sam	Sam	PROPN	_	_	3	vocative	_	_
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	ʔabrihi	ʔabri	VERB	_	Mood=Imp	0	_	_	_
+4	no	ka	PRON	_	_	6	nmod	_	_
+5	toʔ	toʔ	ADP	_	_	6	case	_	_
+6	bintana	bintana	NOUN	_	_	3	nsubj	_	_
+7	!	!	PUNCT	_	_	3	punct	_	_
+
+# sent_id = bgs_cairo-6
+# text = Igsugo nya toʔ sawa din na iglimpyo ka kotse .
+# text_gloss = 
+# text_en = 
+1	Igsugo	sugo	VERB	_	_	_	_	_	_
+2	nya	nya	PRON	_	_	1	nmod	_	_
+3	toʔ	toʔ	ADP	_	_	4	case	_	_
+4	sawa	sawa	NOUN	_	_	1	nsubj	_	_
+5	din	nya	PRON	_	_	4	nmod	_	_
+6	na	na	PART	_	_	7	mark	_	_
+7	iglimpyo	limpyo	VERB	_	_	1	ccomp	_	_
+8	ka	ka	ADP	_	_	9	case	_	_
+9	kotse	kotse	NOUN	_	_	7	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = bgs_cairo-7
+# text = Igpinturahan ka silingan ni Peter toʔ koral ka malloto .
+# text_gloss = 
+# text_en = 
+1	Igpinturahan	pintura	VERB	_	_	0	_	_	_
+2	ka	ka	ADP	_	_	3	case	_	_
+3	silingan	silingan	NOUN	_	_	1	obj	_	_
+4	ni	ni	ADP	_	_	5	case	_	_
+5	Peter	Peter	PROPN	_	_	3	obl	_	_
+6	toʔ	toʔ	ADP	_	_	7	case	_	_
+7	koral	koral	NOUN	_	_	1	nsubj	_	_
+8	ka	ka	ADP	_	_	9	case	_	_
+9	malloto	malloto	NOUN	_	_	7	obl	_	_
+10	.	.	PUNCT	_	_	1	punct	_	_
