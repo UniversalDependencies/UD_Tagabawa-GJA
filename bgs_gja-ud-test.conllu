@@ -15,7 +15,7 @@
 
 # sent_id = bgs_cairo-2
 # text = ʔIring gudan .
-# text_gloss = 
+# text_gloss = like raining.
 # text_en = I think that it is raining.
 1	ʔIring	ʔIring	ADV	_	_	2	advmod	_	_
 2	gudan	udan	VERB	_	_	0	_	_	SpaceAfter=No
@@ -23,7 +23,7 @@
 
 # sent_id = bgs_cairo-3
 # text = Igsulayan niyak hunong ka sigupan ak ginám .
-# text_gloss = 
+# text_gloss = tried he stop smoking and drinking.
 # text_en = He tried to stop smoking and drinking.
 1	Igsulayan	sulay	VERB	_	_	0	_	_	_
 2-3	niyak	niya	PRON	_	_	_	_	_	_
@@ -38,7 +38,7 @@
 
 # sent_id = bgs_cairo-4
 # text = Gusto ka'd pano ked ?
-# text_gloss = 
+# text_gloss = want you to go?
 # text_en = Do you want to go?
 1	Gusto	gusto	VERB	_	_	0	_	_	_
 2-3	ka'd	_	_	_	_	_	_	_	_
@@ -52,7 +52,7 @@
 
 # sent_id = bgs_cairo-5
 # text = Sam , ʔabrihiʔ no toʔ bintana !
-# text_gloss = 
+# text_gloss = Sam, open you the window!
 # text_en = Sam, open the window!
 1	Sam	Sam	PROPN	_	_	3	vocative	_	_
 2	,	,	PUNCT	_	_	3	punct	_	_
@@ -64,7 +64,7 @@
 
 # sent_id = bgs_cairo-6
 # text = Igsugo nya toʔ sawa din na iglimpyo ka kotse .
-# text_gloss = 
+# text_gloss = Told she husband her to wash the car.
 # text_en = She made her husband wash the car.
 1	Igsugo	sugo	VERB	_	_	_	_	_	_
 2	nya	nya	PRON	_	_	1	nmod	_	_
@@ -79,7 +79,7 @@
 
 # sent_id = bgs_cairo-7
 # text = Igpinturahan ka silingan ni Peter toʔ koral ka malloto .
-# text_gloss = 
+# text_gloss = Painted neighbor of Peter the fence red.
 # text_en = Peter's neighbor painted the fence red.
 1	Igpinturahan	pintura	VERB	_	_	0	_	_	_
 2	ka	ka	ADP	_	_	3	case	_	_
