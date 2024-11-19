@@ -46,7 +46,7 @@
 3	'd	na	PART	_	_	2	mark	_	_
 4	pano	pano	VERB	_	_	1	ccomp	_	_
 5-6	ked	ke	PRON	_	_	_	nmod	_	_
-5	ked	ke	PRON	_	_	4	nmod	_	_
+5	ke	ke	PRON	_	_	4	nmod	_	_
 6	d	na	ADV	_	_	5	advmod	_	_
 7	?	?	PUNCT	_	_	1	punct	_	_
 
