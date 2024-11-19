@@ -56,7 +56,7 @@
 # text_en = Sam, open the window!
 1	Sam	Sam	PROPN	_	_	3	vocative	_	_
 2	,	,	PUNCT	_	_	3	punct	_	_
-3	ʔabrihi	ʔabri	VERB	_	Mood=Imp	0	_	_	_
+3	ʔabrihiʔ	ʔabriʔ	VERB	_	Mood=Imp	0	_	_	_
 4	no	ka	PRON	_	_	6	nmod	_	_
 5	toʔ	toʔ	ADP	_	_	6	case	_	_
 6	bintana	bintana	NOUN	_	_	3	nsubj	_	_
