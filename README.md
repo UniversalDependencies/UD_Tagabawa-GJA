@@ -28,6 +28,7 @@ Annotation is done manually by Glyd Jun Arañes with Mary Jane Cooke and Geoffre
 Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples
 Lemmas: manual native
 UPOS: manual native
