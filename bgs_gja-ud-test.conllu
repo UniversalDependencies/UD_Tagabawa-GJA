@@ -1,4 +1,5 @@
 # sent_id = bgs_cairo-1
+# parallel_id = cairo/1
 # text = ʔIgsulat toʔ baye ka sulat para ka rarak nya .
 # text_gloss = wrote the girl a letter to friend her.
 # text_en = The girl wrote a letter to her friend.
@@ -14,6 +15,7 @@
 10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = bgs_cairo-2
+# parallel_id = cairo/2
 # text = ʔIring gudan .
 # text_gloss = like raining.
 # text_en = I think that it is raining.
@@ -22,6 +24,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = bgs_cairo-3
+# parallel_id = cairo/3
 # text = Igsulayan niyak hunong ka sigupan ak ginám .
 # text_gloss = tried he stop smoking and drinking.
 # text_en = He tried to stop smoking and drinking.
@@ -37,6 +40,7 @@
 9	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = bgs_cairo-4
+# parallel_id = cairo/4
 # text = Gusto ka'd pano ked ?
 # text_gloss = want you to go?
 # text_en = Do you want to go?
@@ -51,6 +55,7 @@
 7	?	?	PUNCT	_	_	1	punct	_	_
 
 # sent_id = bgs_cairo-5
+# parallel_id = cairo/5
 # text = Sam , ʔabrihiʔ no toʔ bintana !
 # text_gloss = Sam, open you the window!
 # text_en = Sam, open the window!
@@ -63,6 +68,7 @@
 7	!	!	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bgs_cairo-6
+# parallel_id = cairo/6
 # text = Igsugoʔ nya toʔ sawa din na iglimpyo ka kotse .
 # text_gloss = Told she husband her to wash the car.
 # text_en = She made her husband wash the car.
@@ -78,6 +84,7 @@
 10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = bgs_cairo-7
+# parallel_id = cairo/7
 # text = Igpinturahan ka silingan ni Peter toʔ koral ka malloto .
 # text_gloss = Painted neighbor of Peter the fence red.
 # text_en = Peter's neighbor painted the fence red.
@@ -91,3 +98,4 @@
 8	ka	ka	ADP	_	_	9	case	_	_
 9	malloto	malloto	NOUN	_	_	7	obl	_	_
 10	.	.	PUNCT	_	_	1	punct	_	_
+
