@@ -114,3 +114,26 @@
 8	apa	apa	NOUN	_	_	2	ccomp	_	Gloss=dad
 9	no	no	PRON	_	_	8	nmod	_	Gloss=your|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = bgs_cairo-9
+# parallel_id = cairo/9
+# text = Igkadaug si Mary ka bronze , si Peter ka silver , ak si Jane ka gold .
+# text_gloss = won Mary the bronze, Peter the silver, and Jane the gold.
+# text_en = Mary won bronze, Peter silver, and Jane gold.
+1	Igkadaug	daug	VERB	_	_	0	_	_	Gloss=won
+2	si	si	ADP	_	_	3	case	_	_
+3	Mary	Mary	PROPN	_	_	1	nsubj	_	Gloss=Mary
+4	ka	ka	ADP	_	_	5	case	_	Gloss=the
+5	bronze	bronze	NOUN	_	_	1	obj	_	Gloss=bronze
+6	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+7	si	si	ADP	_	_	8	case	_	_
+8	Peter	Peter	PROPN	_	_	3	conj	_	Gloss=Peter
+9	ka	ka	ADP	_	_	10	case	_	Gloss=the
+10	silver	silver	NOUN	_	_	8	obj	_	Gloss=silver
+11	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+12	ak	ak	CCONJ	_	_	14	cc	_	Gloss=and
+13	si	si	ADP	_	_	14	case	_	_
+14	Jane	Jane	PROPN	_	_	8	conj	_	Gloss=Jane
+15	ka	ka	ADP	_	_	16	case	_	Gloss=the
+16	gold	gold	NOUN	_	_	14	obj	_	Gloss=gold|SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	Gloss=.
