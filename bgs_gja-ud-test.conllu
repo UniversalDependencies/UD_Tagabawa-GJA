@@ -99,3 +99,18 @@
 9	malloto	malloto	NOUN	_	_	7	obl	_	_
 10	.	.	PUNCT	_	_	1	punct	_	_
 
+# sent_id = bgs_cairo-8
+# parallel_id = cairo/8
+# text = Toʔ apa ko mas kuyaw kaysa to? apa no.
+# text_gloss = dad my cooler the dad yours.
+# text_en = My dad is cooler than yours.
+1	Toʔ	toʔ	ADP	_	_	2	case	_	_
+2	apa	apa	NOUN	_	_	0	_	_	Gloss=dad
+3	ko	ko	PRON	_	_	2	nmod	_	Gloss=my
+4	mas	mas	ADV	_	_	5	advmod	_	_
+5	kuyaw	kuyaw	ADJ	_	_	2	amod	_	Gloss=cool
+6	kaysa	kaysa	SCONJ	_	_	8	mark	_	Gloss=than
+7	to	to	ADP	_	_	8	case	_	_
+8	apa	apa	NOUN	_	_	2	ccomp	_	Gloss=dad
+9	no	no	PRON	_	_	8	nmod	_	Gloss=your|SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
