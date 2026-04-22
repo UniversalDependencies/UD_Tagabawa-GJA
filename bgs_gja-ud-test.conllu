@@ -154,3 +154,21 @@
 9	nasod	nasod	NOUN	_	_	7	amod	_	Gloss=country|SpaceAfter=No
 10	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
+# sent_id = bgs_cairo-11
+# parallel_id = cairo/11
+# text = Si Peter Smith ak Mary Brown kay dire pwedeng mapili.
+# text_gloss = Peter Smith and Mary brown not could.be selected.
+# text_en = Neither Peter Smith nor Mary Brown could be selected.
+1	Si	_	ADP	_	_	2	case	_	_
+2	Peter	_	PROPN	_	_	11	nsubj	_	_
+3	Smith	_	PROPN	_	_	2	flat	_	_
+4	ak	_	CCONJ	_	_	5	cc	_	_
+5	Mary	_	PROPN	_	_	2	conj	_	_
+6	Brown	_	PROPN	_	_	5	flat	_	_
+7	kay	_	PART	_	_	11	mark	_	_
+8	dire	_	PART	_	_	11	advmod	_	_
+9-10	pwedeng	_	_	_	_	_	_	_	_
+9	pwede	_	PART	_	_	11	advmod	_	_
+10	na	_	PART	_	_	9	mark	_	_
+11	mapili	_	VERB	_	_	0_	_	_	_
+12	.	_	PUNCT	_	_	11	punct	_	_
