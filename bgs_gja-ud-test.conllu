@@ -112,7 +112,7 @@
 6	kaysa	kaysa	SCONJ	_	_	8	mark	_	Gloss=than
 7	to	to	ADP	_	_	8	case	_	_
 8	apa	apa	NOUN	_	_	2	ccomp	_	Gloss=dad
-9	no	no	PRON	_	_	8	nmod	_	Gloss=your|SpaceAfter=No
+9	no	ka	PRON	_	_	8	nmod	_	Gloss=your|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-9
