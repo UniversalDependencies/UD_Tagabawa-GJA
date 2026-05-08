@@ -200,7 +200,7 @@
 # parallel_id = cairo/10
 # text = Toʔ Iguazo ba kay dakál o dilak na nasod?
 # text_gloss = Iguazo QUESTION big or small country?
-# text_en = Is Iguazu a big or a small country?
+# text_en = Is Iguazo a big or a small country?
 1	Toʔ	toʔ	ADP	_	_	2	case	_	_
 2	Iguazo	Iguazo	PROPN	_	_	0	root	_	Gloss=Iguazo
 3	ba	ba	PART	_	_	2	advmod	_	Gloss=QUESTION
@@ -236,7 +236,7 @@
 # text = ʔándaʔ kasud'dor sikandan sadan igsulat kato.
 # text_gloss = have.no idea they who write it.
 # text_en = They have no idea who wrote it.
-1	ʔándaʔ	ʔándaʔ	VERB	_	_	0	_	_	Gloss=have.no
+1	ʔándaʔ	ʔándaʔ	VERB	_	_	0	root	_	Gloss=have.no
 2	kasud'dor	kasud'dor	NOUN	_	_	1	obj	_	Gloss=idea
 3	sikandan	sikandan	PRON	_	_	1	nsubj	_	Gloss=they
 4	sadan	sadan	PRON	_	_	5	nmod	_	Gloss=who
@@ -252,7 +252,7 @@
 1	Indin	indin	PRON	_	_	4	nmod	_	Gloss=what
 2	man	man	PART	_	_	4	advmod	_	_
 3	toʔ	toʔ	ADP	_	_	4	case	_	_
-4	igsillig	sillig	VERB	_	_	_	_	Gloss-looking	_
+4	igsillig	sillig	VERB	_	0	root	_	Gloss-looking	_
 5	no	no	PRON	_	_	4	nmod	_	Gloss=you|SpaceAfter=No
 6	?	?	PUNCT	_	_	4	punct	_	Gloss?
 
@@ -261,20 +261,20 @@
 # text = Kadánggan ka man pwede sadon dini?
 # text_gloss = when you can come there?
 # text_en = When do you think you can come?
-1	Kadánggan	kadánggan	ADV	_	_	5	_	_	Gloss=when
-2	ka	ka	PRON	_	_	5	_	_	Gloss=you
-3	man	man	PART	_	_	5	_	_	_
-4	pwede	pwede	ADV	_	_	5	_	_	Gloss=can
-5	sadon	sadon	VERB	_	_	_	_	_	Gloss=come
-6	dini	dini	ADV	_	_	5	_	_	Gloss=there|SpaceAfter=No
-7	?	?	PUNCT	_	_	5	_	_	Gloss=.
+1	Kadánggan	kadánggan	ADV	_	_	5	advmod	_	Gloss=when
+2	ka	ka	PRON	_	_	5	nsubj	_	Gloss=you
+3	man	man	PART	_	_	5	advmod	_	_
+4	pwede	pwede	ADV	_	_	5	advmod	_	Gloss=can
+5	sadon	sadon	VERB	_	_	0	root	_	Gloss=come
+6	dini	dini	ADV	_	_	5	advmod	_	Gloss=there|SpaceAfter=No
+7	?	?	PUNCT	_	_	5	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-15
 # parallel_id = cairo/15
 # text = Igbál’le sikandin ka kotse pero to igsoon din kay bisekleta digbál’li.
 # text_gloss = bought he a cat but brother bike bought.
 # text_en = He bought a car but his brother just a bike.
-1	Igbál’le	bál’li	VERB	_	_	0	_	_	Gloss=bought
+1	Igbál’le	bál’li	VERB	_	_	0	root	_	Gloss=bought
 2	sikandin	sikandin	PRON	_	_	1	nsubj	_	Gloss=he
 3	ka	ka	ADP	_	_	4	case	_	Gloss=a
 4	kotse	kotse	NOUN	_	_	1	obj	_	Gloss=car
@@ -297,7 +297,7 @@
 3	ak	ak	CCONJ	_	_	5	cc	_	Gloss=and
 4	si	si	ADP	_	_	5	case	_	_
 5	Mary	Mary	PROPN	_	_	6	nsubj	_	Gloss=Mary
-6	ággakos	gakos	VERB	_	_	0	_	_	Gloss=hugged
+6	ággakos	gakos	VERB	_	_	0	root	_	Gloss=hugged
 7	ak	ak	CCONJ	_	_	9	cc	_	Gloss=and
 8	pángngá	pángngá	ADV	_	_	9	advmod	_	Gloss=then
 9	igtanan	tanan	VERB	_	_	6	advcl	_	Gloss=left
@@ -312,7 +312,7 @@
 # text_gloss =
 # text_en = She should have been doing her hair but for some reason she wouldn't that day.
 1	Dapat	dapat	ADV	_	_	2	advmod	_	Gloss=should.have.been
-2	piyaan	piyaan	VERB	_	_	0	_	_	Gloss=doing
+2	piyaan	piyaan	VERB	_	_	0	root	_	Gloss=doing
 3	nya	nya	PRON	_	_	2	nmod	_	Gloss=she
 4	toʔ	toʔ	ADP	_	_	5	case	_	_
 5	ulo	ulo	NOUN	_	_	2	nsubj	_	Gloss=hair
@@ -338,7 +338,7 @@
 # text_en = I wasn't able to keep up, because he ran too fast.
 1	ʔándaʔ	ʔándaʔ	ADV	_	_	3	advmod	_	Gloss=was.not
 2	ko	ko	PRON	_	_	3	nsubj	_	Gloss=I
-3	nakaya	kaya	VERB	_	_	0	_	_	Gloss=able
+3	nakaya	kaya	VERB	_	_	0	root	_	Gloss=able
 4	na	na	PART	_	_	5	mark	_	_
 5	lupog	lupog	VERB	_	_	3	ccomp	_	Gloss=keep.up
 6	ka	ka	ADP	_	_	7	case	_	_
@@ -356,7 +356,7 @@
 # text_gloss =
 # text_en = This letter is from Peter and it was delivered yesterday.
 1	Ni	ni	PRON	_	_	2	nmod	_	Gloss=this
-2	sulat	sulat	NOUN	_	_	0	_	_	Gloss=letter
+2	sulat	sulat	NOUN	_	_	0	root	_	Gloss=letter
 3	kay	kay	PART	_	_	2	mark	_	_
 4	tikod	tikod	PART	_	_	2	advmod	_	Gloss=from
 5-6	kak	kak	_	_	_	_	_	_	_
@@ -374,7 +374,7 @@
 # text = Igdakál sikandin diyak Paris, toʔ ulo ka France.
 # text_gloss = grew.up she in Paris, the capital of France.
 # text_en = She grew up in Paris, the capital of France.
-1	Igdakál	_	VERB	_	_	0	_	_	Gloss=grew.up
+1	Igdakál	_	VERB	_	_	0	root	_	Gloss=grew.up
 2	sikandin	_	PRON	_	_	1	nsubj	_	Gloss=she
 3	diyak	_	ADP	_	_	4	case	_	Gloss=in
 4	Paris	_	PROPN	_	_	1	obj	_	Gloss=Paris|SpaceAfter=No
