@@ -35,7 +35,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Aranes, Glyd; Marfa, Geoffrey; Cooke, Mary Jane 
+Contributors: Aranes, Glyd; Cooke, Mary Jane; Marfa, Geoffrey
 Contributing: elsewhere
 Contact: glyd.aranes@gmail.com
 ===============================================================================
