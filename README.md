@@ -15,8 +15,6 @@ Annotation is done manually by Glyd Jun Arañes with Mary Jane Cooke and Geoffre
 ## References
 * DuBois, Carl & DuBois, Lauretta (1991). Tagabawa Grammar Essentials. Summer Insitute of Linguistics
 * Marfa, Geoffrey & Cooke, Mary Jane (2023). “Gemo Ni”: A Grammar Note on Tagabawa Verbs. In Journal of Social Work and Science Education. Vol 4 (2). Page 373-384. E-ISSN 2723-6919, P-ISSN 2746-0827
-  
-* (citation)
 
 
 # Changelog
