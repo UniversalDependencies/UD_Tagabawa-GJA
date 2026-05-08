@@ -1,9 +1,67 @@
+# sent_id = bgs_bunyeyap-01
+# ceb_parallel = bunyeyap-01
+# text = Igbelle sikandan ka umpak.
+# gloss = will.buy they dress.
+# text_en = They will buy a dress.
+1	Igbelle	belle	VERB	_	_	0	root	_	Gloss=will.buy
+2	sikandan	sikandan	PRON	_	_	1	nsubj	_	Gloss=they
+3	ka	ka	ADP	_	_	4	case	_	_
+4	umpak	umpak	NOUN	_	_	1	obj	_	Gloss=dress|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_bunyeyap-03
+# ceb_parallel = bunyeyap-03
+# text = Pila igbayad no?
+# gloss = how.much. did.pay you?
+# text_en = How much did you pay?
+1	Pila	pila	ADV	_	_	2	advmod	_	Gloss=how.much
+2	igbayad	bayad	VERB	_	_	0	root	_	Gloss=did.pay
+3	no	no	PRON	_	_	2	nsubj	_	Gloss=you|SpaceAfter=No
+4	?	?	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = bgs_bunyeyap-04
+# ceb_parallel = bunyeyap-04
+# text = Igtawar ni Maria to bata.
+# gloss = called Maria the child.
+# text_en = Maria called the child.
+1	Igtawar	tawar	VERB	_	_	0	root	_	Gloss=called
+2	ni	ni	ADP	_	_	3	case	_	_
+3	Maria	Maria	PROPN	_	_	1	obj	_	Gloss=Maria
+4	to	to	ADP	_	_	5	case	_	Gloss=the
+5	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_bunyeyap-05
+# ceb_parallel = bunyeyap-05
+# text = Mallayat ni.
+# gloss = tall this.
+# text_en = This is tall.
+1	Mallayat	mallayat	ADJ	_	_	0	root	_	Gloss=tall
+2	ni	ni	PRON	_	_	1	amod	_	Gloss=this|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_bunyeyap-09
+# ceb_parallel = bunyeyap-09
+# text = Dunnakan ni Ditang to kusina parak Tonying.
+# gloss = will.sweep Ditang the kitchen for Tonying.
+# text_en = Ditang will sweep the kitchen for Tonying.
+1	Dunnakan	dunnak	VERB	_	_	0	root	_	Gloss=will.sweep
+2	ni	ni	ADP	_	_	3	case	_	_
+3	Ditang	Ditang	PROPN	_	_	1	obj	_	Gloss=Ditang
+4	to	to	ADP	_	_	5	case	_	Gloss=the
+5	kusina	kusina	NOUN	_	_	1	nsubj	_	Gloss=kitchen
+6-7	parak	_	_	_	_	_	_	_	_
+6	para	para	ADP	_	_	8	case	_	Gloss=for
+7	-k	ka	ADP	_	_	6	fixed	_	_
+8	Tonying	Tonying	PROPN	_	_	1	obl	_	Gloss=Tonying|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
 # sent_id = bgs_cairo-1
 # parallel_id = cairo/1
 # text = ʔIgsulat toʔ baye ka sulat para ka rarak nya .
 # text_gloss = wrote the girl a letter to friend her.
 # text_en = The girl wrote a letter to her friend.
-1	ʔIgsulat	sulat	VERB	_	_	0	_	_	Gloss=wrote
+1	ʔIgsulat	sulat	VERB	_	_	0	root	_	Gloss=wrote
 2	toʔ	toʔ	ADP	_	Case=Nom	3	case	_	Gloss=the
 3	baye	baye	NOUN	_	_	1	nsubj	_	Gloss=girl
 4	ka	ka	ADP	_	Case=Gen	5	case	_	Gloss=a
@@ -20,7 +78,7 @@
 # text_gloss = like raining.
 # text_en = I think that it is raining.
 1	ʔIring	ʔIring	ADV	_	_	2	advmod	_	Gloss=like
-2	gudan	udan	VERB	_	_	0	_	_	Gloss=rain|SpaceAfter=No
+2	gudan	udan	VERB	_	_	0	root	_	Gloss=rain|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-3
@@ -28,7 +86,7 @@
 # text = Igsulayan niyak hunong ka sigupan ak ginám .
 # text_gloss = tried he stop smoking and drinking.
 # text_en = He tried to stop smoking and drinking.
-1	Igsulayan	sulay	VERB	_	_	0	_	_	Gloss=tried
+1	Igsulayan	sulay	VERB	_	_	0	root	_	Gloss=tried
 2-3	niyak	niya	PRON	_	_	_	_	_	_
 2	niya	niya	PRON	_	_	1	nmod	_	Gloss=he
 3	k	ka	ADP	_	_	4	case	_	_
@@ -44,7 +102,7 @@
 # text = Gusto ka'd pano ked ?
 # text_gloss = want you to go?
 # text_en = Do you want to go?
-1	Gusto	gusto	VERB	_	_	0	_	_	Gloss=want
+1	Gusto	gusto	VERB	_	_	0	root	_	Gloss=want
 2-3	ka'd	_	_	_	_	_	_	_	_
 2	ka	ikaw	PRON	_	_	1	nmod	_	Gloss=you
 3	'd	na	PART	_	_	2	mark	_	_
@@ -61,7 +119,7 @@
 # text_en = Sam, open the window!
 1	Sam	Sam	PROPN	_	_	3	vocative	_	Gloss=Sam|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-3	ʔabrihiʔ	ʔabriʔ	VERB	_	Mood=Imp	0	_	_	Gloss=open
+3	ʔabrihiʔ	ʔabriʔ	VERB	_	Mood=Imp	0	root	_	Gloss=open
 4	no	ka	PRON	_	_	6	nmod	_	Gloss=you
 5	toʔ	toʔ	ADP	_	_	6	case	_	Gloss=the
 6	bintana	bintana	NOUN	_	_	3	nsubj	_	Gloss=window|SpaceAfter=No
@@ -72,7 +130,7 @@
 # text = Igsugoʔ nya toʔ sawa din na iglimpyo ka kotse .
 # text_gloss = Told she husband her to wash the car.
 # text_en = She made her husband wash the car.
-1	Igsugoʔ	sugoʔ	VERB	_	_	_	_	_	Gloss=made
+1	Igsugoʔ	sugoʔ	VERB	_	_	0	root	_	Gloss=made
 2	nya	nya	PRON	_	_	1	nmod	_	Gloss=she
 3	toʔ	toʔ	ADP	_	_	4	case	_	_
 4	sawa	sawa	NOUN	_	_	1	nsubj	_	Gloss=husband
@@ -88,7 +146,7 @@
 # text = Igpinturahan ka silingan ni Peter toʔ koral ka malloto .
 # text_gloss = Painted neighbor of Peter the fence red.
 # text_en = Peter's neighbor painted the fence red.
-1	Igpinturahan	pintura	VERB	_	_	0	_	_	Gloss=painted
+1	Igpinturahan	pintura	VERB	_	_	0	root	_	Gloss=painted
 2	ka	ka	ADP	_	_	3	case	_	_
 3	silingan	silingan	NOUN	_	_	1	obj	_	Gloss=neighbor
 4	ni	ni	ADP	_	_	5	case	_	Gloss=of
@@ -105,7 +163,7 @@
 # text_gloss = dad my cooler the dad yours.
 # text_en = My dad is cooler than yours.
 1	Toʔ	toʔ	ADP	_	_	2	case	_	_
-2	apa	apa	NOUN	_	_	0	_	_	Gloss=dad
+2	apa	apa	NOUN	_	_	0	root	_	Gloss=dad
 3	ko	ko	PRON	_	_	2	nmod	_	Gloss=my
 4	mas	mas	ADV	_	_	5	advmod	_	_
 5	kuyaw	kuyaw	ADJ	_	_	2	amod	_	Gloss=cool
@@ -120,7 +178,7 @@
 # text = Igkadaug si Mary ka bronze , si Peter ka silver , ak si Jane ka gold .
 # text_gloss = won Mary the bronze, Peter the silver, and Jane the gold.
 # text_en = Mary won bronze, Peter silver, and Jane gold.
-1	Igkadaug	daug	VERB	_	_	0	_	_	Gloss=won
+1	Igkadaug	daug	VERB	_	_	0	root	_	Gloss=won
 2	si	si	ADP	_	_	3	case	_	_
 3	Mary	Mary	PROPN	_	_	1	nsubj	_	Gloss=Mary
 4	ka	ka	ADP	_	_	5	case	_	Gloss=the
@@ -144,7 +202,7 @@
 # text_gloss = Iguazo QUESTION big or small country?
 # text_en = Is Iguazu a big or a small country?
 1	Toʔ	toʔ	ADP	_	_	2	case	_	_
-2	Iguazo	Iguazo	PROPN	_	_	0	_	_	Gloss=Iguazo
+2	Iguazo	Iguazo	PROPN	_	_	0	root	_	Gloss=Iguazo
 3	ba	ba	PART	_	_	2	advmod	_	Gloss=QUESTION
 4	kay	kay	PART	_	_	5	mark	_	_
 5	dakál	dakál	ADJ	_	_	2	amod	_	Gloss=big
@@ -170,7 +228,7 @@
 9-10	pwedeng	_	_	_	_	_	_	_	_
 9	pwede	pwede	PART	_	_	11	advmod	_	Gloss=could.be
 10	na	na	PART	_	_	9	mark	_	Gloss=LINK
-11	mapili	pili	VERB	_	_	0_	_	_	Gloss=selected|SpaceAfter=No
+11	mapili	pili	VERB	_	_	0	root	_	Gloss=selected|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-12
