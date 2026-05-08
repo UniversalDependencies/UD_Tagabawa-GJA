@@ -5,7 +5,7 @@ UD_Tagabawa_GJA is a collection of annotated Bagobo-Tagabawa sentences taken fro
 
 # Introduction
 
-Annotation is done manually by Glyd Jun Arañes with Mary Jane Cooke and Geoffrey Marfa. This treebank is part of Glyd's research for his PhD in Language Studies at the University of Helsinki.
+Annotation is done manually by Glyd Jun Arañes with Mary Jane Cooke and Geoffrey Marfa. This treebank is also part of Glyd's research for his PhD in Language Studies at the University of Helsinki.
 
 
 # Acknowledgments
@@ -13,7 +13,9 @@ Annotation is done manually by Glyd Jun Arañes with Mary Jane Cooke and Geoffre
 ...
 
 ## References
-
+* DuBois, Carl & DuBois, Lauretta (1991). Tagabawa Grammar Essentials. Summer Insitute of Linguistics
+* Marfa, Geoffrey & Cooke, Mary Jane (2023). “Gemo Ni”: A Grammar Note on Tagabawa Verbs. In Journal of Social Work and Science Education. Vol 4 (2). Page 373-384. E-ISSN 2723-6919, P-ISSN 2746-0827
+  
 * (citation)
 
 
@@ -35,8 +37,8 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Aranes, Glyd
-Contributing: here
+Contributors: Aranes, Glyd; Marfa, Geoffrey & Cooke; Mary Jane 
+Contributing: elsewhere
 Contact: glyd.aranes@gmail.com
 ===============================================================================
 </pre>
