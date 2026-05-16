@@ -3,9 +3,9 @@
 # text = Igbelle sikandan ka umpak.
 # gloss = will.buy they dress.
 # text_en = They will buy a dress.
-1	Igbelle	belle	VERB	_	_	0	root	_	Gloss=will.buy
-2	sikandan	sikandan	PRON	_	_	1	nsubj	_	Gloss=they
-3	ka	ka	ADP	_	_	4	case	_	_
+1	Igbelle	belle	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	0	root	_	Gloss=will.buy
+2	sikandan	sikandan	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they
+3	ka	ka	ADP	_	Case=Gen	4	case	_	_
 4	umpak	umpak	NOUN	_	_	1	obj	_	Gloss=dress|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -14,9 +14,9 @@
 # text = Pila igbayad no?
 # gloss = how.much. did.pay you?
 # text_en = How much did you pay?
-1	Pila	pila	ADV	_	_	2	advmod	_	Gloss=how.much
-2	igbayad	bayad	VERB	_	_	0	root	_	Gloss=did.pay
-3	no	no	PRON	_	_	2	nsubj	_	Gloss=you|SpaceAfter=No
+1	Pila	pila	ADV	_	PronType=Int	2	advmod	_	Gloss=how.much
+2	igbayad	bayad	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=did.pay
+3	no	no	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Gloss=you|SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bgs_bunyeyap-04
@@ -24,10 +24,10 @@
 # text = Igtawar ni Maria to bata.
 # gloss = called Maria the child.
 # text_en = Maria called the child.
-1	Igtawar	tawar	VERB	_	_	0	root	_	Gloss=called
-2	ni	ni	ADP	_	_	3	case	_	_
-3	Maria	Maria	PROPN	_	_	1	obj	_	Gloss=Maria
-4	to	to	ADP	_	_	5	case	_	Gloss=the
+1	Igtawar	tawar	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=called
+2	ni	ni	ADP	_	Case=Gen	3	case	_	_
+3	Maria	Maria	PROPN	_	Gender=Fem	1	obj	_	Gloss=Maria
+4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
 5	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -36,8 +36,8 @@
 # text = Mallayat ni.
 # gloss = tall this.
 # text_en = This is tall.
-1	Mallayat	mallayat	ADJ	_	_	0	root	_	Gloss=tall
-2	ni	ni	PRON	_	_	1	amod	_	Gloss=this|SpaceAfter=No
+1	Mallayat	mallayat	ADJ	_	Degree=Pos	0	root	_	Gloss=tall
+2	ni	ni	PRON	_	Deixis=Prox|PronType=Dem	1	amod	_	Gloss=this|SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_bunyeyap-09
@@ -45,15 +45,15 @@
 # text = Dunnakan ni Ditang to kusina parak Tonying.
 # gloss = will.sweep Ditang the kitchen for Tonying.
 # text_en = Ditang will sweep the kitchen for Tonying.
-1	Dunnakan	dunnak	VERB	_	_	0	root	_	Gloss=will.sweep
-2	ni	ni	ADP	_	_	3	case	_	_
-3	Ditang	Ditang	PROPN	_	_	1	obj	_	Gloss=Ditang
-4	to	to	ADP	_	_	5	case	_	Gloss=the
+1	Dunnakan	dunnak	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=will.sweep
+2	ni	ni	ADP	_	Case=Gen	3	case	_	_
+3	Ditang	Ditang	PROPN	_	Gender=Fem	1	obj	_	Gloss=Ditang
+4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
 5	kusina	kusina	NOUN	_	_	1	nsubj	_	Gloss=kitchen
 6-7	parak	_	_	_	_	_	_	_	_
 6	para	para	ADP	_	_	8	case	_	Gloss=for
-7	-k	ka	ADP	_	_	6	fixed	_	_
-8	Tonying	Tonying	PROPN	_	_	1	obl	_	Gloss=Tonying|SpaceAfter=No
+7	-k	ka	ADP	_	Case=Gen	6	fixed	_	_
+8	Tonying	Tonying	PROPN	_	Gender=Mas	1	obl	_	Gloss=Tonying|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-1
