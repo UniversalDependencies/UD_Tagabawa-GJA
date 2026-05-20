@@ -64,8 +64,22 @@
 # tatoeba_author = Josefwintzent
 1	Kadiggeran	diggeran	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pas	0	root	_	Gloss=love
 2	ak	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
-3	neko	neko	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Pr	1	obj	_	Gloss=you|SpaceAfter=No
+3	neko	neko	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	obj	_	Gloss=you|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_tatoeba-17
+# ceb_parallel = tatoeba-17
+# text = Inda ad gustok neko. 
+# gloss =  not anymore like I you.
+# text_en = I don't like you anymore.
+# tatoeba_author = Josefwintzent
+1	Inda	inda	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
+2	ad	ad	ADV	_	_	3	advmod	_	Gloss=anymore
+3-4	gustok	_	_	_	_	_	_	_	_
+3	gusto	gusto	VERB	_	_	0	root	_	Gloss=like
+4	-k	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I
+5	neko	neko	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	obj	_	Gloss=you|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-1
 # parallel_id = cairo/1
