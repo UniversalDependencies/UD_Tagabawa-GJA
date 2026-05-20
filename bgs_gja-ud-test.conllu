@@ -56,6 +56,17 @@
 8	Tonying	Tonying	PROPN	_	Gender=Masc	1	obl	_	Gloss=Tonying|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
+# sent_id = bgs_tatoeba-16
+# ceb_parallel = tatoeba-16
+# text = Kadiggeran ak neko. 
+# gloss = love I you.
+# text_en = I love you.
+# tatoeba_author = Josefwintzent
+1	Kadiggeran	diggeran	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pas	0	root	_	Gloss=love
+2	ak	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+3	neko	neko	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Pr	1	obj	_	Gloss=you|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
 # sent_id = bgs_cairo-1
 # parallel_id = cairo/1
 # text = ʔIgsulat toʔ baye ka sulat para ka rarak nya .
