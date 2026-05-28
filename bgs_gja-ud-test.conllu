@@ -56,6 +56,17 @@
 8	Tonying	Tonying	PROPN	_	Gender=Masc	1	obl	_	Gloss=Tonying|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
+# sent_id = bgs_tatoeba-10
+# ceb_parallel = tatoeba-10
+# text = Dun aso ke. 
+# gloss =  have dog we.
+# text_en = We have a dog.
+# tatoeba_author = Josefwintzent
+1	Dun	dun	VERB	_	_	0	root	_	Gloss=have
+2	aso	ako	NOUN	_	_	1	obj	_	Gloss=dog
+3	ke	ke	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	Gloss=we|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
 # sent_id = bgs_tatoeba-16
 # ceb_parallel = tatoeba-16
 # text = Kadiggeran ak neko. 
@@ -80,6 +91,61 @@
 4	-k	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I
 5	neko	neko	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	obj	_	Gloss=you|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = bgs_tatoeba-45
+# ceb_parallel = tatoeba-45
+# text = Indin ngadan no?
+# gloss = what name your?
+# text_en = What is your name?
+# tatoeba_author = Josefwintzent
+1	Indin	indin	PRON	_	PronType=Int	0	root	_	Gloss=what
+2	ngadan	ngadan	NOUN	_	_	1	nsubj	_	Gloss=name
+3	no	no	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Gloss=your|SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-46
+# ceb_parallel = tatoeba-46
+# text = Igmenno ka? 
+# gloss = doing.what you?
+# text_en = What are you doing?
+# tatoeba_author = Josefwintzent
+1	Igmenno	menno	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=What
+2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-47
+# ceb_parallel = tatoeba-47
+# text = Unsa na man?
+# gloss = what?
+# text_en = What is it?
+# tatoeba_author = Josefwintzent
+1	Indin	indin	PRON	_	_	0	root	_	Gloss=What
+2	din	din	ADV	_	_	1	advmod	_	_
+3	man	man	PART	_	_	1	advmod	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-50
+# ceb_parallel = tatoeba-50
+# text = Menda kag pano?
+# gloss = where you going?
+# text_en = Where are you going?
+# tatoeba_author = Josefwintzent
+1	Menda	menda	ADV	_	PronType=Int	3	advmod	_	Gloss=Where
+2	kag	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you
+3	pano	pano	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=going|SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	Gloss?
+
+# sent_id = bgs_tatoeba-51
+# ceb_parallel = tatoeba-51
+# text = Duwa toʔ mengko ko. 
+# gloss = two have cats two.
+# text_en = I have two cats.
+# tatoeba_author = Josefwintzent
+1	Duwa	duwa	NUM	_	_	3	nummod	_	Gloss=two
+2	toʔ	toʔ	ADP	_	Case=Nom	3	case	_	_
+3	mengko	mengko	NOUN	_	_	0	root	_	Gloss=cats
+4	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nmod	_	Gloss=I|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-1
 # parallel_id = cairo/1
