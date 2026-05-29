@@ -149,6 +149,71 @@
 4	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nmod	_	Gloss=I|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
+# sent_id = bgs_tatoeba-54
+# ceb_parallel = tatoeba-54
+# text = Sadan ka?
+# gloss = who you?
+# text_en = Who are you?
+# tatoeba_author = Josefwintzent
+1	Sadan	sadan	PRON	_	PronType=Int	0	root	_	Gloss=Who
+2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-55
+# ceb_parallel = tatoeba-55
+# text = Dire ka doktor.
+# gloss = not I doctor.
+# text_en = I am not a doctor.
+# tatoeba_author = Josefwintzent
+1	Dire	dire	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
+2	ka	ka	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	0	root	_	Gloss=I
+3	doktor	doktor	NOUN	_	_	2	nsubj	_	Gloss=doctor|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = bgs_tatoeba-61
+# ceb_parallel = tatoeba-61
+# text = Indin gusto mo? 
+# gloss = what want you?
+# text_en = What do you want?
+# tatoeba_author = Josefwintzent
+1	Indin	indin	PRON	_	PronType=Int	0	root	_	Gloss=What
+2	gusto	gusto	NOUN	_	_	1	obj	_	Gloss=want
+3	mo	mo	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	nmod	_	Gloss=you|SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-64
+# ceb_parallel = tatoeba-64
+# text = Yaka ka guol.
+# gloss = do.not worry.
+# text_en = Don't worry.
+# tatoeba_author = Josefwintzent
+1	Yaka	yaka	PART	_	_	3	advmod	_	Gloss=do.not
+2	ka	ka	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=you
+3	guol	guol	VERB	_	_	0	root	_	Gloss=worry|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = bgs_tatoeba-70
+# ceb_parallel = tatoeba-70
+# text = Manan man seggo ka? 
+# gloss = why are crying you?
+# text_en = Why are you crying?
+# tatoeba_author = Josefwintzent
+1	Manan	manan	ADV	_	PronType=Int	3	advmod	_	Gloss=Why
+2	man	man	PART	_	_	3	advmod	_	_
+3	seggo	seggo	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=crying
+4	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|SpaceAfter=No
+5	?	?	PUNCT	_	_	3	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-79
+# ceb_parallel = tatoeba-79
+# text = Kaballosan a.
+# gloss = am-hungry I.
+# text_en = I am hungry.
+# tatoeba_author = Josefwintzent
+1	Kaballosan	ballos	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=am.hungry
+2	a	a	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
 # sent_id = bgs_cairo-1
 # parallel_id = cairo/1
 # text = ʔIgsulat toʔ baye ka sulat para ka rarak nya .
