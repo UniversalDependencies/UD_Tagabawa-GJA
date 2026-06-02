@@ -579,7 +579,7 @@
 # sent_id = bgs_cairo-19
 # parallel_id = cairo/19
 # text = Ni sulat kay tikod kak Peter ak ággatid ni bani.
-# text_gloss =
+# text_gloss = this letter is from Peter and was.delivered it yesterday.
 # text_en = This letter is from Peter and it was delivered yesterday.
 1	Ni	ni	PRON	_	_	2	nmod	_	Gloss=this
 2	sulat	sulat	NOUN	_	_	0	root	_	Gloss=letter
