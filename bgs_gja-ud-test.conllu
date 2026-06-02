@@ -587,7 +587,7 @@
 4	tikod	tikod	PART	_	_	2	advmod	_	Gloss=from
 5-6	kak	kak	_	_	_	_	_	_	_
 5	ka	ka	ADP	_	_	7	case	_	_
-6	-k	-k	PART	_	_	7	case	_	_
+6	-k	ak	PART	_	_	7	case	_	_
 7	Peter	Peter	PROPN	_	_	2	obl	_	Gloss=Peter
 8	ak	ak	CCONJ	_	_	9	cc	_	_
 9	ággatid	ággatid	VERB	_	_	7	conj	_	Gloss=was.delivered
