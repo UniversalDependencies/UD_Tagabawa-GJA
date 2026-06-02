@@ -600,13 +600,13 @@
 # text = Igdakál sikandin diyak Paris, toʔ ulo ka France.
 # text_gloss = grew.up she in Paris, the capital of France.
 # text_en = She grew up in Paris, the capital of France.
-1	Igdakál	_	VERB	_	_	0	root	_	Gloss=grew.up
-2	sikandin	_	PRON	_	_	1	nsubj	_	Gloss=she
-3	diyak	_	ADP	_	_	4	case	_	Gloss=in
-4	Paris	_	PROPN	_	_	1	obj	_	Gloss=Paris|SpaceAfter=No
-5	,	_	PUNCT	_	_	1	punct	_	Gloss=,
-6	toʔ	_	ADP	_	_	7	case	_	Gloss=the
-7	ulo	_	NOUN	_	_	4	parataxis	_	Gloss=capital
-8	ka	_	ADP	_	_	9	case	_	Gloss=of
-9	France	_	PROPN	_	_	7	obj	_	Gloss=France|SpaceAfter=No
-10	.	_	PUNCT	_	_	7	punct	_	Gloss=.
+1	Igdakál	dakál	VERB	_	_	0	root	_	Gloss=grew.up
+2	sikandin	sikandin	PRON	_	_	1	nsubj	_	Gloss=she
+3	diyak	diyak	ADP	_	_	4	case	_	Gloss=in
+4	Paris	Paris	PROPN	_	_	1	obj	_	Gloss=Paris|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+6	toʔ	toʔ	ADP	_	_	7	case	_	Gloss=the
+7	ulo	ulo	NOUN	_	_	4	parataxis	_	Gloss=capital
+8	ka	ka	ADP	_	_	9	case	_	Gloss=of
+9	France	France	PROPN	_	_	7	obj	_	Gloss=France|SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	Gloss=.
