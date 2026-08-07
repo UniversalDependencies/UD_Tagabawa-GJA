@@ -610,3 +610,117 @@
 8	ka	ka	ADP	_	_	9	case	_	Gloss=of
 9	France	France	PROPN	_	_	7	obj	_	Gloss=France|SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = bgs_dubois-01
+# text = Marag ágotep to bata.
+# gloss = always talking the child.
+# text_en = The child was always talking.
+# text_original = Marag ágotep to bata.
+1	Marag	Marag	ADV	_	_	2	advmod	_	Gloss=always
+2	ágotep	otep	VERB	_	_	0	root	_	Gloss=was.talking
+3	to	to	ADP	_	_	4	case	_	Gloss=the
+4	bata	bata	NOUN	_	_	2	nsubj	_	Gloss=child|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = bgs_dubois-02
+# text = Di ki tumákkás.
+# gloss = not we accompany.
+# text_en = We will not accompany [him].
+# text_original = Dì ki tumákkás.
+1	Di	di	ADV	_	_	3	advmod	_	Gloss=no
+2	ki	ki	PRON	_	_	3	nsubj	_	Gloss=we
+3	tumákkás	tumákkás	VERB	_	_	0	root	_	Gloss=will.accompany|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = bgs_dubois-03
+# text = Yako ágranu asta ágsággo.
+# gloss = do.not be.sad and be.crying.
+# text_en = Don't be sad and be crying.
+# text_original = Yakó ágranu asta ágsággó.
+1	Yako	yako	ADV	_	_	2	advmod	_	Gloss=do.not
+2	ágranu	ranu	VERB	_	_	0	root	_	Gloss=be.sad
+3	asta	asta	CCONJ	_	_	4	cc	_	Gloss=and
+4	ágsággo	sággo	VERB	_	_	2	cc	_	Gloss=be.crying|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = bgs_dubois-04
+# text = Uin ku ilusán ni gátták ku.
+# gloss = 
+# text_en = I massaged my own stomach.
+# text_original = Uin ku ilusán ni gátták ku.
+1	Uin	uin	VERB	_	_	0	root	_	_
+2	ku	ku	PRON	_	_	1	nsubj	_	Gloss=I
+3	ilusán	ilusán	VERB	_	_	1	advmod	_	Gloss=massage
+4	ni	ni	ADP	_	_	5	case	_	_
+5	gátták	gátták	NOUN	_	_	1	obj	_	Gloss=stomach
+6	ku	ku	PRON	_	_	5	nmod	_	Gloss=my|SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_dubois-05
+# text = Di ked pakakagi.
+# gloss = 
+# text_en = We were unable to speak.
+# text_original = Dì kéd pakakagi
+1	Di	di	ADV	_	_	4	advmod	_	Gloss=not
+2-3	ked	_	_	_	_	_	_	_	_
+2	ke	ke	PRON	_	_	4	nmod	_	_
+3	-d	na	ADV	_	_	2	advmod	_	_
+4	pakakagi	kagi	VERB	_	_	0	root	_	Gloss=speak|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+# sent_id = bgs_dubois-06
+# text = Dakál e misira.
+# gloss = 
+# text_en = Many [crops] have been destroyed.
+# text_original = Dakál é misirà.
+1	Dakál	dakál	DET	_	_	3	det	_	Gloss=many
+2	e	e	ADP	_	_	3	case	_	_
+3	misira	misira	VERB	_	_	0	root	_	Gloss=have.been.destroyed|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = bgs_dubois-07
+# text = Misoko áskandin.
+# gloss = 
+# text_en = She was angry.
+# text_original = Misókó áskandin.
+1	Misoko	_	VERB	_	_	0	root	_	GLoss=was.angry
+2	áskandin	_	PRON	_	_	1	nsubj	_	Gloss=she|SpaceAfter=No
+3	.	_	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_dubois-08
+# text = To ngadan ku si Umanan Lambac.
+# gloss = 
+# text_en = My name is Umanan Lambac.
+# text_original = Tô ngadan ku si Umanan Lambac.
+1	To	to	ADP	_	_	2	case	_	_
+2	ngadan	ngadan	NOUN	_	_	0	root	_	Gloss=name
+3	ku	ku	PRON	_	_	2	nmod	_	Gloss=my
+4	si	si	ADP	_	_	5	case	_	_
+5	Umanan	Umanan	PROPN	_	_	2	obj	_	Gloss=Umanan
+6	Lambac	Lambac	PROPN	_	_	5	flat	_	Gloss=Lambac|SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = bgs_dubois-09
+# text = Áskandin e mange ka wayig.
+# gloss = 
+# text_en = He is the one who will fetch water.
+# text_original = Áskandin é mangé ka wayig.
+1	Áskandin	áskandin	PRON	_	_	3	nsubj	_	Gloss=He
+2	e	e	ADP	_	_	3	case	_	_
+3	mange	mange	VERB	_	_	_	_	_	Gloss=fetch
+4	ka	ka 	ADP	_	_	5	case	_	_
+5	wayig	wayig	NOUN	_	_	3	obj	_	Gloss=water|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = bgs_dubois-10
+# text = Duwán amayánnán kato ámma ku.
+# gloss = 
+# text_en = My father has an uncle.
+# text_original = Duwán amayánnán katô ámmà ku.
+1	Duwán	duwán	VERB	_	_	0	root	_	Gloss=has
+2	amayánnán	amayánnán	NOUN	_	_	1	obj	_	Gloss=uncle
+3	kato	kato	ADP	_	_	2	case	_	_
+4	ámma	ámma	NOUN	_	_	1	nsubj	_	Gloss=father
+5	ku	ku	PRON	_	_	4	nmod	_	Gloss=my|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
