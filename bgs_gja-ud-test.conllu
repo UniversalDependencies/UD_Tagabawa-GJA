@@ -729,20 +729,20 @@
 # gloss = 
 # text_en = I did not yet exist [i.e., had not yet been born].
 # text_original = Ándà a pa.
-1	Ánda	_	_	_	_	_	_	_	_
-2	a	_	_	_	_	_	_	_	_
-3	pa	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Ánda	ánda	VERB	_	_	0	_	_	Gloss=did.not
+2	a	a	PRON	_	_	1	nsubj	_	Gloss=I
+3	pa	pa	PART	_	_	1	advmod	_	Gloss=yet|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-12
 # text = Ánda salapi ku.
 # gloss = 
 # text_en = I have no money.
 # text_original = Ándà salapì ku.
-1	Ánda	_	_	_	_	_	_	_	_
-2	salapi	_	_	_	_	_	_	_	_
-3	ku	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Ánda	ánda	VERB	_	_	0	root	_	Gloss=have.no
+2	salapi	salapi	NOUN	_	_	1	obj	_	Gloss=money
+3	ku	ku	PRON	_	_	1	nmod	_	Gloss=my|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-13
 # text = To tábbu di duwán ágmammis.
