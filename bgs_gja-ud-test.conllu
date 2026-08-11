@@ -802,11 +802,11 @@
 # gloss = 
 # text_en = When did the Japanese arrive?
 # text_original = Kadángngan igdunggù tô Hapun?
-1	Kadángngan	_	_	_	_	_	_	_	_
-2	igdunggu	_	_	_	_	_	_	_	_
-3	to	_	_	_	_	_	_	_	_
-4	Hapun	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+1	Kadángngan	kadángngan	ADV	_	_	2	advmod	_	Gloss=when
+2	igdunggu	dunggu	VERB	_	_	0	root	_	Gloss=arrive
+3	to	to	ADP	_	_	4	case	_	_
+4	Hapun	Hapun	PROPN	_	_	2	nsubj	_	Gloss=Japanese|SpaceAfter=No
+5	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
 # sent_id = bgs_dubois-19
 # text = Ángngan e kadugayan?
