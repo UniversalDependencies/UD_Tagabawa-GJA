@@ -749,33 +749,33 @@
 # gloss = 
 # text_en = The sugarcane will not have sweetness.
 # text_original = Tô tábbu dì duwán ágmammis.
-1	To	_	_	_	_	_	_	_	_
-2	tábbu	_	_	_	_	_	_	_	_
-3	di	_	_	_	_	_	_	_	_
-4	duwán	_	_	_	_	_	_	_	_
-5	ágmammis	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	To	to	ADP	_	_	2	case	_	Gloss=The
+2	tábbu	tábbu	NOUN	_	_	4	nsubj	_	Gloss=sugarcane
+3	di	di	PART	_	_	4	advmod	_	Gloss=not
+4	duwán	duwán	VERB	_	_	0	root	_	Gloss=will.have
+5	ágmammis	ágmammis	NOUN	_	_	4	obj	_	Gloss=sweetness|SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-14
 # text = Állowállos kandin ágpadigus.
 # gloss = 
 # text_en = He bathes daily.
 # text_original = Állówállós kandin ágpadigus.
-1	Állowállos	_	_	_	_	_	_	_	_
-2	kandin	_	_	_	_	_	_	_	_
-3	ágpadigus	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Állowállos	állowállos	VERB	_	_	0	root	_	Gloss=bathes
+2	kandin	kandin	PRON	_	_	1	nsubj	_	Gloss=he
+3	ágpadigus	ágpadigus	ADV	_	_	1	advmod	_	Gloss=daily|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-15
 # text = Kannun dán si kuwa.
 # gloss = 
 # text_en = Whats-his-name is already here.
 # text_original = Kannun dán si kuwa.
-1	Kannun	_	_	_	_	_	_	_	_
-2	dán	_	_	_	_	_	_	_	_
-3	si	_	_	_	_	_	_	_	_
-4	kuwa	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Kannun	kannun	ADV	_	_	0	root	_	Gloss=here
+2	dán	dán	PRON	_	_	1	nmod	_	_
+3	si	si	ADP	_	_	4	case	_	_
+4	kuwa	kuwa	NOUN	_	_	1	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-16
 # text = Mánda ka saru?
