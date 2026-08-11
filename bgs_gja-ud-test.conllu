@@ -813,21 +813,21 @@
 # gloss = 
 # text_en = How far is the length of time?
 # text_original = Ángngan é kadugayan?
-1	Ángngan	_	_	_	_	_	_	_	_
-2	e	_	_	_	_	_	_	_	_
-3	kadugayan	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
+1	Ángngan	ángngan	ADV	_	_	0	root	_	Gloss=how.far
+2	e	e	ADP	_	_	3	case	_	_
+3	kadugayan	kadugayan	NOUN	_	_	1	nsubj	_	Gloss=length.of.time|SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = bgs_dubois-20
 # text = Kumusta to apu nu?
 # gloss = 
 # text_en = How is your grandparent/grandchild?
 # text_original = Kumusta tô apù nu?
-1	Kumusta	_	_	_	_	_	_	_	_
-2	to	_	_	_	_	_	_	_	_
-3	apu	_	_	_	_	_	_	_	_
-4	nu	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+1	Kumusta	kumusta	PART	_	_	0	root	_	Gloss=how
+2	to	to	ADP	_	_	3	case	_	_
+3	apu	apu	NOUN	_	_	1	nsubj	_	Gloss=grandparent/grandchild
+4	nu	nu	PRON	_	_	3	nmod	_	Gloss=your|SpaceAfter=No
+5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = bgs_dubois-21
 # text = Kumusta ko tut Manila?
