@@ -37,6 +37,6 @@ Features: manual native
 Relations: manual native
 Contributors: Aranes, Glyd; Cooke, Mary Jane; Marfa, Geoffrey
 Contributing: elsewhere
-Contact: glyd.aranes@gmail.com
+Contact: glyd.aranes@helsinki.fi; glyd.aranes@gmail.com
 ===============================================================================
 </pre>
