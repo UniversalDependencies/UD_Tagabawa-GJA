@@ -724,3 +724,166 @@
 5	ku	ku	PRON	_	_	4	nmod	_	Gloss=my|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
+# sent_id = bgs_dubois-11
+# text = Ánda a pa.
+# gloss = 
+# text_en = I did not yet exist [i.e., had not yet been born].
+# text_original = Ándà a pa.
+1	Ánda	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-12
+# text = Ánda salapi ku.
+# gloss = 
+# text_en = I have no money.
+# text_original = Ándà salapì ku.
+1	Ánda	_	_	_	_	_	_	_	_
+2	salapi	_	_	_	_	_	_	_	_
+3	ku	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-13
+# text = To tábbu di duwán ágmammis.
+# gloss = 
+# text_en = The sugarcane will not have sweetness.
+# text_original = Tô tábbu dì duwán ágmammis.
+1	To	_	_	_	_	_	_	_	_
+2	tábbu	_	_	_	_	_	_	_	_
+3	di	_	_	_	_	_	_	_	_
+4	duwán	_	_	_	_	_	_	_	_
+5	ágmammis	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-14
+# text = Állowállos kandin ágpadigus.
+# gloss = 
+# text_en = He bathes daily.
+# text_original = Állówállós kandin ágpadigus.
+1	Állowállos	_	_	_	_	_	_	_	_
+2	kandin	_	_	_	_	_	_	_	_
+3	ágpadigus	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-15
+# text = Kannun dán si kuwa.
+# gloss = 
+# text_en = Whats-his-name is already here.
+# text_original = Kannun dán si kuwa.
+1	Kannun	_	_	_	_	_	_	_	_
+2	dán	_	_	_	_	_	_	_	_
+3	si	_	_	_	_	_	_	_	_
+4	kuwa	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-16
+# text = Mánda ka saru?
+# gloss = 
+# text_en = Where are you going?
+# text_original = Mánda ka saru?
+1	Mánda	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	saru	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-17
+# text = Kadángngan ko mano?
+# gloss = 
+# text_en = When will you leave?
+# text_original = Kadángngan kó manó?
+1	Kadángngan	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	mano	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-18
+# text = Kadángngan igdunggu to Hapun?
+# gloss = 
+# text_en = When did the Japanese arrive?
+# text_original = Kadángngan igdunggù tô Hapun?
+1	Kadángngan	_	_	_	_	_	_	_	_
+2	igdunggu	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	Hapun	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-19
+# text = Ángngan e kadugayan?
+# gloss = 
+# text_en = How far is the length of time?
+# text_original = Ángngan é kadugayan?
+1	Ángngan	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	kadugayan	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-20
+# text = Kumusta to apu nu?
+# gloss = 
+# text_en = How is your grandparent/grandchild?
+# text_original = Kumusta tô apù nu?
+1	Kumusta	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	apu	_	_	_	_	_	_	_	_
+4	nu	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-21
+# text = Kumusta ko tut Manila?
+# gloss = 
+# text_en = How were you in Manila?
+# text_original = Kumusta kó tut Manilà?
+1	Kumusta	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	tut	_	_	_	_	_	_	_	_
+4	Manila	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-22
+# text = Batad ku asta ámme ku isira.
+# gloss = 
+# text_en = My corn and my rice were destroyed.
+# text_original = Batad ku asta ámmé ku isirà.
+1	Batad	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	asta	_	_	_	_	_	_	_	_
+4	ámme	_	_	_	_	_	_	_	_
+5	ku	_	_	_	_	_	_	_	_
+6	isira	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-23
+# text = Magunawa e kallayatan ta.
+# gloss = 
+# text_en = Our height is the same.
+# text_original = Magunawa é kallayatan ta.
+1	Magunawa	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	kallayatan	_	_	_	_	_	_	_	_
+4	ta	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-24
+# text = Mallayat áskandin kanak.
+# gloss = 
+# text_en = He is taller than I am.
+# text_original = Mallayat áskandin kanak.
+1	Mallayat	_	_	_	_	_	_	_	_
+2	áskandin	_	_	_	_	_	_	_	_
+3	kanak	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-25
+# text = Ágkan to mga bisita iring na babuy.
+# gloss = 
+# text_en = The visitors ate like pigs.
+# text_original = Ágkan tô mga bisita iring na babuy.
+1	Ágkan	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	mga	_	_	_	_	_	_	_	_
+4	bisita	_	_	_	_	_	_	_	_
+5	iring	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	babuy	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
