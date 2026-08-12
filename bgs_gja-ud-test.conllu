@@ -858,32 +858,32 @@
 # gloss = 
 # text_en = Our height is the same.
 # text_original = Magunawa é kallayatan ta.
-1	Magunawa	_	_	_	_	_	_	_	_
-2	e	_	_	_	_	_	_	_	_
-3	kallayatan	_	_	_	_	_	_	_	_
-4	ta	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Magunawa	magunawa	ADJ	_	_	0	root	_	Gloss=same
+2	e	e	ADP	_	_	3	case	_	_
+3	kallayatan	kallayatan	NOUN	_	_	1	nsubj	_	Gloss=height
+4	ta	ta	PRON	_	_	3	nmod	_	Gloss=our|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-24
 # text = Mallayat áskandin kanak.
 # gloss = 
 # text_en = He is taller than I am.
 # text_original = Mallayat áskandin kanak.
-1	Mallayat	_	_	_	_	_	_	_	_
-2	áskandin	_	_	_	_	_	_	_	_
-3	kanak	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mallayat	_	ADJ	_	_	0	root	_	Gloss=taller
+2	áskandin	_	PRON	_	_	1	nsubj	_	Gloss=he
+3	kanak	kanak	PRON	_	_	1	obj	_	Gloss=I|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-25
 # text = Ágkan to mga bisita iring na babuy.
 # gloss = 
 # text_en = The visitors ate like pigs.
 # text_original = Ágkan tô mga bisita iring na babuy.
-1	Ágkan	_	_	_	_	_	_	_	_
-2	to	_	_	_	_	_	_	_	_
-3	mga	_	_	_	_	_	_	_	_
-4	bisita	_	_	_	_	_	_	_	_
-5	iring	_	_	_	_	_	_	_	_
-6	na	_	_	_	_	_	_	_	_
-7	babuy	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Ágkan	ágkan	VERB	_	_	0	root	_	Gloss=ate
+2	to	to	ADP	_	_	4	case	_	_
+3	mga	mga	DET	_	_	4	det	_	Gloss=PLUR
+4	bisita	bisita	NOUN	_	_	1	nsubj	_	Gloss=visitors
+5	iring	iring	ADV	_	_	7	advmod	_	Gloss=like
+6	na	na	PART	_	_	7	mark	_	Gloss=LINK
+7	babuy	babuy	NOUN	_	_	1	advcl	_	Gloss=pigs|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
