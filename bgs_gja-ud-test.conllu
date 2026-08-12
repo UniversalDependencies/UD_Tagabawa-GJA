@@ -845,13 +845,13 @@
 # gloss = 
 # text_en = My corn and my rice were destroyed.
 # text_original = Batad ku asta ámmé ku isirà.
-1	Batad	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	asta	_	_	_	_	_	_	_	_
-4	ámme	_	_	_	_	_	_	_	_
-5	ku	_	_	_	_	_	_	_	_
-6	isira	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Batad	batad	NOUN	_	_	6	nsubj	_	Gloss=corn
+2	ku	ku	PRON	_	_	1	nmod	_	Gloss=my
+3	asta	asta	CCONJ	_	_	4	cc	_	Gloss=and
+4	ámme	ámme	NOUN	_	_	1	conj	_	Gloss=rice
+5	ku	ku	PRON	_	_	4	nmod	_	Gloss=my
+6	isira	isira	VERB	_	_	0	root	_	Gloss=were.destroyed|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-23
 # text = Magunawa e kallayatan ta.
