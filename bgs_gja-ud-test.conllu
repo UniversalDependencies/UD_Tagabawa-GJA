@@ -834,11 +834,11 @@
 # gloss = 
 # text_en = How were you in Manila?
 # text_original = Kumusta kó tut Manilà?
-1	Kumusta	_	_	_	_	_	_	_	_
-2	ko	_	_	_	_	_	_	_	_
-3	tut	_	_	_	_	_	_	_	_
-4	Manila	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+1	Kumusta	kumusta	PART	_	_	0	root	_	Gloss=how.were
+2	ko	ko	PRON	_	_	1	nsubj	_	Gloss=you
+3	tut	tut	ADP	_	_	4	case	_	Gloss=in
+4	Manila	Manila	PROPN	_	_	1	obl	_	Gloss=Manila|SpaceAfter=No
+5	?	?	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-22
 # text = Batad ku asta ámme ku isira.
