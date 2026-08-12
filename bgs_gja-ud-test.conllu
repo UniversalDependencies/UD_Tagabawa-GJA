@@ -478,9 +478,9 @@
 1	Indin	indin	PRON	_	_	4	nmod	_	Gloss=what
 2	man	man	PART	_	_	4	advmod	_	_
 3	toʔ	toʔ	ADP	_	_	4	case	_	_
-4	igsillig	sillig	VERB	_	0	root	_	Gloss-looking	_
+4	igsillig	sillig	VERB	_	0	root	_	_	Gloss=looking
 5	no	no	PRON	_	_	4	nmod	_	Gloss=you|SpaceAfter=No
-6	?	?	PUNCT	_	_	4	punct	_	Gloss?
+6	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
 # sent_id = bgs_cairo-14
 # parallel_id = cairo/14
