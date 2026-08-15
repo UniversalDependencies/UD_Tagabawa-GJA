@@ -887,3 +887,125 @@
 6	na	na	PART	_	_	7	mark	_	Gloss=LINK
 7	babuy	babuy	NOUN	_	_	1	advcl	_	Gloss=pigs|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_dubois_2025-01
+# text = Mamasusu dán sikandin.
+# gloss = 
+# text_en = She is going to give birth now
+# text_original = Mamasusu dán sikandin.
+1	Mamasusu	_	_	_	_	_	_	_	_
+2	dán	_	_	_	_	_	_	_	_
+3	sikandin	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois_2025-02
+# text = Igpid din to kuda din.
+# gloss = 
+# text_en = He took along his horse.
+# text_original = Igpid din tô kudà din.
+1	Igpid	_	_	_	_	_	_	_	_
+2	din	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	kuda	_	_	_	_	_	_	_	_
+5	din	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois_2025-03
+# text = su mimu ki ka inámmán.
+# gloss = 
+# text_en = because we will make something to drink.
+# text_original = su mimu ki ka inámmán.
+1	su	_	_	_	_	_	_	_	_
+2	mimu	_	_	_	_	_	_	_	_
+3	ki	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	inámmán	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois_2025-04
+# text = Igbággayan sikandin ka marapung agung.
+# gloss = 
+# text_en = He was given many brass gongs.
+# text_original = Igbággayan sikandin ka marapung agung.
+1	Igbággayan	_	_	_	_	_	_	_	_
+2	sikandin	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	marapung	_	_	_	_	_	_	_	_
+5	agung	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois_2025-05
+# text = Igtindág si Paliman.
+# gloss = 
+# text_en = Paliman stood up.
+# text_original = Igtindág si Paliman.
+1	Igtindág	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	Paliman	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois_2025-06
+# text = Marikit dán ágsakal to bata dutun ta gátták din.
+# gloss = 
+# text_en = The child was continually moving (toward birth) in her abdomen.
+# text_original = Marikit dán ágsakal tô batà dutun ta gátták din.
+1	Marikit	_	_	_	_	_	_	_	_
+2	dán	_	_	_	_	_	_	_	_
+3	ágsakal	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	bata	_	_	_	_	_	_	_	_
+6	dutun	_	_	_	_	_	_	_	_
+7	ta	_	_	_	_	_	_	_	_
+8	gátták	_	_	_	_	_	_	_	_
+9	din	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois_2025-07
+# text = Di ki patongkoe tingod kanan.
+# gloss = 
+# text_en = We will not converse with each other about that.
+# text_original = Dì ki patóngkóé tingód kanan.
+1	Di	_	_	_	_	_	_	_	_
+2	ki	_	_	_	_	_	_	_	_
+3	patongkoe	_	_	_	_	_	_	_	_
+4	tingod	_	_	_	_	_	_	_	_
+5	kanan	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois_2025-08
+# text = Mga manubu, palimude ko langun
+# gloss = 
+# text_en = People, all of you gather together....
+# text_original = Mga manubù, palimudé kó langun
+1	Mga	_	_	_	_	_	_	_	_
+2	manubu	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	palimude	_	_	_	_	_	_	_	_
+5	ko	_	_	_	_	_	_	_	_
+6	langun	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois_2025-09
+# text = Migmarapung e manubu dutun ta Banga.
+# gloss = 
+# text_en = The people at Banga became very many.
+# text_original = Migmarapung é manubù dutun ta Banga.
+1	Migmarapung	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	manubu	_	_	_	_	_	_	_	_
+4	dutun	_	_	_	_	_	_	_	_
+5	ta	_	_	_	_	_	_	_	_
+6	Banga	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois_2025-10
+# text = Diya tumindág su ágdipanugánna.
+# gloss = 
+# text_en = I will not stand up because I am menstruating.
+# text_original = Diya tumindág su ágdipanugánna.
+1	Migmarapung	_	_	_	_	_	_	_	_
+2	e	_	_	_	_	_	_	_	_
+3	manubu	_	_	_	_	_	_	_	_
+4	dutun	_	_	_	_	_	_	_	_
+5	ta	_	_	_	_	_	_	_	_
+6	Banga	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
