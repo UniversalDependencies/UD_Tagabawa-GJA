@@ -893,22 +893,22 @@
 # gloss = 
 # text_en = She is going to give birth now
 # text_original = Mamasusu dán sikandin.
-1	Mamasusu	_	_	_	_	_	_	_	_
-2	dán	_	_	_	_	_	_	_	_
-3	sikandin	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mamasusu	pamasusu	VERB	_	_	0	root	_	Gloss=is.going.to.give.birth
+2	dán	dán	ADV	_	_	1	advmod	_	Gloss=now
+3	sikandin	sikandin	PRON	_	_	1	nsubj	_	Gloss=she|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-02
 # text = Igpid din to kuda din.
 # gloss = 
 # text_en = He took along his horse.
 # text_original = Igpid din tô kudà din.
-1	Igpid	_	_	_	_	_	_	_	_
-2	din	_	_	_	_	_	_	_	_
-3	to	_	_	_	_	_	_	_	_
-4	kuda	_	_	_	_	_	_	_	_
-5	din	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Igpid	pid	VERB	_	_	0	root	_	Gloss=took
+2	din	din	PRON	_	_	1	nsubj	_	Gloss=he
+3	to	to	ADP	_	_	4	case	_	_
+4	kuda	kuda	NOUN	_	_	1	obj	_	Gloss=horse
+5	din	din	PRON	_	_	4	nmod	_	Gloss=his|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-03
 # text = su mimu ki ka inámmán.
