@@ -915,34 +915,34 @@
 # gloss = 
 # text_en = because we will make something to drink.
 # text_original = su mimu ki ka inámmán.
-1	su	_	_	_	_	_	_	_	_
-2	mimu	_	_	_	_	_	_	_	_
-3	ki	_	_	_	_	_	_	_	_
-4	ka	_	_	_	_	_	_	_	_
-5	inámmán	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	su	su	SCONJ	_	_	2	mark	_	Gloss=because
+2	mimu	imu	VERB	_	_	0	root	_	Gloss=will.make
+3	ki	ki	PRON	_	_	2	nsubj	_	Gloss=we
+4	ka	ka	PART	_	_	5	advmod	_	_
+5	inámmán	inám	VERB	_	_	2	ccomp	_	Gloss=to.drink|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-04
 # text = Igbággayan sikandin ka marapung agung.
 # gloss = 
 # text_en = He was given many brass gongs.
 # text_original = Igbággayan sikandin ka marapung agung.
-1	Igbággayan	_	_	_	_	_	_	_	_
-2	sikandin	_	_	_	_	_	_	_	_
-3	ka	_	_	_	_	_	_	_	_
-4	marapung	_	_	_	_	_	_	_	_
-5	agung	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Igbággayan	bágge	VERB	_	_	0	root	_	Gloss=was.given
+2	sikandin	sikandin	PRON	_	_	1	nsubj	_	Gloss=he
+3	ka	ka	PART	_	_	5	mark	_	_
+4	marapung	rapung	DET	_	_	5	det	_	Gloss=many
+5	agung	agung	NOUN	_	_	1	obj	_	Gloss=gong|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-05
 # text = Igtindág si Paliman.
 # gloss = 
 # text_en = Paliman stood up.
 # text_original = Igtindág si Paliman.
-1	Igtindág	_	_	_	_	_	_	_	_
-2	si	_	_	_	_	_	_	_	_
-3	Paliman	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Igtindág	tindág	VERB	_	_	0	root	_	Gloss=stood.up
+2	si	si	ADP	_	_	3	case	_	_
+3	Paliman	Paliman	PROPN	_	_	1	nsubj	_	Gloss=Paliman|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-06
 # text = Marikit dán ágsakal to bata dutun ta gátták din.
