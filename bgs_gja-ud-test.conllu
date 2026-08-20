@@ -1090,11 +1090,11 @@
 # gloss = 
 # text_en = The two snakes had already died.
 # text_original = Minaté tô duwa áppuy.
-1	Minate	_	_	_	_	_	_	_	_
-2	to	_	_	_	_	_	_	_	_
-3	duwa	_	_	_	_	_	_	_	_
-4	áppuy	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Minate	mate	VERB	_	_	0	root	_	Gloss=had.died
+2	to	to	ADP	_	_	4	case	_	Gloss=the
+3	duwa	duwa	NUM	_	_	4	nummod	_	Gloss=two
+4	áppuy	áppuy	NOUN	_	_	1	nsubj	_	Gloss=snakes|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-18
 # text = Minemu sikandin midinág.
