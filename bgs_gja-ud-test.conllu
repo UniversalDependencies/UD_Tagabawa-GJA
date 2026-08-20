@@ -1101,10 +1101,10 @@
 # gloss = 
 # text_en = He became well known [lit. heard about].
 # text_original = Minému sikandin midinág.
-1	Minemu	_	_	_	_	_	_	_	_
-2	sikandin	_	_	_	_	_	_	_	_
-3	midinág	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Minemu	imu	VERB	_	_	0	root	_	Gloss=became
+2	sikandin	sikandin	PRON	_	_	1	nsubj	_	Gloss=he
+3	midinág	dinág	ADJ	_	1	1	amod	_	Gloss=well.known|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-19
 # text = Misoko to mga tábbe din.
