@@ -1123,10 +1123,11 @@
 # gloss = 
 # text_en = He just kept his eyes shut, because naturally he was afraid.
 # text_original = Áglipáddáng, su ágkamáddangan man áskandin.
-1	Áglipáddáng	_	_	_	_	_	_	_	_
-2	,	_	_	_	_	_	_	_	_
-3	su	_	_	_	_	_	_	_	_
-4	ágkamáddangan	_	_	_	_	_	_	_	_
-5	man	_	_	_	_	_	_	_	_
-6	áskandin	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Áglipáddáng	lipáddáng	VERB	_	_	0	root	_	Gloss=kept.eyes.shut|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+3	su	su	CCONJ	_	_	4	mark	_	Gloss=because
+4	ágkamáddangan	máddang	VERB	_	_	1	ccomp	_	Gloss=was.afraid
+5	man	man	ADV	_	_	4	advmod	_	_
+6	áskandin	sikandin	PRON	_	_	4	nsubj	_	Gloss=he|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
