@@ -1002,13 +1002,13 @@
 # gloss = 
 # text_en = I will not stand up because I am menstruating.
 # text_original = Diya tumindág su ágdipanugánna.
-1	Migmarapung	_	_	_	_	_	_	_	_
-2	e	_	_	_	_	_	_	_	_
-3	manubu	_	_	_	_	_	_	_	_
-4	dutun	_	_	_	_	_	_	_	_
-5	ta	_	_	_	_	_	_	_	_
-6	Banga	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1-2	Diya	_	_	_	_	_	_	_	_
+1	Diya	di	ADV	_	_	3	advmod	_	Gloss=not
+2	ya	a	PRON	_	_	1	nsubj	_	Gloss=I
+3	tumindág	tindág	VERB	_	_	0	root	_	Gloss=will.stand
+4	su	su	SCONJ	_	_	5	mark	_	Gloss=because
+5	ágdipanugánna	dipanug	VERB	_	_	3	ccomp	_	Gloss=am.menstruating|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-11
 # text = Miggakus dan si Paliman.
