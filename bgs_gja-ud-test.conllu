@@ -1079,11 +1079,11 @@
 # gloss = 
 # text_en = The child was not able to control himself.
 # text_original = Ándà mikapáttud tô batà.
-1	Ánda	_	_	_	_	_	_	_	_
-2	mikapáttud	_	_	_	_	_	_	_	_
-3	to	_	_	_	_	_	_	_	_
-4	bata	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Ánda	ánda	ADV	_	_	2	advmod	_	Gloss=not
+2	mikapáttud	páttud	VERB	_	_	0	root	_	Gloss=control
+3	to	to	ADP	_	_	4	case	_	Gloss=the
+4	bata	bata	NOUN	_	_	2	nsubj	_	Gloss=child|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-17
 # text = Minate to duwa áppuy.
