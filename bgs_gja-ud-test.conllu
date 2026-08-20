@@ -1111,12 +1111,12 @@
 # gloss = 
 # text_en = His sisters became angry.
 # text_original = Misókó tô mga tábbé din.
-1	Misoko	_	_	_	_	_	_	_	_
-2	to	_	_	_	_	_	_	_	_
-3	mga	_	_	_	_	_	_	_	_
-4	tábbe	_	_	_	_	_	_	_	_
-5	din	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Misoko	soko	VERB	_	_	0	root	_	Gloss=became.angry
+2	to	to	ADP	_	_	4	case	_	_
+3	mga	mga	DET	_	_	4	det	_	Gloss=PLUR
+4	tábbe	tábbe	NOUN	_	_	1	nsubj	_	Gloss=sisters
+5	din	din	PRON	_	_	4	nmod	_	Gloss=his|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-20
 # text = Áglipáddáng, su ágkamáddangan man áskandin.
