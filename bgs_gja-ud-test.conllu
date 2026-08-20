@@ -1015,11 +1015,11 @@
 # gloss = 
 # text_en = They hugged Paliman.
 # text_original = Miggakus dan si Paliman.
-1	Miggakus	_	_	_	_	_	_	_	_
-2	dan	_	_	_	_	_	_	_	_
-3	si	_	_	_	_	_	_	_	_
-4	Paliman	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Miggakus	gakus	VERB	_	_	0	root	_	Gloss=hugged
+2	dan	dan	PRON	_	_	1	nmod	_	Gloss=they
+3	si	si	ADP	_	_	4	case	_	_
+4	Paliman	Paliman	PROPN	_	_	1	nsubj	_	Gloss=Paliman|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-12
 # text = asta migtampád din to duwa ikug.
