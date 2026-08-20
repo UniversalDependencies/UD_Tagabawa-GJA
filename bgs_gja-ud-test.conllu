@@ -1067,11 +1067,11 @@
 # gloss = 
 # text_en = After that the child was able to escape.
 # text_original = Yan pa mikaluwà tô batà.
-1	Yan	yan	PART	_	_	3	_	_	Gloss=After.that
-2	pa	pa	PART	_	_	3	_	_	_
+1	Yan	yan	PART	_	_	3	advmod	_	Gloss=After.that
+2	pa	pa	PART	_	_	3	advmod	_	_
 3	mikaluwa	luwa	VERB	_	_	0	root	_	Gloss=was.able.to.escape
-4	to	to	ADP	_	_	5	_	_	_
-5	bata	bata	NOUN	_	_	3	_	_	Gloss=child|SpaceAfter=No
+4	to	to	ADP	_	_	5	case	_	_
+5	bata	bata	NOUN	_	_	3	nsubj	_	Gloss=child|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-16
