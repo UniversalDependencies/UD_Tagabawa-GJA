@@ -965,24 +965,24 @@
 # gloss = 
 # text_en = We will not converse with each other about that.
 # text_original = Dì ki patóngkóé tingód kanan.
-1	Di	_	_	_	_	_	_	_	_
-2	ki	_	_	_	_	_	_	_	_
-3	patongkoe	_	_	_	_	_	_	_	_
-4	tingod	_	_	_	_	_	_	_	_
-5	kanan	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Di	di	ADV	_	_	3	advmod	_	Gloss=will.not
+2	ki	ki	PRON	_	_	3	nsubj	_	Gloss=we
+3	patongkoe	tongko	VERB	_	_	0	root	_	Gloss=converse
+4	tingod	tingod	ADV	_	_	3	advmod	_	Gloss=about
+5	kanan	kanan	PRON	_	_	3	advmod	_	Gloss=that|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-08
 # text = Mga manubu, palimude ko langun
 # gloss = 
 # text_en = People, all of you gather together....
 # text_original = Mga manubù, palimudé kó langun
-1	Mga	_	_	_	_	_	_	_	_
-2	manubu	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	palimude	_	_	_	_	_	_	_	_
-5	ko	_	_	_	_	_	_	_	_
-6	langun	_	_	_	_	_	_	_	_
+1	Mga	mga	DET	_	_	2	det	_	Gloss=PLUR
+2	manubu	manubu	NOUN	_	_	4	vocative	_	Gloss=people|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+4	palimude	limud	VERB	_	_	0	root	_	Gloss=gather
+5	ko	ko	PRON	_	_	4	nsubj	_	Gloss=you
+6	langun	langun	DET	_	_	4	det	_	Gloss=all
 
 # sent_id = bgs_dubois_2025-09
 # text = Migmarapung e manubu dutun ta Banga.
