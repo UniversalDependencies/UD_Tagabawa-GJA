@@ -1131,3 +1131,342 @@
 6	áskandin	sikandin	PRON	_	_	4	nsubj	_	Gloss=he|SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
+# sent_id = bgs_dubois-2005-01
+# text = To miduge dán banuwa, to pagbánnal kato mga Bagobo as Sandawa, manubú.
+# gloss = 
+# text_en = A long time ago on the earth, the belief of the Bagobo (people) was that Sandawa, he was a person.
+# text_original = Tô midugé dán banuwa, tô pagbánnal katô mga Bagóbô as Sandawà, manubú.
+1	To	_	_	_	_	_	_	_	_
+2	miduge	_	_	_	_	_	_	_	_
+3	dán	_	_	_	_	_	_	_	_
+4	banuwa	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	to	_	_	_	_	_	_	_	_
+7	pagbánnal	_	_	_	_	_	_	_	_
+8	kato	_	_	_	_	_	_	_	_
+9	mga	_	_	_	_	_	_	_	_
+10	Bagobo	_	_	_	_	_	_	_	_
+11	as	_	_	_	_	_	_	_	_
+12	Sandawa	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	manubú	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-02
+# text = Ás Sandawa, duwán sábbad bayi migkalyagan din, ás Matutum.
+# gloss = 
+# text_en = As for Sandawa, there was a woman whom he married, (who was) Matutum.
+# text_original = Ás Sandawà, duwán sábbad bayi migkalyagan din, ás Matutum.
+1	Ás	_	_	_	_	_	_	_	_
+2	Sandawa	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	duwán	_	_	_	_	_	_	_	_
+5	sábbad	_	_	_	_	_	_	_	_
+6	bayi	_	_	_	_	_	_	_	_
+7	migkalyagan	_	_	_	_	_	_	_	_
+8	din	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	ás	_	_	_	_	_	_	_	_
+11	Matutum	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-03
+# text = Duwán puman sábbad állo ás Sandawa, minarigan ki Mibulo.
+# gloss = 
+# text_en = There was another (later) time when Sandawa, he felt love for Mibulo.
+# text_original = Duwán puman sábbad álló ás Sandawà, minarigan ki Mibuló.
+1	Duwán	_	_	_	_	_	_	_	_
+2	puman	_	_	_	_	_	_	_	_
+3	sábbad	_	_	_	_	_	_	_	_
+4	állo	_	_	_	_	_	_	_	_
+5	ás	_	_	_	_	_	_	_	_
+6	Sandawa	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	minarigan	_	_	_	_	_	_	_	_
+9	ki	_	_	_	_	_	_	_	_
+10	Mibulo	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-04
+# text = Na takud ta taladuma man si Sandawa asta si Matutum, si Matutum ágtanud.
+# gloss = 
+# text_en = And naturally since Sandawa and Matutum were spouses to each other, Matutum, she was jealous.
+# text_original = Na takud ta taladuma man si Sandawà asta si Matutum, si Matutum ágtanud.
+1	Na	_	_	_	_	_	_	_	_
+2	takud	_	_	_	_	_	_	_	_
+3	ta	_	_	_	_	_	_	_	_
+4	taladuma	_	_	_	_	_	_	_	_
+5	man	_	_	_	_	_	_	_	_
+6	si	_	_	_	_	_	_	_	_
+7	Sandawa	_	_	_	_	_	_	_	_
+8	asta	_	_	_	_	_	_	_	_
+9	si	_	_	_	_	_	_	_	_
+10	Matutum	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	si	_	_	_	_	_	_	_	_
+13	Matutum	_	_	_	_	_	_	_	_
+14	ágtanud	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-05
+# text = Migpudut din to barira ággamitán ka gabál.
+# gloss = 
+# text_en = She picked up the batten that is used for weaving.
+# text_original = Migpudut din tô barira ággamitán ka gabál.
+1	Migpudut	_	_	_	_	_	_	_	_
+2	din	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	barira	_	_	_	_	_	_	_	_
+5	ággamitán	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	gabál	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-06
+# text = Migbunal din ás Sandawa.
+# gloss = 
+# text_en = She beat Sandawa on the head.
+# text_original = Migbunal din ás Sandawà.
+1	Migbunal	_	_	_	_	_	_	_	_
+2	din	_	_	_	_	_	_	_	_
+3	ás	_	_	_	_	_	_	_	_
+4	Sandawa	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-07
+# text = Purisu atin sumállág ka ki Sandawa, duwán kitanán nu nit ulu din ibálla.
+# gloss = 
+# text_en = Therefore if you look at Sandawa (Mt. Apo), you will see something here on its head (that has been) split apart.
+# text_original = Purisu atin sumállág ka ki Sandawà, duwán kitanán nu nit ulu din ibállà.
+1	Purisu	_	_	_	_	_	_	_	_
+2	atin	_	_	_	_	_	_	_	_
+3	sumállág	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	ki	_	_	_	_	_	_	_	_
+6	Sandawa	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	duwán	_	_	_	_	_	_	_	_
+9	kitanán	_	_	_	_	_	_	_	_
+10	nu	_	_	_	_	_	_	_	_
+11	nit	_	_	_	_	_	_	_	_
+12	ulu	_	_	_	_	_	_	_	_
+13	din	_	_	_	_	_	_	_	_
+14	ibálla	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-08
+# text = To go miglagpás i Matutum ka barira.
+# gloss = 
+# text_en = That is where Matutum beat him with the batten.
+# text_original = Tô gó miglagpás i Matutum ka barira.
+1	To	_	_	_	_	_	_	_	_
+2	go	_	_	_	_	_	_	_	_
+3	miglagpás	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Matutum	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	barira	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-09
+# text = Misoko si Sandawa.
+# gloss = 
+# text_en = Sandawa was angry.
+# text_original = Misókó si Sandawà.
+1	Misoko	_	_	_	_	_	_	_	_
+2	si	_	_	_	_	_	_	_	_
+3	Sandawa	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-10
+# text = Migsipa din ás Matutum.
+# gloss = 
+# text_en = He kicked Matutum.
+# text_original = Migsipà din ás Matutum.
+1	Migsipa	_	_	_	_	_	_	_	_
+2	din	_	_	_	_	_	_	_	_
+3	ás	_	_	_	_	_	_	_	_
+4	Matutum	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-11
+# text = Ás Matutum, minantug tun ta madiyu.
+# gloss = 
+# text_en = As for Matutum, she was thrown far away.
+# text_original = Ás Matutum, minantug tun ta madiyù.
+1	Ás	_	_	_	_	_	_	_	_
+2	Matutum	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	minantug	_	_	_	_	_	_	_	_
+5	tun	_	_	_	_	_	_	_	_
+6	ta	_	_	_	_	_	_	_	_
+7	madiyu	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-12
+# text = Ni gabata, mitángngatángnga.
+# gloss = 
+# text_en = As for these children (of Sandawa and Matutum), they were divided up.
+# text_original = Ni gabatà, mitángngàtángngà.
+1	Ni	_	_	_	_	_	_	_	_
+2	gabata	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	mitángngatángnga	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-13
+# text = Duwán to migtákkás ki Matutum dutut south.
+# gloss = 
+# text_en = There were those who accompanied Matutum to the south.
+# text_original = Duwán tô migtákkás ki Matutum dutut south.
+1	Duwán	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	migtákkás	_	_	_	_	_	_	_	_
+4	ki	_	_	_	_	_	_	_	_
+5	Matutum	_	_	_	_	_	_	_	_
+6	dutut	_	_	_	_	_	_	_	_
+7	south	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-14
+# text = Yan go mga Biraan, Tagakolu, Tagaboli, Kalagan, Manubu.
+# gloss = 
+# text_en = Those were the Blaans, Tagakaulos, Tbolis, Kalagans, Manobos.
+# text_original = Yan gó mga Biraan, Tagakólu, Tagabóli, Kalagan, Manubù.
+1	Yan	_	_	_	_	_	_	_	_
+2	go	_	_	_	_	_	_	_	_
+3	mga	_	_	_	_	_	_	_	_
+4	Biraan	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Tagakolu	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Tagaboli	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	Kalagan	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	Manubu	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-15
+# text = Ni duma gabata igoddo migtákkás kani ame dan, Sandawa mga Matigsalug, Ubu, Átto, asta sikita go mga Tagabawa.
+# gloss = 
+# text_en = These other children (who) stayed with this father of theirs, Sandawa, they were the Matigsalugs, Obo Manobos, Guiangans, and we Tagabawas.
+# text_original = Ni duma gabatà igóddô migtákkás kani amé dan, Sandawà mga Matigsalug, Ubù, Áttó, asta sikita gó mga Tagabawà.
+1	Ni	_	_	_	_	_	_	_	_
+2	duma	_	_	_	_	_	_	_	_
+3	gabata	_	_	_	_	_	_	_	_
+4	igoddo	_	_	_	_	_	_	_	_
+5	migtákkás	_	_	_	_	_	_	_	_
+6	kani	_	_	_	_	_	_	_	_
+7	ame	_	_	_	_	_	_	_	_
+8	dan	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	Sandawa	_	_	_	_	_	_	_	_
+11	mga	_	_	_	_	_	_	_	_
+12	Matigsalug	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	Ubu	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	Átto	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	asta	_	_	_	_	_	_	_	_
+19	sikita	_	_	_	_	_	_	_	_
+20	go	_	_	_	_	_	_	_	_
+21	mga	_	_	_	_	_	_	_	_
+22	Tagabawa	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-16
+# text = Takud taddo dán si Sandawa, mibaluy pabungan.
+# gloss = 
+# text_en = From that time on Sandawa, he was transformed into a mountain.
+# text_original = Takud taddô dán si Sandawà, mibaluy pabungan.
+1	Takud	_	_	_	_	_	_	_	_
+2	taddo	_	_	_	_	_	_	_	_
+3	dán	_	_	_	_	_	_	_	_
+4	si	_	_	_	_	_	_	_	_
+5	Sandawa	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	mibaluy	_	_	_	_	_	_	_	_
+8	pabungan	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-17
+# text = Ás Matutum, ás Mibulo, mibaluy pagsik pabungan.
+# gloss = 
+# text_en = Matutum and Mibulo, they were also transformed into mountains.
+# text_original = Ás Matutum, ás Mibuló, mibaluy pagsik pabungan.
+1	Ás	_	_	_	_	_	_	_	_
+2	Matutum	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	ás	_	_	_	_	_	_	_	_
+5	Mibulo	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	mibaluy	_	_	_	_	_	_	_	_
+8	pagsik	_	_	_	_	_	_	_	_
+9	pabungan	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-18
+# text = Yan pagbánnal kani mga Bagobo, ás Sandawa, apu ta.
+# gloss = 
+# text_en = That belief of these Bagobos is, as for Sandawa, he is our grandfather.
+# text_original = Yan pagbánnal kani mga Bagóbô, ás Sandawà, apù ta.
+1	Yan	_	_	_	_	_	_	_	_
+2	pagbánnal	_	_	_	_	_	_	_	_
+3	kani	_	_	_	_	_	_	_	_
+4	mga	_	_	_	_	_	_	_	_
+5	Bagobo	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ás	_	_	_	_	_	_	_	_
+8	Sandawa	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	apu	_	_	_	_	_	_	_	_
+11	ta	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-19
+# text = Purisu atin ágngadan e Bagóbo Apu Sandawa, si apu ta.
+# gloss = 
+# text_en = Therefore when the Bagobos call him Grandfather Sandawa, it is because he is our grandfather.
+# text_original = Purisu atin ágngadan é Bagóbô Apù Sandawà, si apù ta.
+1	Purisu	_	_	_	_	_	_	_	_
+2	atin	_	_	_	_	_	_	_	_
+3	ágngadan	_	_	_	_	_	_	_	_
+4	e	_	_	_	_	_	_	_	_
+5	Bagóbo	_	_	_	_	_	_	_	_
+6	Apu	_	_	_	_	_	_	_	_
+7	Sandawa	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	si	_	_	_	_	_	_	_	_
+10	apu	_	_	_	_	_	_	_	_
+11	ta	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-20
+# text = Purisu atin ágngadan ki Apu Sandawa, su apu ta yan.
+# gloss = 
+# text_en = Therefore when we call him Grandfather Sandawa, it is because that one is our grandfather.
+# text_original = Purisu atin ágngadan ki Apù Sandawà, su apù ta yan.
+1	Purisu	_	_	_	_	_	_	_	_
+2	atin	_	_	_	_	_	_	_	_
+3	ágngadan	_	_	_	_	_	_	_	_
+4	ki	_	_	_	_	_	_	_	_
+5	Apu	_	_	_	_	_	_	_	_
+6	Sandawa	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	su	_	_	_	_	_	_	_	_
+9	apu	_	_	_	_	_	_	_	_
+10	ta	_	_	_	_	_	_	_	_
+11	yan	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_dubois-2005-21
+# text = Taddo dád go.
+# gloss = 
+# text_en = There only for sure.
+# text_original = Taddô dád gó.
+1	Taddo	_	_	_	_	_	_	_	_
+2	dád	_	_	_	_	_	_	_	_
+3	go	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
