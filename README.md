@@ -1,6 +1,6 @@
 # Summary
 
-UD_Tagabawa_GJA is a collection of annotated Bagobo-Tagabawa sentences which are some translations of the Cebuano UD and DuBois's sample sentences from various book sources. It is currently under development and will involve more sample sentences collected from fielwork.
+UD_Tagabawa_GJA is a collection of annotated Bagobo-Tagabawa sentences which are some translations of the Cebuano UD and DuBois's sample sentences from various book sources. It is currently under development.
 
 
 # Introduction
