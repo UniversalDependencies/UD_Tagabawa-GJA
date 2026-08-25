@@ -1132,25 +1132,25 @@
 7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-01
-# text = To miduge dán banuwa, to pagbánnal kato mga Bagobo as Sandawa, manubú.
+# text = To miduge dán banuwa, to pagbánnal kato mga Bagobo as Sandawa, manubu.
 # gloss = 
 # text_en = A long time ago on the earth, the belief of the Bagobo (people) was that Sandawa, he was a person.
 # text_original = Tô midugé dán banuwa, tô pagbánnal katô mga Bagóbô as Sandawà, manubú.
-1	To	_	_	_	_	_	_	_	_
-2	miduge	_	_	_	_	_	_	_	_
-3	dán	_	_	_	_	_	_	_	_
-4	banuwa	_	_	_	_	_	_	_	_
-5	,	_	_	_	_	_	_	_	_
-6	to	_	_	_	_	_	_	_	_
-7	pagbánnal	_	_	_	_	_	_	_	_
-8	kato	_	_	_	_	_	_	_	_
-9	mga	_	_	_	_	_	_	_	_
-10	Bagobo	_	_	_	_	_	_	_	_
-11	as	_	_	_	_	_	_	_	_
-12	Sandawa	_	_	_	_	_	_	_	_
-13	,	_	_	_	_	_	_	_	_
-14	manubú	_	_	_	_	_	_	_	_
-15	.	_	_	_	_	_	_	_	_
+1	To	to	ADP	_	_	2	case	_	_
+2	miduge	duge	VERB	_	_	7	_	_	_
+3	dán	dan	ADV	_	_	2	advmod	_	_
+4	banuwa	banuwa	NOUN	_	_	2	_	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	to	to	ADP	_	_	7	case	_	_
+7	pagbánnal	bánnal	VERB	_	_	0	root	_	_
+8	kato	kato	ADP	_	_	10	case	_	_
+9	mga	mga	DET	_	_	10	det	_	_
+10	Bagobo	Bagobo	PROPN	_	_	7	_	_	_
+11	as	si	ADP	_	_	12	case	_	_
+12	Sandawa	Sandawa	PROPN	_	_	7	_	_	_
+13	,	,	PUNCT	_	_	7	punct	_	_
+14	manubu	manubu	PROPN	_	_	7	_	_	_
+15	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bgs_dubois-2005-02
 # text = Ás Sandawa, duwán sábbad bayi migkalyagan din, ás Matutum.
