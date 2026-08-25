@@ -1381,92 +1381,92 @@
 # gloss = 
 # text_en = From that time on Sandawa, he was transformed into a mountain.
 # text_original = Takud taddô dán si Sandawà, mibaluy pabungan.
-1	Takud	_	_	_	_	_	_	_	_
-2	taddo	_	_	_	_	_	_	_	_
-3	dán	_	_	_	_	_	_	_	_
-4	si	_	_	_	_	_	_	_	_
-5	Sandawa	_	_	_	_	_	_	_	_
-6	,	_	_	_	_	_	_	_	_
-7	mibaluy	_	_	_	_	_	_	_	_
-8	pabungan	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Takud	tikud	_	_	_	_	_	_	_
+2	taddo	taddo	_	_	_	_	_	_	_
+3	dán	dan	_	_	_	_	_	_	_
+4	si	si	_	_	_	_	_	_	_
+5	Sandawa	Sandawa	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	mibaluy	baluy	_	_	_	_	_	_	_
+8	pabungan	pabungan	_	_	_	_	_	_	_
+9	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-17
 # text = Ás Matutum, ás Mibulo, mibaluy pagsik pabungan.
 # gloss = 
 # text_en = Matutum and Mibulo, they were also transformed into mountains.
 # text_original = Ás Matutum, ás Mibuló, mibaluy pagsik pabungan.
-1	Ás	_	_	_	_	_	_	_	_
-2	Matutum	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	ás	_	_	_	_	_	_	_	_
-5	Mibulo	_	_	_	_	_	_	_	_
-6	,	_	_	_	_	_	_	_	_
-7	mibaluy	_	_	_	_	_	_	_	_
-8	pagsik	_	_	_	_	_	_	_	_
-9	pabungan	_	_	_	_	_	_	_	_
-10	.	_	_	_	_	_	_	_	_
+1	Ás	si	_	_	_	_	_	_	_
+2	Matutum	Matutum	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	ás	si	_	_	_	_	_	_	_
+5	Mibulo	Mibulo	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	mibaluy	baluy	_	_	_	_	_	_	_
+8	pagsik	pagsik	_	_	_	_	_	_	_
+9	pabungan	pabungan	_	_	_	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-18
 # text = Yan pagbánnal kani mga Bagobo, ás Sandawa, apu ta.
 # gloss = 
 # text_en = That belief of these Bagobos is, as for Sandawa, he is our grandfather.
 # text_original = Yan pagbánnal kani mga Bagóbô, ás Sandawà, apù ta.
-1	Yan	_	_	_	_	_	_	_	_
-2	pagbánnal	_	_	_	_	_	_	_	_
-3	kani	_	_	_	_	_	_	_	_
-4	mga	_	_	_	_	_	_	_	_
-5	Bagobo	_	_	_	_	_	_	_	_
-6	,	_	_	_	_	_	_	_	_
-7	ás	_	_	_	_	_	_	_	_
-8	Sandawa	_	_	_	_	_	_	_	_
-9	,	_	_	_	_	_	_	_	_
-10	apu	_	_	_	_	_	_	_	_
-11	ta	_	_	_	_	_	_	_	_
-12	.	_	_	_	_	_	_	_	_
+1	Yan	yan	_	_	_	_	_	_	_
+2	pagbánnal	bánnal	_	_	_	_	_	_	_
+3	kani	kani	_	_	_	_	_	_	_
+4	mga	mga	_	_	_	_	_	_	_
+5	Bagobo	Bagobo	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	ás	si	_	_	_	_	_	_	_
+8	Sandawa	Sandawa	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	apu	apu	_	_	_	_	_	_	_
+11	ta	ta	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-19
-# text = Purisu atin ágngadan e Bagóbo Apu Sandawa, si apu ta.
+# text = Purisu atin ágngadan e Bagobo Apu Sandawa, su apu ta.
 # gloss = 
 # text_en = Therefore when the Bagobos call him Grandfather Sandawa, it is because he is our grandfather.
-# text_original = Purisu atin ágngadan é Bagóbô Apù Sandawà, si apù ta.
-1	Purisu	_	_	_	_	_	_	_	_
-2	atin	_	_	_	_	_	_	_	_
-3	ágngadan	_	_	_	_	_	_	_	_
-4	e	_	_	_	_	_	_	_	_
-5	Bagóbo	_	_	_	_	_	_	_	_
-6	Apu	_	_	_	_	_	_	_	_
-7	Sandawa	_	_	_	_	_	_	_	_
-8	,	_	_	_	_	_	_	_	_
-9	si	_	_	_	_	_	_	_	_
-10	apu	_	_	_	_	_	_	_	_
-11	ta	_	_	_	_	_	_	_	_
-12	.	_	_	_	_	_	_	_	_
+# text_original = Purisu atin ágngadan é Bagóbô Apù Sandawà, su apù ta.
+1	Purisu	purisu	_	_	_	_	_	_	_
+2	atin	atin	_	_	_	_	_	_	_
+3	ágngadan	ngadan	_	_	_	_	_	_	_
+4	e	e	_	_	_	_	_	_	_
+5	Bagobo	Bagobo	_	_	_	_	_	_	_
+6	Apu	Apu	_	_	_	_	_	_	_
+7	Sandawa	Sandawa	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	su	su	_	_	_	_	_	_	_
+10	apu	apu	_	_	_	_	_	_	_
+11	ta	ta	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-20
 # text = Purisu atin ágngadan ki Apu Sandawa, su apu ta yan.
 # gloss = 
 # text_en = Therefore when we call him Grandfather Sandawa, it is because that one is our grandfather.
 # text_original = Purisu atin ágngadan ki Apù Sandawà, su apù ta yan.
-1	Purisu	_	_	_	_	_	_	_	_
-2	atin	_	_	_	_	_	_	_	_
-3	ágngadan	_	_	_	_	_	_	_	_
-4	ki	_	_	_	_	_	_	_	_
-5	Apu	_	_	_	_	_	_	_	_
-6	Sandawa	_	_	_	_	_	_	_	_
-7	,	_	_	_	_	_	_	_	_
-8	su	_	_	_	_	_	_	_	_
-9	apu	_	_	_	_	_	_	_	_
-10	ta	_	_	_	_	_	_	_	_
-11	yan	_	_	_	_	_	_	_	_
-12	.	_	_	_	_	_	_	_	_
+1	Purisu	purisu	_	_	_	_	_	_	_
+2	atin	atin	_	_	_	_	_	_	_
+3	ágngadan	ngadan	_	_	_	_	_	_	_
+4	ki	ki	_	_	_	_	_	_	_
+5	Apu	Apu	_	_	_	_	_	_	_
+6	Sandawa	Sandawa	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	su	su	_	_	_	_	_	_	_
+9	apu	apu	_	_	_	_	_	_	_
+10	ta	ta	_	_	_	_	_	_	_
+11	yan	yan	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-21
 # text = Taddo dád go.
 # gloss = 
 # text_en = There only for sure.
 # text_original = Taddô dád gó.
-1	Taddo	_	_	_	_	_	_	_	_
-2	dád	_	_	_	_	_	_	_	_
-3	go	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Taddo	taddo	_	_	_	_	_	_	_
+2	dád	dad	_	_	_	_	_	_	_
+3	go	go	_	_	_	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
