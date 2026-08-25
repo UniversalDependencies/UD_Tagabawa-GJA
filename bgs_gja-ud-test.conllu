@@ -1192,21 +1192,21 @@
 # gloss = 
 # text_en = And naturally since Sandawa and Matutum were spouses to each other, Matutum, she was jealous.
 # text_original = Na takud ta taladuma man si Sandawà asta si Matutum, si Matutum ágtanud.
-1	Na	_	_	_	_	_	_	_	_
-2	takud	_	_	_	_	_	_	_	_
-3	ta	_	_	_	_	_	_	_	_
-4	taladuma	_	_	_	_	_	_	_	_
-5	man	_	_	_	_	_	_	_	_
-6	si	_	_	_	_	_	_	_	_
-7	Sandawa	_	_	_	_	_	_	_	_
-8	asta	_	_	_	_	_	_	_	_
-9	si	_	_	_	_	_	_	_	_
-10	Matutum	_	_	_	_	_	_	_	_
-11	,	_	_	_	_	_	_	_	_
-12	si	_	_	_	_	_	_	_	_
-13	Matutum	_	_	_	_	_	_	_	_
-14	ágtanud	_	_	_	_	_	_	_	_
-15	.	_	_	_	_	_	_	_	_
+1	Na	na	_	_	_	_	_	_	_
+2	takud	tikud	_	_	_	_	_	_	_
+3	ta	ta	_	_	_	_	_	_	_
+4	taladuma	taladuma	_	_	_	_	_	_	_
+5	man	man	_	_	_	_	_	_	_
+6	si	si	_	_	_	_	_	_	_
+7	Sandawa	Sandawa	_	_	_	_	_	_	_
+8	asta	asta	_	_	_	_	_	_	_
+9	si	si	_	_	_	_	_	_	_
+10	Matutum	Matutum	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	si	si	_	_	_	_	_	_	_
+13	Matutum	Matutum	_	_	_	_	_	_	_
+14	ágtanud	tanud	_	_	_	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-05
 # text = Migpudut din to barira ággamitán ka gabál.
