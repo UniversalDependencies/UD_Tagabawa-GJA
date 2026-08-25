@@ -675,7 +675,7 @@
 # text_original = Dakál é misirà.
 1	Dakál	dakál	DET	_	_	3	det	_	Gloss=many
 2	e	e	ADP	_	_	3	case	_	_
-3	misira	misira	VERB	_	_	0	root	_	Gloss=have.been.destroyed|SpaceAfter=No
+3	misira	sira	VERB	_	_	0	root	_	Gloss=have.been.destroyed|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-07
@@ -683,9 +683,9 @@
 # gloss = 
 # text_en = She was angry.
 # text_original = Misókó áskandin.
-1	Misoko	_	VERB	_	_	0	root	_	GLoss=was.angry
-2	áskandin	_	PRON	_	_	1	nsubj	_	Gloss=she|SpaceAfter=No
-3	.	_	PUNCT	_	_	1	punct	_	Gloss=.
+1	Misoko	soko	VERB	_	_	0	root	_	GLoss=was.angry
+2	áskandin	áskandin	PRON	_	_	1	nsubj	_	Gloss=she|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-08
 # text = To ngadan ku si Umanan Lambac.
@@ -871,8 +871,10 @@
 # text_original = Mallayat áskandin kanak.
 1	Mallayat	_	ADJ	_	_	0	root	_	Gloss=taller
 2	áskandin	_	PRON	_	_	1	nsubj	_	Gloss=he
-3	kanak	kanak	PRON	_	_	1	obj	_	Gloss=I|SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+3-4	kanak	_	_	_	_	_	_	_	_
+3	kana	kana	SCONJ	_	_	4	mark	_	Gloss=than
+4	-k	ak	PRON	_	_	1	obj	_	Gloss=I|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-25
 # text = Ágkan to mga bisita iring na babuy.
