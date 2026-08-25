@@ -1157,18 +1157,18 @@
 # gloss = 
 # text_en = As for Sandawa, there was a woman whom he married, (who was) Matutum.
 # text_original = Ás Sandawà, duwán sábbad bayi migkalyagan din, ás Matutum.
-1	Ás	_	_	_	_	_	_	_	_
-2	Sandawa	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	duwán	_	_	_	_	_	_	_	_
-5	sábbad	_	_	_	_	_	_	_	_
-6	bayi	_	_	_	_	_	_	_	_
-7	migkalyagan	_	_	_	_	_	_	_	_
-8	din	_	_	_	_	_	_	_	_
-9	,	_	_	_	_	_	_	_	_
-10	ás	_	_	_	_	_	_	_	_
-11	Matutum	_	_	_	_	_	_	_	_
-12	.	_	_	_	_	_	_	_	_
+1	Ás	si	_	_	_	_	_	_	_
+2	Sandawa	Sandawa	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	duwán	duwán	_	_	_	_	_	_	_
+5	sábbad	sábbad	_	_	_	_	_	_	_
+6	bayi	bayi	_	_	_	_	_	_	_
+7	migkalyagan	kalyag	_	_	_	_	_	_	_
+8	din	din	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	ás	si	_	_	_	_	_	_	_
+11	Matutum	Matutum	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-03
 # text = Duwán puman sábbad állo ás Sandawa, minarigan ki Mibulo.
