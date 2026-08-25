@@ -1,287 +1,3 @@
-# sent_id = bgs_bunyeyap-01
-# ceb_parallel = bunyeyap-01
-# text = Igbelle sikandan ka umpak.
-# gloss = will.buy they dress.
-# text_en = They will buy a dress.
-1	Igbelle	belle	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	0	root	_	Gloss=will.buy
-2	sikandan	sikandan	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they
-3	ka	ka	ADP	_	Case=Gen	4	case	_	_
-4	umpak	umpak	NOUN	_	_	1	obj	_	Gloss=dress|SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-# sent_id = bgs_bunyeyap-03
-# ceb_parallel = bunyeyap-03
-# text = Pila igbayad no?
-# gloss = how.much. did.pay you?
-# text_en = How much did you pay?
-1	Pila	pila	ADV	_	PronType=Int	2	advmod	_	Gloss=how.much
-2	igbayad	bayad	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=did.pay
-3	no	no	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Gloss=you|SpaceAfter=No
-4	?	?	PUNCT	_	_	2	punct	_	Gloss=.
-
-# sent_id = bgs_bunyeyap-04
-# ceb_parallel = bunyeyap-04
-# text = Igtawar ni Maria to bata.
-# gloss = called Maria the child.
-# text_en = Maria called the child.
-1	Igtawar	tawar	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=called
-2	ni	ni	ADP	_	Case=Gen	3	case	_	_
-3	Maria	Maria	PROPN	_	Gender=Fem	1	obj	_	Gloss=Maria
-4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
-5	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-# sent_id = bgs_bunyeyap-05
-# ceb_parallel = bunyeyap-05
-# text = Mallayat ni.
-# gloss = tall this.
-# text_en = This is tall.
-1	Mallayat	mallayat	ADJ	_	Degree=Pos	0	root	_	Gloss=tall
-2	ni	ni	PRON	_	Deixis=Prox|PronType=Dem	1	amod	_	Gloss=this|SpaceAfter=No
-3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-# sent_id = bgs_bunyeyap-09
-# ceb_parallel = bunyeyap-09
-# text = Dunnakan ni Ditang to kusina parak Tonying.
-# gloss = will.sweep Ditang the kitchen for Tonying.
-# text_en = Ditang will sweep the kitchen for Tonying.
-1	Dunnakan	dunnak	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=will.sweep
-2	ni	ni	ADP	_	Case=Gen	3	case	_	_
-3	Ditang	Ditang	PROPN	_	Gender=Fem	1	obj	_	Gloss=Ditang
-4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
-5	kusina	kusina	NOUN	_	_	1	nsubj	_	Gloss=kitchen
-6-7	parak	_	_	_	_	_	_	_	_
-6	para	para	ADP	_	_	8	case	_	Gloss=for
-7	-k	ka	ADP	_	Case=Gen	6	fixed	_	_
-8	Tonying	Tonying	PROPN	_	Gender=Masc	1	obl	_	Gloss=Tonying|SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-# sent_id = bgs_bunyeyap-13
-# ceb_parallel = bunyeyap-13
-# text = Dire Maria to ngadan din.
-# gloss = not Maria the name her.
-# text_en = Her name is not Maria.
-1	Dire	dire	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
-2	Maria	Maria	PROPN	_	Gender=Fem	0	root	_	Gloss=Maria
-3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
-4	ngadan	ngadan	NOUN	_	_	2	nsubj	_	Gloss=name
-5	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Gloss=her|SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-# sent_id = bgs_bunyeyap-24
-# ceb_parallel = bunyeyap-24
-# text = Menda ka padulong?
-# gloss = Where you heading.to?
-# text_en = Where are you heading to?
-1	Menda	menda	PRON	_	_	3	nmod	_	Gloss=where
-2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you
-3	padulong	dulong	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=heading.to|SpaceAfter=No
-4	?	?	PUNCT	_	_	3	punct	_	Gloss=.
-
-# sent_id = bgs_tatoeba-10
-# ceb_parallel = tatoeba-10
-# text = Dun aso ke. 
-# gloss =  have dog we.
-# text_en = We have a dog.
-# tatoeba_author = Josefwintzent
-1	Dun	dun	VERB	_	_	0	root	_	Gloss=have
-2	aso	ako	NOUN	_	_	1	obj	_	Gloss=dog
-3	ke	ke	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	Gloss=we|SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-# sent_id = bgs_tatoeba-16
-# ceb_parallel = tatoeba-16
-# text = Kadiggeran ak neko. 
-# gloss = love I you.
-# text_en = I love you.
-# tatoeba_author = Josefwintzent
-1	Kadiggeran	diggeran	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pas	0	root	_	Gloss=love
-2	ak	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
-3	neko	neko	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	obj	_	Gloss=you|SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-# sent_id = bgs_tanangkinsing-02
-# ceb_parallel = tanangkinsing-02
-# text = igpangitan ak to baye.
-# gloss = see.ugly I the woman.
-# text_en = I am consciously aware of the ugliness of the woman.
-1	igpangitan	pangit	VERB	Aspect=Perf|Mood=Ind|Voice=Pass	root	0	root	_	Gloss=see.ugly
-2	ak	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
-3	to	to	ADP	_	Case=Dat		4	case	_	Gloss=the
-4	baye	baye	NOUN	_	_	1	obj	_	Gloss=woman|SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-# sent_id = bgs_tanangkinsing-03
-# ceb_parallel = tanangkinsing-03
-# text = igpangitan ak to baye.
-# gloss = see.ugly I the woman.
-# text_en = I am consciously aware of the ugliness of the woman.
-1	igpangitan	pangit	VERB	Aspect=Perf|Mood=Ind|Voice=Pass	root	0	root	_	Gloss=see.ugly
-2	ak	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
-3	to	to	ADP	_	Case=Dat		4	case	_	Gloss=the
-4	baye	baye	NOUN	_	_	1	obj	_	Gloss=woman|SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-# sent_id = bgs_tanangkinsing-05
-# ceb_parallel = tanangkinsing-05
-# text = Igkange ko to sulat.
-# gloss = received I the letter.
-# text_en = I have already received the letter.
-1	Igkange	kange	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=received
-2	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=I
-3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
-4	sulat	sulat	NOUN	_	_	1	nsubj	_	Gloss=letter|SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-# sent_id = bgs_tanangkinsing-08
-# ceb_parallel = tanangkinsing-08
-# text = Igambak to aso duton ka bintana.
-# gloss = jumped the dog the window.
-# text_en = The dog jumped out the window.
-1	Igambak	ambak	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=jumped
-2	to	to	ADP	_	Case=Nom	3	case	_	Gloss=the
-3	aso	aso	NOUN	_	_	1	nsubj	_	Gloss=dog
-4	duton	duton	PART	_	_	1	advmod	_	_
-5	ka	ka	ADP	_	Case=Dat	6	case	_	Gloss=the
-6	bintana	bintana	NOUN	_	_	1	obj	_	Gloss=window|SpaceAfter=No
-7	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-# sent_id = bgs_tatoeba-17
-# ceb_parallel = tatoeba-17
-# text = Inda ad gustok neko. 
-# gloss =  not anymore like I you.
-# text_en = I don't like you anymore.
-# tatoeba_author = Josefwintzent
-1	Inda	inda	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
-2	ad	ad	ADV	_	_	3	advmod	_	Gloss=anymore
-3-4	gustok	_	_	_	_	_	_	_	_
-3	gusto	gusto	VERB	_	_	0	root	_	Gloss=like
-4	-k	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I
-5	neko	neko	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	obj	_	Gloss=you|SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-# sent_id = bgs_tatoeba-45
-# ceb_parallel = tatoeba-45
-# text = Indin ngadan no?
-# gloss = what name your?
-# text_en = What is your name?
-# tatoeba_author = Josefwintzent
-1	Indin	indin	PRON	_	PronType=Int	0	root	_	Gloss=what
-2	ngadan	ngadan	NOUN	_	_	1	nsubj	_	Gloss=name
-3	no	no	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Gloss=your|SpaceAfter=No
-4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
-
-# sent_id = bgs_tatoeba-46
-# ceb_parallel = tatoeba-46
-# text = Igmenno ka? 
-# gloss = doing.what you?
-# text_en = What are you doing?
-# tatoeba_author = Josefwintzent
-1	Igmenno	menno	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=What
-2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
-3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
-
-# sent_id = bgs_tatoeba-47
-# ceb_parallel = tatoeba-47
-# text = Unsa na man?
-# gloss = what?
-# text_en = What is it?
-# tatoeba_author = Josefwintzent
-1	Indin	indin	PRON	_	_	0	root	_	Gloss=What
-2	din	din	ADV	_	_	1	advmod	_	_
-3	man	man	PART	_	_	1	advmod	_	SpaceAfter=No
-4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
-
-# sent_id = bgs_tatoeba-50
-# ceb_parallel = tatoeba-50
-# text = Menda kag pano?
-# gloss = where you going?
-# text_en = Where are you going?
-# tatoeba_author = Josefwintzent
-1	Menda	menda	ADV	_	PronType=Int	4	advmod	_	Gloss=Where
-2-3	kag	_	_	_	_	_	_	_	_
-2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=you
-3	-g	eg	PART	_	_	2	mark	_	_
-4	pano	pano	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=going|SpaceAfter=No
-5	?	?	PUNCT	_	_	4	punct	_	Gloss=?
-
-# sent_id = bgs_tatoeba-51
-# ceb_parallel = tatoeba-51
-# text = Duwa to mengko ko. 
-# gloss = two have cats two.
-# text_en = I have two cats.
-# tatoeba_author = Josefwintzent
-1	Duwa	duwa	NUM	_	_	3	nummod	_	Gloss=two
-2	to	to	ADP	_	Case=Nom	3	case	_	_
-3	mengko	mengko	NOUN	_	_	0	root	_	Gloss=cats
-4	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nmod	_	Gloss=I|SpaceAfter=No
-5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-# sent_id = bgs_tatoeba-54
-# ceb_parallel = tatoeba-54
-# text = Sadan ka?
-# gloss = who you?
-# text_en = Who are you?
-# tatoeba_author = Josefwintzent
-1	Sadan	sadan	PRON	_	PronType=Int	0	root	_	Gloss=Who
-2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
-3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
-
-# sent_id = bgs_tatoeba-55
-# ceb_parallel = tatoeba-55
-# text = Dire ka doktor.
-# gloss = not I doctor.
-# text_en = I am not a doctor.
-# tatoeba_author = Josefwintzent
-1	Dire	dire	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
-2	ka	ka	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	0	root	_	Gloss=I
-3	doktor	doktor	NOUN	_	_	2	nsubj	_	Gloss=doctor|SpaceAfter=No
-4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-# sent_id = bgs_tatoeba-61
-# ceb_parallel = tatoeba-61
-# text = Indin gusto mo? 
-# gloss = what want you?
-# text_en = What do you want?
-# tatoeba_author = Josefwintzent
-1	Indin	indin	PRON	_	PronType=Int	0	root	_	Gloss=What
-2	gusto	gusto	NOUN	_	_	1	obj	_	Gloss=want
-3	mo	mo	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	nmod	_	Gloss=you|SpaceAfter=No
-4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
-
-# sent_id = bgs_tatoeba-64
-# ceb_parallel = tatoeba-64
-# text = Yaka ka guol.
-# gloss = do.not worry.
-# text_en = Don't worry.
-# tatoeba_author = Josefwintzent
-1	Yaka	yaka	PART	_	_	3	advmod	_	Gloss=do.not
-2	ka	ka	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=you
-3	guol	guol	VERB	_	_	0	root	_	Gloss=worry|SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-# sent_id = bgs_tatoeba-70
-# ceb_parallel = tatoeba-70
-# text = Manan man seggo ka? 
-# gloss = why are crying you?
-# text_en = Why are you crying?
-# tatoeba_author = Josefwintzent
-1	Manan	manan	ADV	_	PronType=Int	3	advmod	_	Gloss=Why
-2	man	man	PART	_	_	3	advmod	_	_
-3	seggo	seggo	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=crying
-4	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|SpaceAfter=No
-5	?	?	PUNCT	_	_	3	punct	_	Gloss=?
-
-# sent_id = bgs_tatoeba-79
-# ceb_parallel = tatoeba-79
-# text = Kaballosan a.
-# gloss = am-hungry I.
-# text_en = I am hungry.
-# tatoeba_author = Josefwintzent
-1	Kaballosan	ballos	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=am.hungry
-2	a	a	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I|SpaceAfter=No
-3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
 # sent_id = bgs_cairo-1
 # parallel_id = cairo/1
 # text = Igsulat to baye ka sulat para ka rarak nya .
@@ -610,6 +326,290 @@
 8	ka	ka	ADP	_	_	9	case	_	Gloss=of
 9	France	France	PROPN	_	_	7	obj	_	Gloss=France|SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+
+# sent_id = bgs_bunyeyap-01
+# ceb_parallel = bunyeyap-01
+# text = Igbelle sikandan ka umpak.
+# gloss = will.buy they dress.
+# text_en = They will buy a dress.
+1	Igbelle	belle	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	0	root	_	Gloss=will.buy
+2	sikandan	sikandan	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they
+3	ka	ka	ADP	_	Case=Gen	4	case	_	_
+4	umpak	umpak	NOUN	_	_	1	obj	_	Gloss=dress|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_bunyeyap-03
+# ceb_parallel = bunyeyap-03
+# text = Pila igbayad no?
+# gloss = how.much. did.pay you?
+# text_en = How much did you pay?
+1	Pila	pila	ADV	_	PronType=Int	2	advmod	_	Gloss=how.much
+2	igbayad	bayad	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=did.pay
+3	no	no	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Gloss=you|SpaceAfter=No
+4	?	?	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = bgs_bunyeyap-04
+# ceb_parallel = bunyeyap-04
+# text = Igtawar ni Maria to bata.
+# gloss = called Maria the child.
+# text_en = Maria called the child.
+1	Igtawar	tawar	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=called
+2	ni	ni	ADP	_	Case=Gen	3	case	_	_
+3	Maria	Maria	PROPN	_	Gender=Fem	1	obj	_	Gloss=Maria
+4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
+5	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_bunyeyap-05
+# ceb_parallel = bunyeyap-05
+# text = Mallayat ni.
+# gloss = tall this.
+# text_en = This is tall.
+1	Mallayat	mallayat	ADJ	_	Degree=Pos	0	root	_	Gloss=tall
+2	ni	ni	PRON	_	Deixis=Prox|PronType=Dem	1	amod	_	Gloss=this|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_bunyeyap-09
+# ceb_parallel = bunyeyap-09
+# text = Dunnakan ni Ditang to kusina parak Tonying.
+# gloss = will.sweep Ditang the kitchen for Tonying.
+# text_en = Ditang will sweep the kitchen for Tonying.
+1	Dunnakan	dunnak	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=will.sweep
+2	ni	ni	ADP	_	Case=Gen	3	case	_	_
+3	Ditang	Ditang	PROPN	_	Gender=Fem	1	obj	_	Gloss=Ditang
+4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
+5	kusina	kusina	NOUN	_	_	1	nsubj	_	Gloss=kitchen
+6-7	parak	_	_	_	_	_	_	_	_
+6	para	para	ADP	_	_	8	case	_	Gloss=for
+7	-k	ka	ADP	_	Case=Gen	6	fixed	_	_
+8	Tonying	Tonying	PROPN	_	Gender=Masc	1	obl	_	Gloss=Tonying|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_bunyeyap-13
+# ceb_parallel = bunyeyap-13
+# text = Dire Maria to ngadan din.
+# gloss = not Maria the name her.
+# text_en = Her name is not Maria.
+1	Dire	dire	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
+2	Maria	Maria	PROPN	_	Gender=Fem	0	root	_	Gloss=Maria
+3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
+4	ngadan	ngadan	NOUN	_	_	2	nsubj	_	Gloss=name
+5	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Gloss=her|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = bgs_bunyeyap-24
+# ceb_parallel = bunyeyap-24
+# text = Menda ka padulong?
+# gloss = Where you heading.to?
+# text_en = Where are you heading to?
+1	Menda	menda	PRON	_	_	3	nmod	_	Gloss=where
+2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you
+3	padulong	dulong	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=heading.to|SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = bgs_tatoeba-10
+# ceb_parallel = tatoeba-10
+# text = Dun aso ke. 
+# gloss =  have dog we.
+# text_en = We have a dog.
+# tatoeba_author = Josefwintzent
+1	Dun	dun	VERB	_	_	0	root	_	Gloss=have
+2	aso	ako	NOUN	_	_	1	obj	_	Gloss=dog
+3	ke	ke	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	Gloss=we|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_tatoeba-16
+# ceb_parallel = tatoeba-16
+# text = Kadiggeran ak neko. 
+# gloss = love I you.
+# text_en = I love you.
+# tatoeba_author = Josefwintzent
+1	Kadiggeran	diggeran	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pas	0	root	_	Gloss=love
+2	ak	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+3	neko	neko	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	obj	_	Gloss=you|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_tanangkinsing-02
+# ceb_parallel = tanangkinsing-02
+# text = igpangitan ak to baye.
+# gloss = see.ugly I the woman.
+# text_en = I am consciously aware of the ugliness of the woman.
+1	igpangitan	pangit	VERB	Aspect=Perf|Mood=Ind|Voice=Pass	root	0	root	_	Gloss=see.ugly
+2	ak	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+3	to	to	ADP	_	Case=Dat		4	case	_	Gloss=the
+4	baye	baye	NOUN	_	_	1	obj	_	Gloss=woman|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_tanangkinsing-03
+# ceb_parallel = tanangkinsing-03
+# text = igpangitan ak to baye.
+# gloss = see.ugly I the woman.
+# text_en = I am consciously aware of the ugliness of the woman.
+1	igpangitan	pangit	VERB	Aspect=Perf|Mood=Ind|Voice=Pass	root	0	root	_	Gloss=see.ugly
+2	ak	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+3	to	to	ADP	_	Case=Dat		4	case	_	Gloss=the
+4	baye	baye	NOUN	_	_	1	obj	_	Gloss=woman|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_tanangkinsing-05
+# ceb_parallel = tanangkinsing-05
+# text = Igkange ko to sulat.
+# gloss = received I the letter.
+# text_en = I have already received the letter.
+1	Igkange	kange	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=received
+2	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=I
+3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
+4	sulat	sulat	NOUN	_	_	1	nsubj	_	Gloss=letter|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_tanangkinsing-08
+# ceb_parallel = tanangkinsing-08
+# text = Igambak to aso duton ka bintana.
+# gloss = jumped the dog the window.
+# text_en = The dog jumped out the window.
+1	Igambak	ambak	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=jumped
+2	to	to	ADP	_	Case=Nom	3	case	_	Gloss=the
+3	aso	aso	NOUN	_	_	1	nsubj	_	Gloss=dog
+4	duton	duton	PART	_	_	1	advmod	_	_
+5	ka	ka	ADP	_	Case=Dat	6	case	_	Gloss=the
+6	bintana	bintana	NOUN	_	_	1	obj	_	Gloss=window|SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_tatoeba-17
+# ceb_parallel = tatoeba-17
+# text = Inda ad gustok neko. 
+# gloss =  not anymore like I you.
+# text_en = I don't like you anymore.
+# tatoeba_author = Josefwintzent
+1	Inda	inda	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
+2	ad	ad	ADV	_	_	3	advmod	_	Gloss=anymore
+3-4	gustok	_	_	_	_	_	_	_	_
+3	gusto	gusto	VERB	_	_	0	root	_	Gloss=like
+4	-k	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I
+5	neko	neko	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	obj	_	Gloss=you|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = bgs_tatoeba-45
+# ceb_parallel = tatoeba-45
+# text = Indin ngadan no?
+# gloss = what name your?
+# text_en = What is your name?
+# tatoeba_author = Josefwintzent
+1	Indin	indin	PRON	_	PronType=Int	0	root	_	Gloss=what
+2	ngadan	ngadan	NOUN	_	_	1	nsubj	_	Gloss=name
+3	no	no	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Gloss=your|SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-46
+# ceb_parallel = tatoeba-46
+# text = Igmenno ka? 
+# gloss = doing.what you?
+# text_en = What are you doing?
+# tatoeba_author = Josefwintzent
+1	Igmenno	menno	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=What
+2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-47
+# ceb_parallel = tatoeba-47
+# text = Unsa na man?
+# gloss = what?
+# text_en = What is it?
+# tatoeba_author = Josefwintzent
+1	Indin	indin	PRON	_	_	0	root	_	Gloss=What
+2	din	din	ADV	_	_	1	advmod	_	_
+3	man	man	PART	_	_	1	advmod	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-50
+# ceb_parallel = tatoeba-50
+# text = Menda kag pano?
+# gloss = where you going?
+# text_en = Where are you going?
+# tatoeba_author = Josefwintzent
+1	Menda	menda	ADV	_	PronType=Int	4	advmod	_	Gloss=Where
+2-3	kag	_	_	_	_	_	_	_	_
+2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=you
+3	-g	eg	PART	_	_	2	mark	_	_
+4	pano	pano	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=going|SpaceAfter=No
+5	?	?	PUNCT	_	_	4	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-51
+# ceb_parallel = tatoeba-51
+# text = Duwa to mengko ko. 
+# gloss = two have cats two.
+# text_en = I have two cats.
+# tatoeba_author = Josefwintzent
+1	Duwa	duwa	NUM	_	_	3	nummod	_	Gloss=two
+2	to	to	ADP	_	Case=Nom	3	case	_	_
+3	mengko	mengko	NOUN	_	_	0	root	_	Gloss=cats
+4	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nmod	_	Gloss=I|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = bgs_tatoeba-54
+# ceb_parallel = tatoeba-54
+# text = Sadan ka?
+# gloss = who you?
+# text_en = Who are you?
+# tatoeba_author = Josefwintzent
+1	Sadan	sadan	PRON	_	PronType=Int	0	root	_	Gloss=Who
+2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
+3	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-55
+# ceb_parallel = tatoeba-55
+# text = Dire ka doktor.
+# gloss = not I doctor.
+# text_en = I am not a doctor.
+# tatoeba_author = Josefwintzent
+1	Dire	dire	PART	_	Polarity=Neg	2	advmod	_	Gloss=not
+2	ka	ka	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	0	root	_	Gloss=I
+3	doktor	doktor	NOUN	_	_	2	nsubj	_	Gloss=doctor|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+# sent_id = bgs_tatoeba-61
+# ceb_parallel = tatoeba-61
+# text = Indin gusto mo? 
+# gloss = what want you?
+# text_en = What do you want?
+# tatoeba_author = Josefwintzent
+1	Indin	indin	PRON	_	PronType=Int	0	root	_	Gloss=What
+2	gusto	gusto	NOUN	_	_	1	obj	_	Gloss=want
+3	mo	mo	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	nmod	_	Gloss=you|SpaceAfter=No
+4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-64
+# ceb_parallel = tatoeba-64
+# text = Yaka ka guol.
+# gloss = do.not worry.
+# text_en = Don't worry.
+# tatoeba_author = Josefwintzent
+1	Yaka	yaka	PART	_	_	3	advmod	_	Gloss=do.not
+2	ka	ka	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=you
+3	guol	guol	VERB	_	_	0	root	_	Gloss=worry|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+# sent_id = bgs_tatoeba-70
+# ceb_parallel = tatoeba-70
+# text = Manan man seggo ka? 
+# gloss = why are crying you?
+# text_en = Why are you crying?
+# tatoeba_author = Josefwintzent
+1	Manan	manan	ADV	_	PronType=Int	3	advmod	_	Gloss=Why
+2	man	man	PART	_	_	3	advmod	_	_
+3	seggo	seggo	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=crying
+4	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|SpaceAfter=No
+5	?	?	PUNCT	_	_	3	punct	_	Gloss=?
+
+# sent_id = bgs_tatoeba-79
+# ceb_parallel = tatoeba-79
+# text = Kaballosan a.
+# gloss = am-hungry I.
+# text_en = I am hungry.
+# tatoeba_author = Josefwintzent
+1	Kaballosan	ballos	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=am.hungry
+2	a	a	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-01
 # text = Marag ágotep to bata.
