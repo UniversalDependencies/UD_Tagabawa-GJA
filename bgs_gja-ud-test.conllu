@@ -1294,87 +1294,87 @@
 # gloss = 
 # text_en = As for Matutum, she was thrown far away.
 # text_original = Ás Matutum, minantug tun ta madiyù.
-1	Ás	_	_	_	_	_	_	_	_
-2	Matutum	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	minantug	_	_	_	_	_	_	_	_
-5	tun	_	_	_	_	_	_	_	_
-6	ta	_	_	_	_	_	_	_	_
-7	madiyu	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Ás	si	_	_	_	_	_	_	_
+2	Matutum	Matutum	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	minantug	antug	_	_	_	_	_	_	_
+5	tun	dutun	_	_	_	_	_	_	_
+6	ta	ta	_	_	_	_	_	_	_
+7	madiyu	diyu	_	_	_	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-12
 # text = Ni gabata, mitángngatángnga.
 # gloss = 
 # text_en = As for these children (of Sandawa and Matutum), they were divided up.
 # text_original = Ni gabatà, mitángngàtángngà.
-1	Ni	_	_	_	_	_	_	_	_
-2	gabata	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	mitángngatángnga	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Ni	ni	_	_	_	_	_	_	_
+2	gabata	bata	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	mitángngatángnga	tángngatángnga	_	_	_	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-13
 # text = Duwán to migtákkás ki Matutum dutut south.
 # gloss = 
 # text_en = There were those who accompanied Matutum to the south.
 # text_original = Duwán tô migtákkás ki Matutum dutut south.
-1	Duwán	_	_	_	_	_	_	_	_
-2	to	_	_	_	_	_	_	_	_
-3	migtákkás	_	_	_	_	_	_	_	_
-4	ki	_	_	_	_	_	_	_	_
-5	Matutum	_	_	_	_	_	_	_	_
-6	dutut	_	_	_	_	_	_	_	_
-7	south	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Duwán	Duwan	_	_	_	_	_	_	_
+2	to	to	_	_	_	_	_	_	_
+3	migtákkás	tákkás	_	_	_	_	_	_	_
+4	ki	ki	_	_	_	_	_	_	_
+5	Matutum	Matutum	_	_	_	_	_	_	_
+6	dutut	dutun	_	_	_	_	_	_	_
+7	south	south	_	_	_	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-14
 # text = Yan go mga Biraan, Tagakolu, Tagaboli, Kalagan, Manubu.
 # gloss = 
 # text_en = Those were the Blaans, Tagakaulos, Tbolis, Kalagans, Manobos.
 # text_original = Yan gó mga Biraan, Tagakólu, Tagabóli, Kalagan, Manubù.
-1	Yan	_	_	_	_	_	_	_	_
-2	go	_	_	_	_	_	_	_	_
-3	mga	_	_	_	_	_	_	_	_
-4	Biraan	_	_	_	_	_	_	_	_
-5	,	_	_	_	_	_	_	_	_
-6	Tagakolu	_	_	_	_	_	_	_	_
-7	,	_	_	_	_	_	_	_	_
-8	Tagaboli	_	_	_	_	_	_	_	_
-9	,	_	_	_	_	_	_	_	_
-10	Kalagan	_	_	_	_	_	_	_	_
-11	,	_	_	_	_	_	_	_	_
-12	Manubu	_	_	_	_	_	_	_	_
-13	.	_	_	_	_	_	_	_	_
+1	Yan	yan	_	_	_	_	_	_	_
+2	go	go	_	_	_	_	_	_	_
+3	mga	mga	_	_	_	_	_	_	_
+4	Biraan	Biraan	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Tagakolu	Tagakolu	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Tagaboli	Tagaboli	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	Kalagan	Kalagan	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	Manubu	Manubu	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-15
 # text = Ni duma gabata igoddo migtákkás kani ame dan, Sandawa mga Matigsalug, Ubu, Átto, asta sikita go mga Tagabawa.
 # gloss = 
 # text_en = These other children (who) stayed with this father of theirs, Sandawa, they were the Matigsalugs, Obo Manobos, Guiangans, and we Tagabawas.
 # text_original = Ni duma gabatà igóddô migtákkás kani amé dan, Sandawà mga Matigsalug, Ubù, Áttó, asta sikita gó mga Tagabawà.
-1	Ni	_	_	_	_	_	_	_	_
-2	duma	_	_	_	_	_	_	_	_
-3	gabata	_	_	_	_	_	_	_	_
-4	igoddo	_	_	_	_	_	_	_	_
-5	migtákkás	_	_	_	_	_	_	_	_
-6	kani	_	_	_	_	_	_	_	_
-7	ame	_	_	_	_	_	_	_	_
-8	dan	_	_	_	_	_	_	_	_
-9	,	_	_	_	_	_	_	_	_
-10	Sandawa	_	_	_	_	_	_	_	_
-11	mga	_	_	_	_	_	_	_	_
-12	Matigsalug	_	_	_	_	_	_	_	_
-13	,	_	_	_	_	_	_	_	_
-14	Ubu	_	_	_	_	_	_	_	_
-15	,	_	_	_	_	_	_	_	_
-16	Átto	_	_	_	_	_	_	_	_
-17	,	_	_	_	_	_	_	_	_
-18	asta	_	_	_	_	_	_	_	_
-19	sikita	_	_	_	_	_	_	_	_
-20	go	_	_	_	_	_	_	_	_
-21	mga	_	_	_	_	_	_	_	_
-22	Tagabawa	_	_	_	_	_	_	_	_
-23	.	_	_	_	_	_	_	_	_
+1	Ni	ni	_	_	_	_	_	_	_
+2	duma	duma	_	_	_	_	_	_	_
+3	gabata	bata	_	_	_	_	_	_	_
+4	igoddo	goddo	_	_	_	_	_	_	_
+5	migtákkás	tákkás	_	_	_	_	_	_	_
+6	kani	kani	_	_	_	_	_	_	_
+7	ame	ame	_	_	_	_	_	_	_
+8	dan	dan	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	Sandawa	Sandawa	_	_	_	_	_	_	_
+11	mga	mga	_	_	_	_	_	_	_
+12	Matigsalug	Matigsalug	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	Ubu	Ubu	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	Átto	Átto	_	_	_	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	asta	asta	_	_	_	_	_	_	_
+19	sikita	sikita	_	_	_	_	_	_	_
+20	go	go	_	_	_	_	_	_	_
+21	mga	mga	_	_	_	_	_	_	_
+22	Tagabawa	Tagabawa	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-16
 # text = Takud taddo dán si Sandawa, mibaluy pabungan.
