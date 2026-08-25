@@ -1227,67 +1227,67 @@
 # gloss = 
 # text_en = She beat Sandawa on the head.
 # text_original = Migbunal din ás Sandawà.
-1	Migbunal	_	_	_	_	_	_	_	_
-2	din	_	_	_	_	_	_	_	_
-3	ás	_	_	_	_	_	_	_	_
-4	Sandawa	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Migbunal	bunal	_	_	_	_	_	_	_
+2	din	din	_	_	_	_	_	_	_
+3	ás	si	_	_	_	_	_	_	_
+4	Sandawa	Sandawa	_	_	_	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-07
 # text = Purisu atin sumállág ka ki Sandawa, duwán kitanán nu nit ulu din ibálla.
 # gloss = 
 # text_en = Therefore if you look at Sandawa (Mt. Apo), you will see something here on its head (that has been) split apart.
 # text_original = Purisu atin sumállág ka ki Sandawà, duwán kitanán nu nit ulu din ibállà.
-1	Purisu	_	_	_	_	_	_	_	_
-2	atin	_	_	_	_	_	_	_	_
-3	sumállág	_	_	_	_	_	_	_	_
-4	ka	_	_	_	_	_	_	_	_
-5	ki	_	_	_	_	_	_	_	_
-6	Sandawa	_	_	_	_	_	_	_	_
-7	,	_	_	_	_	_	_	_	_
-8	duwán	_	_	_	_	_	_	_	_
-9	kitanán	_	_	_	_	_	_	_	_
-10	nu	_	_	_	_	_	_	_	_
-11	nit	_	_	_	_	_	_	_	_
-12	ulu	_	_	_	_	_	_	_	_
-13	din	_	_	_	_	_	_	_	_
-14	ibálla	_	_	_	_	_	_	_	_
-15	.	_	_	_	_	_	_	_	_
+1	Purisu	purisu	_	_	_	_	_	_	_
+2	atin	atin	_	_	_	_	_	_	_
+3	sumállág	sállág	_	_	_	_	_	_	_
+4	ka	ka	_	_	_	_	_	_	_
+5	ki	ki	_	_	_	_	_	_	_
+6	Sandawa	Sandawa	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	duwán	duwán	_	_	_	_	_	_	_
+9	kitanán	kita	_	_	_	_	_	_	_
+10	nu	nu	_	_	_	_	_	_	_
+11	nit	dini	_	_	_	_	_	_	_
+12	ulu	ulu	_	_	_	_	_	_	_
+13	din	din	_	_	_	_	_	_	_
+14	ibálla	bálla	_	_	_	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-08
 # text = To go miglagpás i Matutum ka barira.
 # gloss = 
 # text_en = That is where Matutum beat him with the batten.
 # text_original = Tô gó miglagpás i Matutum ka barira.
-1	To	_	_	_	_	_	_	_	_
-2	go	_	_	_	_	_	_	_	_
-3	miglagpás	_	_	_	_	_	_	_	_
-4	i	_	_	_	_	_	_	_	_
-5	Matutum	_	_	_	_	_	_	_	_
-6	ka	_	_	_	_	_	_	_	_
-7	barira	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	To	to	_	_	_	_	_	_	_
+2	go	go	_	_	_	_	_	_	_
+3	miglagpás	lagpas	_	_	_	_	_	_	_
+4	i	i	_	_	_	_	_	_	_
+5	Matutum	Matutum	_	_	_	_	_	_	_
+6	ka	ka	_	_	_	_	_	_	_
+7	barira	barira	_	_	_	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-09
 # text = Misoko si Sandawa.
 # gloss = 
 # text_en = Sandawa was angry.
 # text_original = Misókó si Sandawà.
-1	Misoko	_	_	_	_	_	_	_	_
-2	si	_	_	_	_	_	_	_	_
-3	Sandawa	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Misoko	soko	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	Sandawa	Sandawa	_	_	_	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-10
 # text = Migsipa din ás Matutum.
 # gloss = 
 # text_en = He kicked Matutum.
 # text_original = Migsipà din ás Matutum.
-1	Migsipa	_	_	_	_	_	_	_	_
-2	din	_	_	_	_	_	_	_	_
-3	ás	_	_	_	_	_	_	_	_
-4	Matutum	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Migsipa	sipa	_	_	_	_	_	_	_
+2	din	din	_	_	_	_	_	_	_
+3	ás	si	_	_	_	_	_	_	_
+4	Matutum	Matutum	_	_	_	_	_	_	_
+5	.	.	_	_	_	_	_	_	_
 
 # sent_id = bgs_dubois-2005-11
 # text = Ás Matutum, minantug tun ta madiyu.
