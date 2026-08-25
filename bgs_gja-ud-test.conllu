@@ -209,7 +209,7 @@
 4	pwede	pwede	ADV	_	_	5	advmod	_	Gloss=can
 5	sadon	sadon	VERB	_	_	0	root	_	Gloss=come
 6	dini	dini	ADV	_	_	5	advmod	_	Gloss=there|SpaceAfter=No
-7	?	?	PUNCT	_	_	5	punct	_	Gloss=.
+7	?	?	PUNCT	_	_	5	punct	_	Gloss=?
 
 # sent_id = bgs_cairo-15
 # parallel_id = cairo/15
