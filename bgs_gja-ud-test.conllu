@@ -124,22 +124,22 @@
 
 # sent_id = bgs_tanangkinsing-05
 # ceb_parallel = tanangkinsing-05
-# text = Igkange ko toʔ sulat.
+# text = Igkange ko to sulat.
 # gloss = received I the letter.
 # text_en = I have already received the letter.
 1	Igkange	kange	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=received
 2	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=I
-3	toʔ	toʔ	ADP	_	Case=Nom	4	case	_	Gloss=the
+3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
 4	sulat	sulat	NOUN	_	_	1	nsubj	_	Gloss=letter|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_tanangkinsing-08
 # ceb_parallel = tanangkinsing-08
-# text = Igambak toʔ aso duton ka bintana.
+# text = Igambak to aso duton ka bintana.
 # gloss = jumped the dog the window.
 # text_en = The dog jumped out the window.
 1	Igambak	ambak	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=jumped
-2	toʔ	toʔ	ADP	_	Case=Nom	3	case	_	Gloss=the
+2	to	to	ADP	_	Case=Nom	3	case	_	Gloss=the
 3	aso	aso	NOUN	_	_	1	nsubj	_	Gloss=dog
 4	duton	duton	PART	_	_	1	advmod	_	_
 5	ka	ka	ADP	_	Case=Dat	6	case	_	Gloss=the
@@ -207,12 +207,12 @@
 
 # sent_id = bgs_tatoeba-51
 # ceb_parallel = tatoeba-51
-# text = Duwa toʔ mengko ko. 
+# text = Duwa to mengko ko. 
 # gloss = two have cats two.
 # text_en = I have two cats.
 # tatoeba_author = Josefwintzent
 1	Duwa	duwa	NUM	_	_	3	nummod	_	Gloss=two
-2	toʔ	toʔ	ADP	_	Case=Nom	3	case	_	_
+2	to	to	ADP	_	Case=Nom	3	case	_	_
 3	mengko	mengko	NOUN	_	_	0	root	_	Gloss=cats
 4	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nmod	_	Gloss=I|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
@@ -284,11 +284,11 @@
 
 # sent_id = bgs_cairo-1
 # parallel_id = cairo/1
-# text = ʔIgsulat toʔ baye ka sulat para ka rarak nya .
+# text = Igsulat to baye ka sulat para ka rarak nya .
 # text_gloss = wrote the girl a letter to friend her.
 # text_en = The girl wrote a letter to her friend.
-1	ʔIgsulat	sulat	VERB	_	_	0	root	_	Gloss=wrote
-2	toʔ	toʔ	ADP	_	Case=Nom	3	case	_	Gloss=the
+1	Igsulat	sulat	VERB	_	_	0	root	_	Gloss=wrote
+2	to	to	ADP	_	Case=Nom	3	case	_	Gloss=the
 3	baye	baye	NOUN	_	_	1	nsubj	_	Gloss=girl
 4	ka	ka	ADP	_	Case=Gen	5	case	_	Gloss=a
 5	sulat	sulat	NOUN	_	_	1	obj	_	Gloss=letter
@@ -300,10 +300,10 @@
 
 # sent_id = bgs_cairo-2
 # parallel_id = cairo/2
-# text = ʔIring gudan .
+# text = Iring gudan .
 # text_gloss = like raining.
 # text_en = I think that it is raining.
-1	ʔIring	ʔIring	ADV	_	_	2	advmod	_	Gloss=like
+1	Iring	Iring	ADV	_	_	2	advmod	_	Gloss=like
 2	gudan	udan	VERB	_	_	0	root	_	Gloss=rain|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -340,25 +340,25 @@
 
 # sent_id = bgs_cairo-5
 # parallel_id = cairo/5
-# text = Sam , ʔabrihiʔ no toʔ bintana !
+# text = Sam , abrihi no to bintana !
 # text_gloss = Sam, open you the window!
 # text_en = Sam, open the window!
 1	Sam	Sam	PROPN	_	_	3	vocative	_	Gloss=Sam|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-3	ʔabrihiʔ	ʔabriʔ	VERB	_	Mood=Imp	0	root	_	Gloss=open
+3	abrihi	abri	VERB	_	Mood=Imp	0	root	_	Gloss=open
 4	no	ka	PRON	_	_	6	nmod	_	Gloss=you
-5	toʔ	toʔ	ADP	_	_	6	case	_	Gloss=the
+5	to	to	ADP	_	_	6	case	_	Gloss=the
 6	bintana	bintana	NOUN	_	_	3	nsubj	_	Gloss=window|SpaceAfter=No
 7	!	!	PUNCT	_	_	3	punct	_	Gloss=!
 
 # sent_id = bgs_cairo-6
 # parallel_id = cairo/6
-# text = Igsugoʔ nya toʔ sawa din na iglimpyo ka kotse .
+# text = Igsugo nya to sawa din na iglimpyo ka kotse .
 # text_gloss = Told she husband her to wash the car.
 # text_en = She made her husband wash the car.
-1	Igsugoʔ	sugoʔ	VERB	_	_	0	root	_	Gloss=made
+1	Igsugo	sugo	VERB	_	_	0	root	_	Gloss=made
 2	nya	nya	PRON	_	_	1	nmod	_	Gloss=she
-3	toʔ	toʔ	ADP	_	_	4	case	_	_
+3	to	to	ADP	_	_	4	case	_	_
 4	sawa	sawa	NOUN	_	_	1	nsubj	_	Gloss=husband
 5	din	nya	PRON	_	_	4	nmod	_	Gloss=her
 6	na	na	PART	_	_	7	mark	_	_
@@ -369,7 +369,7 @@
 
 # sent_id = bgs_cairo-7
 # parallel_id = cairo/7
-# text = Igpinturahan ka silingan ni Peter toʔ koral ka malloto .
+# text = Igpinturahan ka silingan ni Peter to koral ka malloto .
 # text_gloss = Painted neighbor of Peter the fence red.
 # text_en = Peter's neighbor painted the fence red.
 1	Igpinturahan	pintura	VERB	_	_	0	root	_	Gloss=painted
@@ -377,7 +377,7 @@
 3	silingan	silingan	NOUN	_	_	1	obj	_	Gloss=neighbor
 4	ni	ni	ADP	_	_	5	case	_	Gloss=of
 5	Peter	Peter	PROPN	_	_	3	obl	_	Gloss=Peter
-6	toʔ	toʔ	ADP	_	_	7	case	_	Gloss=the
+6	to	to	ADP	_	_	7	case	_	Gloss=the
 7	koral	koral	NOUN	_	_	1	nsubj	_	Gloss=fence
 8	ka	ka	ADP	_	_	9	case	_	_
 9	malloto	malloto	NOUN	_	_	7	obl	_	Gloss=red|SpaceAfter=No
@@ -385,10 +385,10 @@
 
 # sent_id = bgs_cairo-8
 # parallel_id = cairo/8
-# text = Toʔ apa ko mas kuyaw kaysa to? apa no.
+# text = To apa ko mas kuyaw kaysa to? apa no.
 # text_gloss = dad my cooler the dad yours.
 # text_en = My dad is cooler than yours.
-1	Toʔ	toʔ	ADP	_	_	2	case	_	_
+1	To	to	ADP	_	_	2	case	_	_
 2	apa	apa	NOUN	_	_	0	root	_	Gloss=dad
 3	ko	ko	PRON	_	_	2	nmod	_	Gloss=my
 4	mas	mas	ADV	_	_	5	advmod	_	_
@@ -424,10 +424,10 @@
 
 # sent_id = bgs_cairo-10
 # parallel_id = cairo/10
-# text = Toʔ Iguazo ba kay dakál o dilak na nasod?
+# text = To Iguazo ba kay dakál o dilak na nasod?
 # text_gloss = Iguazo QUESTION big or small country?
 # text_en = Is Iguazo a big or a small country?
-1	Toʔ	toʔ	ADP	_	_	2	case	_	_
+1	To	to	ADP	_	_	2	case	_	_
 2	Iguazo	Iguazo	PROPN	_	_	0	root	_	Gloss=Iguazo
 3	ba	ba	PART	_	_	2	advmod	_	Gloss=QUESTION
 4	kay	kay	PART	_	_	5	mark	_	_
@@ -459,10 +459,10 @@
 
 # sent_id = bgs_cairo-12
 # parallel_id = cairo/12
-# text = ʔándaʔ kasud'dor sikandan sadan igsulat kato.
+# text = ánda kasud'dor sikandan sadan igsulat kato.
 # text_gloss = have.no idea they who write it.
 # text_en = They have no idea who wrote it.
-1	ʔándaʔ	ʔándaʔ	VERB	_	_	0	root	_	Gloss=have.no
+1	ánda	ánda	VERB	_	_	0	root	_	Gloss=have.no
 2	kasud'dor	kasud'dor	NOUN	_	_	1	obj	_	Gloss=idea
 3	sikandan	sikandan	PRON	_	_	1	nsubj	_	Gloss=they
 4	sadan	sadan	PRON	_	_	5	nmod	_	Gloss=who
@@ -472,12 +472,12 @@
 
 # sent_id = bgs_cairo-13
 # parallel_id = cairo/13
-# text = Indin man toʔ igsillig no?
+# text = Indin man to igsillig no?
 # text_gloss = what looking you?
 # text_en = What are you looking at?
 1	Indin	indin	PRON	_	_	4	nmod	_	Gloss=what
 2	man	man	PART	_	_	4	advmod	_	_
-3	toʔ	toʔ	ADP	_	_	4	case	_	_
+3	to	to	ADP	_	_	4	case	_	_
 4	igsillig	sillig	VERB	_	0	root	_	_	Gloss=looking
 5	no	no	PRON	_	_	4	nmod	_	Gloss=you|SpaceAfter=No
 6	?	?	PUNCT	_	_	4	punct	_	Gloss=?
@@ -505,7 +505,7 @@
 3	ka	ka	ADP	_	_	4	case	_	Gloss=a
 4	kotse	kotse	NOUN	_	_	1	obj	_	Gloss=car
 5	pero	pero	CCONJ	_	_	11	cc	_	Gloss=but
-6	toʔ	toʔ	ADP	_	_	7	case	_	_
+6	to	to	ADP	_	_	7	case	_	_
 7	igsoon	igsoon	NOUN	_	_	11	nsubj	_	Gloss=brother
 8	din	din	PRON	_	_	7	nmod	_	Gloss=his
 9	kay	kay	PART	_	_	11	mark	_	_
@@ -534,13 +534,13 @@
 
 # sent_id = bgs_cairo-17
 # parallel_id = cairo/17
-# text = Dapat piyaan nya toʔ ulo nya pero sa pipila ka rason dire nya gusto lumon ni to el'lo.
+# text = Dapat piyaan nya to ulo nya pero sa pipila ka rason dire nya gusto lumon ni to el'lo.
 # text_gloss =
 # text_en = She should have been doing her hair but for some reason she wouldn't that day.
 1	Dapat	dapat	ADV	_	_	2	advmod	_	Gloss=should.have.been
 2	piyaan	piyaan	VERB	_	_	0	root	_	Gloss=doing
 3	nya	nya	PRON	_	_	2	nmod	_	Gloss=she
-4	toʔ	toʔ	ADP	_	_	5	case	_	_
+4	to	to	ADP	_	_	5	case	_	_
 5	ulo	ulo	NOUN	_	_	2	nsubj	_	Gloss=hair
 6	nya	nya	PRON	_	_	5	nmod	_	_
 7	pero	pero	CCONJ	_	_	15	cc	_	Gloss=but
@@ -559,10 +559,10 @@
 
 # sent_id = bgs_cairo-18
 # parallel_id = cairo/18
-# text = ʔándaʔ ko nakaya na lupog ka kandin kay bákkár sunnod sikandin palaguy.
+# text = ánda ko nakaya na lupog ka kandin kay bákkár sunnod sikandin palaguy.
 # text_gloss = was.not I able keep.up because fast too he ran.
 # text_en = I wasn't able to keep up, because he ran too fast.
-1	ʔándaʔ	ʔándaʔ	ADV	_	_	3	advmod	_	Gloss=was.not
+1	ánda	ánda	ADV	_	_	3	advmod	_	Gloss=was.not
 2	ko	ko	PRON	_	_	3	nsubj	_	Gloss=I
 3	nakaya	kaya	VERB	_	_	0	root	_	Gloss=able
 4	na	na	PART	_	_	5	mark	_	_
@@ -597,7 +597,7 @@
 
 # sent_id = bgs_cairo-20
 # parallel_id = cairo/20
-# text = Igdakál sikandin diyak Paris, toʔ ulo ka France.
+# text = Igdakál sikandin diyak Paris, to ulo ka France.
 # text_gloss = grew.up she in Paris, the capital of France.
 # text_en = She grew up in Paris, the capital of France.
 1	Igdakál	dakál	VERB	_	_	0	root	_	Gloss=grew.up
@@ -605,7 +605,7 @@
 3	diyak	diyak	ADP	_	_	4	case	_	Gloss=in
 4	Paris	Paris	PROPN	_	_	1	obj	_	Gloss=Paris|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-6	toʔ	toʔ	ADP	_	_	7	case	_	Gloss=the
+6	to	to	ADP	_	_	7	case	_	Gloss=the
 7	ulo	ulo	NOUN	_	_	4	parataxis	_	Gloss=capital
 8	ka	ka	ADP	_	_	9	case	_	Gloss=of
 9	France	France	PROPN	_	_	7	obj	_	Gloss=France|SpaceAfter=No
