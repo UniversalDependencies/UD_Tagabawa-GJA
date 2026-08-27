@@ -434,8 +434,8 @@
 # text = igpangitan ak to baye.
 # gloss = see.ugly I the woman.
 # text_en = I am consciously aware of the ugliness of the woman.
-1	igpangitan	pangit	VERB	Aspect=Perf|Mood=Ind|Voice=Pass	root	0	root	_	Gloss=see.ugly
-2	ak	ak	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	1	nsubj	_	Gloss=I
+1	igpangitan	pangit	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=see.ugly
+2	ak	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
 3	to	to	ADP	Case=Dat	_	4	case	_	Gloss=the
 4	baye	baye	NOUN	_	_	1	obj	_	Gloss=woman|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -445,8 +445,8 @@
 # text = igpangitan ak to baye.
 # gloss = see.ugly I the woman.
 # text_en = I am consciously aware of the ugliness of the woman.
-1	igpangitan	pangit	VERB	Aspect=Perf|Mood=Ind|Voice=Pass	root	0	root	_	Gloss=see.ugly
-2	ak	ak	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	1	nsubj	_	Gloss=I
+1	igpangitan	pangit	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	_	0	root	_	Gloss=see.ugly
+2	ak	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
 3	to	to	ADP	Case=Dat	_	4	case	_	Gloss=the
 4	baye	baye	NOUN	_	_	1	obj	_	Gloss=woman|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
