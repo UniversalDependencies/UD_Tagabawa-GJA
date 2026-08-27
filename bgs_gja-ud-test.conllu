@@ -1191,38 +1191,38 @@
 
 # sent_id = bgs_dubois-2005-04
 # text = Na takud ta taladuma man si Sandawa asta si Matutum, si Matutum ágtanud.
-# gloss = 
+# gloss = LNK from spouses naturally Sanda and Matutum, Matutum was jealous.
 # text_en = And naturally since Sandawa and Matutum were spouses to each other, Matutum, she was jealous.
 # text_original = Na takud ta taladuma man si Sandawà asta si Matutum, si Matutum ágtanud.
-1	Na	na	_	_	_	_	_	_	_
-2	takud	tikud	_	_	_	_	_	_	_
+1	Na	na	_	_	_	_	_	_	Gloss=LNK
+2	takud	tikud	_	_	_	_	_	_	Gloss=from
 3	ta	ta	_	_	_	_	_	_	_
-4	taladuma	taladuma	_	_	_	_	_	_	_
-5	man	man	_	_	_	_	_	_	_
+4	taladuma	taladuma	_	_	_	_	_	_	Gloss=spouses
+5	man	man	_	_	_	_	_	_	Gloss=naturally
 6	si	si	_	_	_	_	_	_	_
-7	Sandawa	Sandawa	_	_	_	_	_	_	_
-8	asta	asta	_	_	_	_	_	_	_
+7	Sandawa	Sandawa	_	_	_	_	_	_	Gloss=Sandawa
+8	asta	asta	_	_	_	_	_	_	Gloss=and
 9	si	si	_	_	_	_	_	_	_
-10	Matutum	Matutum	_	_	_	_	_	_	_
-11	,	,	_	_	_	_	_	_	_
+10	Matutum	Matutum	_	_	_	_	_	_	Gloss=Matutum|SpaceAfter=No
+11	,	,	_	_	_	_	_	_	Gloss=,
 12	si	si	_	_	_	_	_	_	_
-13	Matutum	Matutum	_	_	_	_	_	_	_
-14	ágtanud	tanud	_	_	_	_	_	_	_
-15	.	.	_	_	_	_	_	_	_
+13	Matutum	Matutum	_	_	_	_	_	_	Gloss=Matutum
+14	ágtanud	tanud	_	_	_	_	_	_	Gloss=was.jealous|SpaceAfter=No
+15	.	.	_	_	_	_	_	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-05
 # text = Migpudut din to barira ággamitán ka gabál.
-# gloss = 
+# gloss = picked.up she the batten is.used for weaving.
 # text_en = She picked up the batten that is used for weaving.
 # text_original = Migpudut din tô barira ággamitán ka gabál.
-1	Migpudut	pudut	_	_	_	_	_	_	_
-2	din	din	_	_	_	_	_	_	_
-3	to	to	_	_	_	_	_	_	_
-4	barira	barira	_	_	_	_	_	_	_
-5	ággamitán	gamit	_	_	_	_	_	_	_
-6	ka	ka	_	_	_	_	_	_	_
-7	gabál	abál	_	_	_	_	_	_	_
-8	.	.	_	_	_	_	_	_	_
+1	Migpudut	pudut	_	_	_	_	_	_	Gloss=picked.up
+2	din	din	_	_	_	_	_	_	Gloss=she
+3	to	to	_	_	_	_	_	_	Gloss=the
+4	barira	barira	_	_	_	_	_	_	Gloss=batten
+5	ággamitán	gamit	_	_	_	_	_	_	Gloss=is.used
+6	ka	ka	_	_	_	_	_	_	Gloss=for
+7	gabál	abál	_	_	_	_	_	_	Gloss=weaving|SpaceAfter=No
+8	.	.	_	_	_	_	_	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-06
 # text = Migbunal din ás Sandawa.
