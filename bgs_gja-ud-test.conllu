@@ -1429,46 +1429,46 @@
 
 # sent_id = bgs_dubois-2005-19
 # text = Purisu atin ágngadan e Bagobo Apu Sandawa, su apu ta.
-# gloss = 
+# gloss = therefore when named the Bagobo grandparent Sandawa, because grandparent our.
 # text_en = Therefore when the Bagobos call him Grandfather Sandawa, it is because he is our grandfather.
 # text_original = Purisu atin ágngadan é Bagóbô Apù Sandawà, su apù ta.
-1	Purisu	purisu	_	_	_	_	_	_	_
-2	atin	atin	_	_	_	_	_	_	_
-3	ágngadan	ngadan	_	_	_	_	_	_	_
-4	e	e	_	_	_	_	_	_	_
-5	Bagobo	Bagobo	_	_	_	_	_	_	_
-6	Apu	Apu	_	_	_	_	_	_	_
-7	Sandawa	Sandawa	_	_	_	_	_	_	_
-8	,	,	_	_	_	_	_	_	_
-9	su	su	_	_	_	_	_	_	_
-10	apu	apu	_	_	_	_	_	_	_
-11	ta	ta	_	_	_	_	_	_	_
-12	.	.	_	_	_	_	_	_	_
+1	Purisu	purisu	_	_	_	_	_	_	Gloss=therefore
+2	atin	atin	_	_	_	_	_	_	Gloss=when
+3	ágngadan	ngadan	_	_	_	_	_	_	Gloss=named
+4	e	e	_	_	_	_	_	_	Gloss=the
+5	Bagobo	Bagobo	_	_	_	_	_	_	Gloss=Bagobo
+6	Apu	Apu	_	_	_	_	_	_	Gloss=grandparent
+7	Sandawa	Sandawa	_	_	_	_	_	_	Gloss=Sandawa|SpaceAfter=No
+8	,	,	_	_	_	_	_	_	Gloss=,
+9	su	su	_	_	_	_	_	_	Gloss=because
+10	apu	apu	_	_	_	_	_	_	Gloss=grandparent
+11	ta	ta	_	_	_	_	_	_	Gloss=our|SpaceAfter=No
+12	.	.	_	_	_	_	_	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-20
 # text = Purisu atin ágngadan ki Apu Sandawa, su apu ta yan.
-# gloss = 
+# gloss = therefore when named we Grandparent Sandawa, because grandparent our that.
 # text_en = Therefore when we call him Grandfather Sandawa, it is because that one is our grandfather.
 # text_original = Purisu atin ágngadan ki Apù Sandawà, su apù ta yan.
-1	Purisu	purisu	_	_	_	_	_	_	_
-2	atin	atin	_	_	_	_	_	_	_
-3	ágngadan	ngadan	_	_	_	_	_	_	_
-4	ki	ki	_	_	_	_	_	_	_
-5	Apu	Apu	_	_	_	_	_	_	_
-6	Sandawa	Sandawa	_	_	_	_	_	_	_
-7	,	,	_	_	_	_	_	_	_
-8	su	su	_	_	_	_	_	_	_
-9	apu	apu	_	_	_	_	_	_	_
-10	ta	ta	_	_	_	_	_	_	_
-11	yan	yan	_	_	_	_	_	_	_
-12	.	.	_	_	_	_	_	_	_
+1	Purisu	purisu	_	_	_	_	_	_	Gloss=therefore
+2	atin	atin	_	_	_	_	_	_	Gloss=when
+3	ágngadan	ngadan	_	_	_	_	_	_	Gloss=named
+4	ki	ki	_	_	_	_	_	_	Gloss=we
+5	Apu	Apu	_	_	_	_	_	_	Gloss=Grandparent
+6	Sandawa	Sandawa	_	_	_	_	_	_	Gloss=Sandawa|SpaceAfter=No
+7	,	,	_	_	_	_	_	_	Gloss=,
+8	su	su	_	_	_	_	_	_	Gloss=because
+9	apu	apu	_	_	_	_	_	_	Gloss=grandparent
+10	ta	ta	_	_	_	_	_	_	Gloss=our
+11	yan	yan	_	_	_	_	_	_	Gloss=that|SpaceAfter=No
+12	.	.	_	_	_	_	_	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-21
 # text = Taddo dád go.
-# gloss = 
+# gloss = there only.
 # text_en = There only for sure.
 # text_original = Taddô dád gó.
-1	Taddo	taddo	_	_	_	_	_	_	_
-2	dád	dad	_	_	_	_	_	_	_
-3	go	go	_	_	_	_	_	_	_
-4	.	.	_	_	_	_	_	_	_
+1	Taddo	taddo	_	_	_	_	_	_	Gloss=there
+2	dád	dad	_	_	_	_	_	_	Gloss=only
+3	go	go	_	_	_	_	_	_	SpaceAfter=No
+4	.	.	_	_	_	_	_	_	Gloss=.
