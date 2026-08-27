@@ -1351,32 +1351,32 @@
 
 # sent_id = bgs_dubois-2005-15
 # text = Ni duma gabata igoddo migtákkás kani ame dan, Sandawa mga Matigsalug, Ubu, Átto, asta sikita go mga Tagabawa.
-# gloss = 
-# text_en = These other children (who) stayed with this father of theirs, Sandawa, they were the Matigsalugs, Obo Manobos, Guiangans, and we Tagabawas.
+# gloss = this other children stayed accompany this father theirs, Sandawa PLUR Matigsalugs, Obo-Manobos, Guiangans, and we PLUR Tagabawas.
+# text_en = These other children (who) stayed with this father of theirs, Sandawa, they were the Matigsalugs, Obo-Manobos, Guiangans, and we Tagabawas.
 # text_original = Ni duma gabatà igóddô migtákkás kani amé dan, Sandawà mga Matigsalug, Ubù, Áttó, asta sikita gó mga Tagabawà.
-1	Ni	ni	_	_	_	_	_	_	_
-2	duma	duma	_	_	_	_	_	_	_
-3	gabata	bata	_	_	_	_	_	_	_
-4	igoddo	goddo	_	_	_	_	_	_	_
-5	migtákkás	tákkás	_	_	_	_	_	_	_
-6	kani	kani	_	_	_	_	_	_	_
-7	ame	ame	_	_	_	_	_	_	_
-8	dan	dan	_	_	_	_	_	_	_
-9	,	,	_	_	_	_	_	_	_
-10	Sandawa	Sandawa	_	_	_	_	_	_	_
-11	mga	mga	_	_	_	_	_	_	_
-12	Matigsalug	Matigsalug	_	_	_	_	_	_	_
-13	,	,	_	_	_	_	_	_	_
-14	Ubu	Ubu	_	_	_	_	_	_	_
-15	,	,	_	_	_	_	_	_	_
-16	Átto	Átto	_	_	_	_	_	_	_
-17	,	,	_	_	_	_	_	_	_
-18	asta	asta	_	_	_	_	_	_	_
-19	sikita	sikita	_	_	_	_	_	_	_
+1	Ni	ni	_	_	_	_	_	_	Gloss=this
+2	duma	duma	_	_	_	_	_	_	Gloss=other
+3	gabata	bata	_	_	Number=Plur	_	_	_	Gloss=children
+4	igoddo	goddo	_	_	_	_	_	_	Gloss=stayed
+5	migtákkás	tákkás	_	_	_	_	_	_	Gloss=accompany
+6	kani	kani	_	_	_	_	_	_	Gloss=this
+7	ame	ame	_	_	_	_	_	_	Gloss=father
+8	dan	dan	_	_	_	_	_	_	Gloss=theirs|SpaceAfter=No
+9	,	,	_	_	_	_	_	_	Gloss=,
+10	Sandawa	Sandawa	_	_	_	_	_	_	Gloss=Sandawa
+11	mga	mga	_	_	_	_	_	_	Gloss=PLUR
+12	Matigsalug	Matigsalug	_	_	_	_	_	_	Gloss=Matigsalugs|SpaceAfter=No
+13	,	,	_	_	_	_	_	_	Gloss=,
+14	Ubu	Ubu	_	_	_	_	_	_	Gloss=Obo-Manobos|SpaceAfter=No
+15	,	,	_	_	_	_	_	_	Gloss=,
+16	Átto	Átto	_	_	_	_	_	_	Gloss=Guiangans|SpaceAfter=No
+17	,	,	_	_	_	_	_	_	Gloss=,
+18	asta	asta	_	_	_	_	_	_	Gloss=and
+19	sikita	sikita	_	_	_	_	_	_	Gloss=we
 20	go	go	_	_	_	_	_	_	_
-21	mga	mga	_	_	_	_	_	_	_
-22	Tagabawa	Tagabawa	_	_	_	_	_	_	_
-23	.	.	_	_	_	_	_	_	_
+21	mga	mga	_	_	_	_	_	_	Gloss=PLUR
+22	Tagabawa	Tagabawa	_	_	_	_	_	_	Gloss=Tagabawas|SpaceAfter=No
+23	.	.	_	_	_	_	_	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-16
 # text = Takud taddo dán si Sandawa, mibaluy pabungan.
