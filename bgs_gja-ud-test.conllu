@@ -1317,37 +1317,37 @@
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-13
-# text = Duwán to migtákkás ki Matutum dutut south.
-# gloss = 
+# text = Duwán to mistakes ki Matutum dutut south.
+# gloss = there.were accompanied Matutum there south.
 # text_en = There were those who accompanied Matutum to the south.
 # text_original = Duwán tô migtákkás ki Matutum dutut south.
-1	Duwán	Duwan	_	_	_	_	_	_	_
+1	Duwán	Duwan	_	_	_	_	_	_	Gloss=there.were
 2	to	to	_	_	_	_	_	_	_
-3	migtákkás	tákkás	_	_	_	_	_	_	_
+3	migtákkás	tákkás	_	_	_	_	_	_	Gloss=accompanied
 4	ki	ki	_	_	_	_	_	_	_
-5	Matutum	Matutum	_	_	_	_	_	_	_
-6	dutut	dutun	_	_	_	_	_	_	_
-7	south	south	_	_	_	_	_	_	_
-8	.	.	_	_	_	_	_	_	_
+5	Matutum	Matutum	_	_	_	_	_	_	Gloss=Matutum
+6	dutut	dutun	_	_	_	_	_	_	Gloss=there
+7	south	south	_	_	_	_	_	_	Gloss=south|SpaceAfter=No
+8	.	.	_	_	_	_	_	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-14
 # text = Yan go mga Biraan, Tagakolu, Tagaboli, Kalagan, Manubu.
-# gloss = 
+# gloss = that PLUR Blaans, Tagakaulos, Tbolis, Kalagans, Manubus.
 # text_en = Those were the Blaans, Tagakaulos, Tbolis, Kalagans, Manobos.
 # text_original = Yan gó mga Biraan, Tagakólu, Tagabóli, Kalagan, Manubù.
-1	Yan	yan	_	_	_	_	_	_	_
+1	Yan	yan	_	_	_	_	_	_	Gloss=that
 2	go	go	_	_	_	_	_	_	_
-3	mga	mga	_	_	_	_	_	_	_
-4	Biraan	Biraan	_	_	_	_	_	_	_
-5	,	,	_	_	_	_	_	_	_
-6	Tagakolu	Tagakolu	_	_	_	_	_	_	_
-7	,	,	_	_	_	_	_	_	_
-8	Tagaboli	Tagaboli	_	_	_	_	_	_	_
-9	,	,	_	_	_	_	_	_	_
-10	Kalagan	Kalagan	_	_	_	_	_	_	_
-11	,	,	_	_	_	_	_	_	_
-12	Manubu	Manubu	_	_	_	_	_	_	_
-13	.	.	_	_	_	_	_	_	_
+3	mga	mga	_	_	_	_	_	_	Gloss=PLUR
+4	Biraan	Biraan	_	_	_	_	_	_	Gloss=Blaans|SpaceAfter=No
+5	,	,	_	_	_	_	_	_	Gloss=,
+6	Tagakolu	Tagakolu	_	_	_	_	_	_	Gloss=Tagakaulos|SpaceAfter=No
+7	,	,	_	_	_	_	_	_	Gloss=,
+8	Tagaboli	Tagaboli	_	_	_	_	_	_	Gloss=Tbolis|SpaceAfter=No
+9	,	,	_	_	_	_	_	_	Gloss=,
+10	Kalagan	Kalagan	_	_	_	_	_	_	Gloss=Kalagans|SpaceAfter=No
+11	,	,	_	_	_	_	_	_	Gloss=,
+12	Manubu	Manubu	_	_	_	_	_	_	Gloss=Manubus|SpaceAfter=No
+13	.	.	_	_	_	_	_	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-15
 # text = Ni duma gabata igoddo migtákkás kani ame dan, Sandawa mga Matigsalug, Ubu, Átto, asta sikita go mga Tagabawa.
