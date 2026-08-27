@@ -1307,14 +1307,14 @@
 
 # sent_id = bgs_dubois-2005-12
 # text = Ni gabata, mitángngatángnga.
-# gloss = 
+# gloss = this children were.divided.up.
 # text_en = As for these children (of Sandawa and Matutum), they were divided up.
 # text_original = Ni gabatà, mitángngàtángngà.
-1	Ni	ni	_	_	_	_	_	_	_
-2	gabata	bata	_	_	_	_	_	_	_
-3	,	,	_	_	_	_	_	_	_
-4	mitángngatángnga	tángngatángnga	_	_	_	_	_	_	_
-5	.	.	_	_	_	_	_	_	_
+1	Ni	ni	PRON	_	_	2	nmod	_	Gloss=this
+2	gabata	bata	NOUN	_	Number=Plur	4	nsubj	_	Gloss=children|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+4	mitángngatángnga	tángngatángnga	VERB	_	_	0	root	_	Gloss=were.divided.up|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-13
 # text = Duwán to migtákkás ki Matutum dutut south.
