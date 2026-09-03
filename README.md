@@ -5,7 +5,7 @@ UD_Tagabawa_GJA is a collection of annotated Bagobo-Tagabawa sentences which are
 
 # Introduction
 
-Annotation is done manually by Glyd Jun Arañes with Mary Jane Cooke (native speaker and Philippine linguist) and Geoffrey Marfa (Philippine linguist) . This treebank is also part of Glyd's research for his PhD in Language Studies at the University of Helsinki.
+Annotation is done manually by Glyd Jun Arañes with Mary Jane Cooke (native speaker and Philippine linguist) and Geoffrey Marfa (Philippine linguist). This treebank is also part of Glyd's research for his PhD in Language Studies at the University of Helsinki.
 
 
 # Acknowledgments
@@ -37,7 +37,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Aranes, Glyd; Cooke, Mary Jane; Marfa, Geoffrey
+Contributors: Aranes, Glyd
 Contributing: elsewhere
 Contact: glyd.aranes@helsinki.fi; glyd.aranes@gmail.com
 ===============================================================================
