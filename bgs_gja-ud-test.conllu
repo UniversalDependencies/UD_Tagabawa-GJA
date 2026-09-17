@@ -1177,52 +1177,52 @@
 # gloss = there again one day Sandawa, felt.love for Mibulo.
 # text_en = There was another (later) time when Sandawa, he felt love for Mibulo.
 # text_original = Duwán puman sábbad álló ás Sandawà, minarigan ki Mibuló.
-1	Duwán	Duwán	_	_	_	_	_	_	Gloss=there
-2	puman	puman	_	_	_	_	_	_	Gloss=again
-3	sábbad	sábbad	_	_	_	_	_	_	Gloss=one
-4	állo	állo	_	_	_	_	_	_	Gloss=day
-5	ás	si	_	_	_	_	_	_	_
-6	Sandawa	Sandawa	_	_	_	_	_	_	Gloss=Sandawa|SpaceAfter=No
-7	,	,	_	_	_	_	_	_	Gloss=,
-8	minarigan	arig	_	_	_	_	_	_	Gloss=felt.love
-9	ki	ki	_	_	_	_	_	_	Gloss=for
-10	Mibulo	Mibulo	_	_	_	_	_	_	Gloss=Mibulo|SpaceAfter=No
-11	.	.	_	_	_	_	_	_	Gloss=.
+1	Duwán	Duwán	ADV	_	_	8	_	_	Gloss=there
+2	puman	puman	ADV	_	_	1	_	_	Gloss=again
+3	sábbad	sábbad	NUM	_	_	1	_	_	Gloss=one
+4	állo	állo	NOUN	_	_	1	_	_	Gloss=day
+5	ás	si	ADP	_	_	6	_	_	_
+6	Sandawa	Sandawa	PROPN	_	_	1	_	_	Gloss=Sandawa|SpaceAfter=No
+7	,	,	PUNCT	_	_	1	_	_	Gloss=,
+8	minarigan	arig	VERB	_	_	0	root	_	Gloss=felt.love
+9	ki	ki	ADP	_	_	10	_	_	Gloss=for
+10	Mibulo	Mibulo	PROPN	_	_	8	_	_	Gloss=Mibulo|SpaceAfter=No
+11	.	.	PUNCT	_	_	8	_	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-04
 # text = Na takud ta taladuma man si Sandawa asta si Matutum, si Matutum ágtanud.
 # gloss = LNK from spouses naturally Sanda and Matutum, Matutum was jealous.
 # text_en = And naturally since Sandawa and Matutum were spouses to each other, Matutum, she was jealous.
 # text_original = Na takud ta taladuma man si Sandawà asta si Matutum, si Matutum ágtanud.
-1	Na	na	_	_	_	_	_	_	Gloss=LNK
-2	takud	tikud	_	_	_	_	_	_	Gloss=from
-3	ta	ta	_	_	_	_	_	_	_
-4	taladuma	taladuma	_	_	_	_	_	_	Gloss=spouses
-5	man	man	_	_	_	_	_	_	Gloss=naturally
-6	si	si	_	_	_	_	_	_	_
-7	Sandawa	Sandawa	_	_	_	_	_	_	Gloss=Sandawa
-8	asta	asta	_	_	_	_	_	_	Gloss=and
-9	si	si	_	_	_	_	_	_	_
-10	Matutum	Matutum	_	_	_	_	_	_	Gloss=Matutum|SpaceAfter=No
-11	,	,	_	_	_	_	_	_	Gloss=,
-12	si	si	_	_	_	_	_	_	_
-13	Matutum	Matutum	_	_	_	_	_	_	Gloss=Matutum
-14	ágtanud	tanud	_	_	_	_	_	_	Gloss=was.jealous|SpaceAfter=No
-15	.	.	_	_	_	_	_	_	Gloss=.
+1	Na	na	PART	_	_	4	_	_	Gloss=LNK
+2	takud	tikud	PART	_	_	4	_	_	Gloss=from
+3	ta	ta	PART	_	_	2	_	_	_
+4	taladuma	taladuma	NOUN	_	_	0	root	_	Gloss=spouses
+5	man	man	PART	_	_	4	_	_	Gloss=naturally
+6	si	si	ADP	_	_	7	case	_	_
+7	Sandawa	Sandawa	PROPN	_	_	4	_	_	Gloss=Sandawa
+8	asta	asta	CCONJ	_	_	10	cc	_	Gloss=and
+9	si	si	ADP	_	_	10	case	_	_
+10	Matutum	Matutum	PROPN	_	_	7	_	_	Gloss=Matutum|SpaceAfter=No
+11	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+12	si	si	ADP	_	_	13	case	_	_
+13	Matutum	Matutum	PROPN	_	_	4	_	_	Gloss=Matutum
+14	ágtanud	tanud	ADJ	_	_	13	_	_	Gloss=was.jealous|SpaceAfter=No
+15	.	.	PUNCT	_	_	13	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-05
 # text = Migpudut din to barira ággamitán ka gabál.
 # gloss = picked.up she the batten is.used for weaving.
 # text_en = She picked up the batten that is used for weaving.
 # text_original = Migpudut din tô barira ággamitán ka gabál.
-1	Migpudut	pudut	_	_	_	_	_	_	Gloss=picked.up
-2	din	din	_	_	_	_	_	_	Gloss=she
-3	to	to	_	_	_	_	_	_	Gloss=the
-4	barira	barira	_	_	_	_	_	_	Gloss=batten
-5	ággamitán	gamit	_	_	_	_	_	_	Gloss=is.used
-6	ka	ka	_	_	_	_	_	_	Gloss=for
-7	gabál	abál	_	_	_	_	_	_	Gloss=weaving|SpaceAfter=No
-8	.	.	_	_	_	_	_	_	Gloss=.
+1	Migpudut	pudut	VERB	_	_	0	root	_	Gloss=picked.up
+2	din	din	PRON	_	_	1	nsubj	_	Gloss=she
+3	to	to	ADP	_	_	4	case	_	Gloss=the
+4	barira	barira	NOUN	_	_	1	obj	_	Gloss=batten
+5	ággamitán	gamit	VERB	_	_	1	_	_	Gloss=is.used
+6	ka	ka	PART	_	_	7	_	_	Gloss=for
+7	gabál	abál	NOUN	_	_	1	_	_	Gloss=weaving|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-06
 # text = Migbunal din ás Sandawa.
