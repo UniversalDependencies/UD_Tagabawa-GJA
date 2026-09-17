@@ -1352,33 +1352,34 @@
 13	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-15
-# text = Ni duma gabata igoddo migtákkás kani ame dan, Sandawa mga Matigsalug, Ubu, Átto, asta sikita go mga Tagabawa.
+# text = Ni duma gabata igoddo migtákkás kani ame dan, Sandawa, mga Matigsalug, Ubu, Átto, asta sikita go mga Tagabawa.
 # gloss = this other children stayed accompany this father theirs, Sandawa PLUR Matigsalugs, Obo-Manobos, Guiangans, and we PLUR Tagabawas.
 # text_en = These other children (who) stayed with this father of theirs, Sandawa, they were the Matigsalugs, Obo-Manobos, Guiangans, and we Tagabawas.
 # text_original = Ni duma gabatà igóddô migtákkás kani amé dan, Sandawà mga Matigsalug, Ubù, Áttó, asta sikita gó mga Tagabawà.
-1	Ni	ni	ADV	_	_	_	_	_	Gloss=this
-2	duma	duma	ADV	_	_	_	_	_	Gloss=other
-3	gabata	bata	NOUN	_	Number=Plur	_	_	_	Gloss=children
-4	igoddo	goddo	VERB	_	_	_	_	_	Gloss=stayed
-5	migtákkás	tákkás	VERB	_	_	_	_	_	Gloss=accompany
-6	kani	kani	ADV	_	_	_	_	_	Gloss=this
-7	ame	ame	NOUN	_	_	_	_	_	Gloss=father
-8	dan	dan	PRON	_	_	_	_	_	Gloss=theirs|SpaceAfter=No
-9	,	,	PUNCT	_	_	_	_	_	Gloss=,
-10	Sandawa	Sandawa	PROPN	_	_	_	_	_	Gloss=Sandawa
-11	mga	mga	DET	_	_	_	_	_	Gloss=PLUR
-12	Matigsalug	Matigsalug	PROPN	_	_	_	_	_	Gloss=Matigsalugs|SpaceAfter=No
-13	,	,	PUNCT	_	_	_	_	_	Gloss=,
-14	Ubu	Ubu	PROPN	_	_	_	_	_	Gloss=Obo-Manobos|SpaceAfter=No
-15	,	,	PUNCT	_	_	_	_	_	Gloss=,
-16	Átto	Átto	PROPN	_	_	_	_	_	Gloss=Guiangans|SpaceAfter=No
-17	,	,	PUNCT	_	_	_	_	_	Gloss=,
-18	asta	asta	CCONJ	_	_	_	_	_	Gloss=and
-19	sikita	sikita	PRON	_	_	_	_	_	Gloss=we
-20	go	go	PART	_	_	_	_	_	_
-21	mga	mga	DET	_	_	_	_	_	Gloss=PLUR
-22	Tagabawa	Tagabawa	PROPN	_	_	_	_	_	Gloss=Tagabawas|SpaceAfter=No
-23	.	.	PUNCT	_	_	_	_	_	Gloss=.
+1	Ni	ni	ADV	_	_	4	_	_	Gloss=this
+2	duma	duma	ADV	_	_	4	_	_	Gloss=other
+3	gabata	bata	NOUN	_	Number=Plur	4	_	_	Gloss=children
+4	igoddo	goddo	VERB	_	_	0	root	_	Gloss=stayed
+5	migtákkás	tákkás	VERB	_	_	4	_	_	Gloss=accompany
+6	kani	kani	ADV	_	_	7	_	_	Gloss=this
+7	ame	ame	NOUN	_	_	5	_	_	Gloss=father
+8	dan	dan	PRON	_	_	7	_	_	Gloss=theirs|SpaceAfter=No
+9	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+10	Sandawa	Sandawa	PROPN	_	_	7	_	_	Gloss=Sandawa|SpaceAfter=No
+11	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+12	mga	mga	DET	_	_	13	_	_	Gloss=PLUR
+13	Matigsalug	Matigsalug	PROPN	_	_	5	_	_	Gloss=Matigsalugs|SpaceAfter=No
+14	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+15	Ubu	Ubu	PROPN	_	_	5	_	_	Gloss=Obo-Manobos|SpaceAfter=No
+16	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+17	Átto	Átto	PROPN	_	_	5	_	_	Gloss=Guiangans|SpaceAfter=No
+18	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+19	asta	asta	CCONJ	_	_	23	_	_	Gloss=and
+20	sikita	sikita	PRON	_	_	23	_	_	Gloss=we
+21	go	go	PART	_	_	23	_	_	_
+22	mga	mga	DET	_	_	23	_	_	Gloss=PLUR
+23	Tagabawa	Tagabawa	PROPN	_	_	17	_	_	Gloss=Tagabawas|SpaceAfter=No
+24	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-16
 # text = Takud taddo dán si Sandawa, mibaluy pabungan.
