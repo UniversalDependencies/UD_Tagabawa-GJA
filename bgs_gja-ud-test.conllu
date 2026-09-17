@@ -1321,33 +1321,35 @@
 # gloss = there.were accompanied Matutum there south.
 # text_en = There were those who accompanied Matutum to the south.
 # text_original = Duwán tô migtákkás ki Matutum dutut south.
-1	Duwán	Duwan	_	_	_	_	_	_	Gloss=there.were
-2	to	to	_	_	_	_	_	_	_
-3	migtákkás	tákkás	_	_	_	_	_	_	Gloss=accompanied
-4	ki	ki	_	_	_	_	_	_	_
-5	Matutum	Matutum	_	_	_	_	_	_	Gloss=Matutum
-6	dutut	dutun	_	_	_	_	_	_	Gloss=there
-7	south	south	_	_	_	_	_	_	Gloss=south|SpaceAfter=No
-8	.	.	_	_	_	_	_	_	Gloss=.
+1	Duwán	Duwan	ADV	_	_	3	advmod	_	Gloss=there.were
+2	to	to	ADP	_	_	3	case	_	_
+3	migtákkás	tákkás	VERB	_	_	0	root	_	Gloss=accompanied
+4	ki	ki	ADP	_	_	5	case	_	_
+5	Matutum	Matutum	PROPN	_	_	3	nsubj	_	Gloss=Matutum
+6-7	dutut	_	_	_	_	_	_	_	_
+6	dutun	dutun	ADV	_	_	8	case	_	Gloss=there
+7	-t	ta	ADP	_	_	6	fixed	_	_
+8	south	south	NOUN	_	_	3	obj	_	Gloss=south|SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-14
 # text = Yan go mga Biraan, Tagakolu, Tagaboli, Kalagan, Manubu.
 # gloss = that PLUR Blaans, Tagakaulos, Tbolis, Kalagans, Manubus.
 # text_en = Those were the Blaans, Tagakaulos, Tbolis, Kalagans, Manobos.
 # text_original = Yan gó mga Biraan, Tagakólu, Tagabóli, Kalagan, Manubù.
-1	Yan	yan	_	_	_	_	_	_	Gloss=that
-2	go	go	_	_	_	_	_	_	_
-3	mga	mga	_	_	_	_	_	_	Gloss=PLUR
-4	Biraan	Biraan	_	_	_	_	_	_	Gloss=Blaans|SpaceAfter=No
-5	,	,	_	_	_	_	_	_	Gloss=,
-6	Tagakolu	Tagakolu	_	_	_	_	_	_	Gloss=Tagakaulos|SpaceAfter=No
-7	,	,	_	_	_	_	_	_	Gloss=,
-8	Tagaboli	Tagaboli	_	_	_	_	_	_	Gloss=Tbolis|SpaceAfter=No
-9	,	,	_	_	_	_	_	_	Gloss=,
-10	Kalagan	Kalagan	_	_	_	_	_	_	Gloss=Kalagans|SpaceAfter=No
-11	,	,	_	_	_	_	_	_	Gloss=,
-12	Manubu	Manubu	_	_	_	_	_	_	Gloss=Manubus|SpaceAfter=No
-13	.	.	_	_	_	_	_	_	Gloss=.
+1	Yan	yan	ADV	_	_	0	root	_	Gloss=that
+2	go	go	PART	_	_	1	advmod	_	_
+3	mga	mga	DET	_	_	4	det	_	Gloss=PLUR
+4	Biraan	Biraan	PROPN	_	_	1	list	_	Gloss=Blaans|SpaceAfter=No
+5	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+6	Tagakolu	Tagakolu	PROPN	_	_	1	list	_	Gloss=Tagakaulos|SpaceAfter=No
+7	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+8	Tagaboli	Tagaboli	PROPN	_	_	1	list	_	Gloss=Tbolis|SpaceAfter=No
+9	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+10	Kalagan	Kalagan	PROPN	_	_	1	list	_	Gloss=Kalagans|SpaceAfter=No
+11	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+12	Manubu	Manubu	PROPN	_	_	1	list	_	Gloss=Manubus|SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-15
 # text = Ni duma gabata igoddo migtákkás kani ame dan, Sandawa mga Matigsalug, Ubu, Átto, asta sikita go mga Tagabawa.
