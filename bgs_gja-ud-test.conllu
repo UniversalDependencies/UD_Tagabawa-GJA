@@ -1261,14 +1261,14 @@
 # gloss = that.is.where beat Matutum the batten.
 # text_en = That is where Matutum beat him with the batten.
 # text_original = Tô gó miglagpás i Matutum ka barira.
-1	To	to	_	_	_	_	_	_	Gloss=that.is.where
-2	go	go	_	_	_	_	_	_	_
-3	miglagpás	lagpas	_	_	_	_	_	_	Gloss=beat
-4	i	i	_	_	_	_	_	_	_
-5	Matutum	Matutum	_	_	_	_	_	_	Gloss=Matutum
-6	ka	ka	_	_	_	_	_	_	Gloss=the
-7	barira	barira	_	_	_	_	_	_	Gloss=batten
-8	.	.	_	_	_	_	_	_	Gloss=.
+1	To	to	ADP	_	_	3	case	_	Gloss=that.is.where
+2	go	go	ADV	_	_	1	fixed	_	_
+3	miglagpás	lagpas	VERB	_	_	0	root	_	Gloss=beat
+4	i	i	ADP	_	_	5	case	_	_
+5	Matutum	Matutum	PROPN	_	_	3	nsubj	_	Gloss=Matutum
+6	ka	ka	ADP	_	_	7	case	_	Gloss=the
+7	barira	barira	NOUN	_	_	3	obj	_	Gloss=batten
+8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-09
 # text = Misoko si Sandawa.
