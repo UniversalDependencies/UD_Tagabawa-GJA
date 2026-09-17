@@ -1159,18 +1159,18 @@
 # gloss = Sandawa, there one woman married he, Matutum.
 # text_en = As for Sandawa, there was a woman whom he married, (who was) Matutum.
 # text_original = Ás Sandawà, duwán sábbad bayi migkalyagan din, ás Matutum.
-1	Ás	si	_	_	_	_	_	_	_
-2	Sandawa	Sandawa	_	_	_	_	_	_	Gloss=Sandawa|SpaceAfter=No
-3	,	,	_	_	_	_	_	_	Gloss=,
-4	duwán	duwán	_	_	_	_	_	_	Gloss=there
-5	sábbad	sábbad	_	_	_	_	_	_	Gloss=one
-6	bayi	bayi	_	_	_	_	_	_	Gloss=woman
-7	migkalyagan	kalyag	_	_	_	_	_	_	Gloss=married
-8	din	din	_	_	_	_	_	_	Gloss=he|SpaceAfter=No
-9	,	,	_	_	_	_	_	_	Gloss=,
-10	ás	si	_	_	_	_	_	_	_
-11	Matutum	Matutum	_	_	_	_	_	_	Gloss=Matutum|SpaceAfter=No
-12	.	.	_	_	_	_	_	_	Gloss=.
+1	Ás	si	ADP	_	_	2	_	_	_
+2	Sandawa	Sandawa	PROPN	_	_	7	_	_	Gloss=Sandawa|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	_	_	Gloss=,
+4	duwán	duwán	ADV	_	_	7	_	_	Gloss=there
+5	sábbad	sábbad	NUM	_	_	4	_	_	Gloss=one
+6	bayi	bayi	NOUN	_	_	7	_	_	Gloss=woman
+7	migkalyagan	kalyag	VERB	_	_	0	root	_	Gloss=married
+8	din	din	PROPN	_	_	7	_	_	Gloss=he|SpaceAfter=No
+9	,	,	PUNCT	_	_	7	_	_	Gloss=,
+10	ás	si	ADP	_	_	11	_	_	_
+11	Matutum	Matutum	PROPN	_	_	7	_	_	Gloss=Matutum|SpaceAfter=No
+12	.	.	PUNCT	_	_	7	_	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-03
 # text = Duwán puman sábbad állo ás Sandawa, minarigan ki Mibulo.
