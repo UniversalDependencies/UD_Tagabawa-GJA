@@ -1,6 +1,6 @@
 # sent_id = bgs_cairo-1
 # parallel_id = cairo/1
-# text = Igsulat to baye ka sulat para ka rarak nya .
+# text = Igsulat to baye ka sulat para ka rarak nya.
 # text_gloss = wrote the girl a letter to friend her.
 # text_en = The girl wrote a letter to her friend.
 1	Igsulat	sulat	VERB	_	_	0	root	_	Gloss=wrote
@@ -16,7 +16,7 @@
 
 # sent_id = bgs_cairo-2
 # parallel_id = cairo/2
-# text = Iring gudan .
+# text = Iring gudan.
 # text_gloss = like raining.
 # text_en = I think that it is raining.
 1	Iring	Iring	ADV	_	_	2	advmod	_	Gloss=like
@@ -25,7 +25,7 @@
 
 # sent_id = bgs_cairo-3
 # parallel_id = cairo/3
-# text = Igsulayan niyak hunong ka sigupan ak ginám .
+# text = Igsulayan niyak hunong ka sigupan ak ginám.
 # text_gloss = tried he stop smoking and drinking.
 # text_en = He tried to stop smoking and drinking.
 1	Igsulayan	sulay	VERB	_	_	0	root	_	Gloss=tried
@@ -41,7 +41,7 @@
 
 # sent_id = bgs_cairo-4
 # parallel_id = cairo/4
-# text = Gusto ka'd pano ked ?
+# text = Gusto ka'd pano ked?
 # text_gloss = want you to go?
 # text_en = Do you want to go?
 1	Gusto	gusto	VERB	_	_	0	root	_	Gloss=want
@@ -56,7 +56,7 @@
 
 # sent_id = bgs_cairo-5
 # parallel_id = cairo/5
-# text = Sam , abrihi no to bintana !
+# text = Sam , abrihi no to bintana!
 # text_gloss = Sam, open you the window!
 # text_en = Sam, open the window!
 1	Sam	Sam	PROPN	_	_	3	vocative	_	Gloss=Sam|SpaceAfter=No
@@ -69,7 +69,7 @@
 
 # sent_id = bgs_cairo-6
 # parallel_id = cairo/6
-# text = Igsugo nya to sawa din na iglimpyo ka kotse .
+# text = Igsugo nya to sawa din na iglimpyo ka kotse.
 # text_gloss = Told she husband her to wash the car.
 # text_en = She made her husband wash the car.
 1	Igsugo	sugo	VERB	_	_	0	root	_	Gloss=made
@@ -85,7 +85,7 @@
 
 # sent_id = bgs_cairo-7
 # parallel_id = cairo/7
-# text = Igpinturahan ka silingan ni Peter to koral ka malloto .
+# text = Igpinturahan ka silingan ni Peter to koral ka malloto.
 # text_gloss = Painted neighbor of Peter the fence red.
 # text_en = Peter's neighbor painted the fence red.
 1	Igpinturahan	pintura	VERB	_	_	0	root	_	Gloss=painted
