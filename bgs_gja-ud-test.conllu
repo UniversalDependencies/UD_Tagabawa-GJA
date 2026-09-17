@@ -1470,7 +1470,7 @@
 # gloss = there only.
 # text_en = There only for sure.
 # text_original = Taddô dád gó.
-1	Taddo	taddo	_	_	_	_	_	_	Gloss=there
-2	dád	dád	_	_	_	_	_	_	Gloss=only
-3	go	go	_	_	_	_	_	_	SpaceAfter=No
-4	.	.	_	_	_	_	_	_	Gloss=.
+1	Taddo	taddo	ADV	_	_	0	root	_	Gloss=there
+2	dád	dád	PART	_	_	1	advmod	_	Gloss=only
+3	go	go	PART	_	_	1	advmod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
