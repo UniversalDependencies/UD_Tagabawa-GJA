@@ -1453,18 +1453,18 @@
 # gloss = therefore when named we Grandparent Sandawa, because grandparent our that.
 # text_en = Therefore when we call him Grandfather Sandawa, it is because that one is our grandfather.
 # text_original = Purisu atin ágngadan ki Apù Sandawà, su apù ta yan.
-1	Purisu	purisu	_	_	_	_	_	_	Gloss=therefore
-2	atin	atin	_	_	_	_	_	_	Gloss=when
-3	ágngadan	ngadan	_	_	_	_	_	_	Gloss=named
-4	ki	ki	_	_	_	_	_	_	Gloss=we
-5	Apu	Apu	_	_	_	_	_	_	Gloss=Grandparent
-6	Sandawa	Sandawa	_	_	_	_	_	_	Gloss=Sandawa|SpaceAfter=No
-7	,	,	_	_	_	_	_	_	Gloss=,
-8	su	su	_	_	_	_	_	_	Gloss=because
-9	apu	apu	_	_	_	_	_	_	Gloss=grandparent
-10	ta	ta	_	_	_	_	_	_	Gloss=our
-11	yan	yan	_	_	_	_	_	_	Gloss=that|SpaceAfter=No
-12	.	.	_	_	_	_	_	_	Gloss=.
+1	Purisu	purisu	ADV	_	_	3	advmod	_	Gloss=therefore
+2	atin	atin	ADV	_	_	3	advmod	_	Gloss=when
+3	ágngadan	ngadan	VERB	_	_	0	root	_	Gloss=named
+4	ki	ki	PRON	_	_	3	nsubj	_	Gloss=we
+5	Apu	Apu	NOUN	_	_	6	flat	_	Gloss=Grandparent
+6	Sandawa	Sandawa	PROPN	_	_	9	appos	_	Gloss=Sandawa|SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+8	su	su	SCONJ	_	_	9	mark	_	Gloss=because
+9	apu	apu	NOUN	_	_	3	obj	_	Gloss=grandparent
+10	ta	ta	PRON	_	_	9	nmod	_	Gloss=our
+11	yan	yan	PRON	_	_	9	nmod	_	Gloss=that|SpaceAfter=No
+12	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-21
 # text = Taddo dád go.
