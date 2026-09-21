@@ -19,8 +19,8 @@
 # text = Iring gudan.
 # text_gloss = like raining.
 # text_en = I think that it is raining.
-1	Iring	Iring	ADV	_	_	2	advmod	_	Gloss=like
-2	gudan	udan	VERB	_	_	0	root	_	Gloss=rain|SpaceAfter=No
+1	Iring	iring	ADV	_	_	2	advmod	_	Gloss=like
+2	gudan	udan	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	0	root	_	Gloss=rain|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-3
