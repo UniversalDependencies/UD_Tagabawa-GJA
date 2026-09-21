@@ -56,7 +56,7 @@
 
 # sent_id = bgs_cairo-5
 # parallel_id = cairo/5
-# text = Sam , abrihi no to bintana!
+# text = Sam, abrihi no to bintana!
 # text_gloss = Sam, open you the window!
 # text_en = Sam, open the window!
 1	Sam	Sam	PROPN	_	_	3	vocative	_	Gloss=Sam|SpaceAfter=No
