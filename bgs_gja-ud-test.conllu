@@ -1435,18 +1435,18 @@
 # gloss = therefore when named the Bagobo grandparent Sandawa, because grandparent our.
 # text_en = Therefore when the Bagobos call him Grandfather Sandawa, it is because he is our grandfather.
 # text_original = Purisu atin ágngadan é Bagóbô Apù Sandawà, su apù ta.
-1	Purisu	purisu	_	_	_	_	_	_	Gloss=therefore
-2	atin	atin	_	_	_	_	_	_	Gloss=when
-3	ágngadan	ngadan	_	_	_	_	_	_	Gloss=named
-4	e	e	_	_	_	_	_	_	Gloss=the
-5	Bagobo	Bagobo	_	_	_	_	_	_	Gloss=Bagobo
-6	Apu	Apu	_	_	_	_	_	_	Gloss=grandparent
-7	Sandawa	Sandawa	_	_	_	_	_	_	Gloss=Sandawa|SpaceAfter=No
-8	,	,	_	_	_	_	_	_	Gloss=,
-9	su	su	_	_	_	_	_	_	Gloss=because
-10	apu	apu	_	_	_	_	_	_	Gloss=grandparent
-11	ta	ta	_	_	_	_	_	_	Gloss=our|SpaceAfter=No
-12	.	.	_	_	_	_	_	_	Gloss=.
+1	Purisu	purisu	ADV	_	_	3	advmod	_	Gloss=therefore
+2	atin	atin	ADV	_	_	3	advmod	_	Gloss=when
+3	ágngadan	ngadan	VERB	_	_	0	root	_	Gloss=named
+4	e	e	ADP	_	_	5	case	_	Gloss=the
+5	Bagobo	Bagobo	PROPN	_	_	3	nsubj	_	Gloss=Bagobo
+6	Apu	Apu	NOUN	_	_	7	flat	_	Gloss=grandparent
+7	Sandawa	Sandawa	PROPN	_	_	10	appos	_	Gloss=Sandawa|SpaceAfter=No
+8	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+9	su	su	SCONJ	_	_	10	mark	_	Gloss=because
+10	apu	apu	NOUN	_	_	3	obj	_	Gloss=grandparent
+11	ta	ta	PRON	_	_	10	nmod	_	Gloss=our|SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-20
 # text = Purisu atin ágngadan ki Apu Sandawa, su apu ta yan.
