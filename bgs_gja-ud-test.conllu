@@ -1401,16 +1401,16 @@
 # gloss = Matutum, Mibulo, were.transformed also mountain.
 # text_en = Matutum and Mibulo, they were also transformed into mountains.
 # text_original = Ás Matutum, ás Mibuló, mibaluy pagsik pabungan.
-1	Ás	si	_	_	_	_	_	_	_
-2	Matutum	Matutum	_	_	_	_	_	_	Gloss=Matutum|SpaceAfter=No
-3	,	,	_	_	_	_	_	_	Gloss=,
-4	ás	si	_	_	_	_	_	_	_
-5	Mibulo	Mibulo	_	_	_	_	_	_	Gloss=Mibulo|SpaceAfter=No
-6	,	,	_	_	_	_	_	_	Gloss=,
-7	mibaluy	baluy	_	_	_	_	_	_	Gloss=were.transformed
-8	pagsik	pagsik	_	_	_	_	_	_	Gloss=also
-9	pabungan	pabungan	_	_	_	_	_	_	Gloss=mountain|SpaceAfter=No
-10	.	.	_	_	_	_	_	_	Gloss=.
+1	Ás	si	ADP	_	_	2	case	_	_
+2	Matutum	Matutum	PROPN	_	_	7	nsubj	_	Gloss=Matutum|SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+4	ás	si	ADP	_	_	5	case	_	_
+5	Mibulo	Mibulo	PROPN	_	_	7	nsubj	_	Gloss=Mibulo|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	Gloss=,
+7	mibaluy	baluy	VERB	_	_	0	root	_	Gloss=were.transformed
+8	pagsik	pagsik	PART	_	_	7	advmod	_	Gloss=also
+9	pabungan	pabungan	NOUN	_	_	7	obj	_	Gloss=mountain|SpaceAfter=No
+10	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-18
 # text = Yan pagbánnal kani mga Bagobo, ás Sandawa, apu ta.
