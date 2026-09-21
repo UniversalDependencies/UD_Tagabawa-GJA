@@ -59,11 +59,11 @@
 # text = Sam, abrihi no to bintana!
 # text_gloss = Sam, open you the window!
 # text_en = Sam, open the window!
-1	Sam	Sam	PROPN	_	_	3	vocative	_	Gloss=Sam|SpaceAfter=No
+1	Sam	Sam	PROPN	_	Gender=Masc	3	vocative	_	Gloss=Sam|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-3	abrihi	abri	VERB	_	Mood=Imp	0	root	_	Gloss=open
-4	no	ka	PRON	_	_	6	nmod	_	Gloss=you
-5	to	to	ADP	_	_	6	case	_	Gloss=the
+3	abrihi	abri	VERB	_	Mood=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=open
+4	no	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nmod	_	Gloss=you
+5	to	to	ADP	_	Case=Nom	6	case	_	Gloss=the
 6	bintana	bintana	NOUN	_	_	3	nsubj	_	Gloss=window|SpaceAfter=No
 7	!	!	PUNCT	_	_	3	punct	_	Gloss=!
 
