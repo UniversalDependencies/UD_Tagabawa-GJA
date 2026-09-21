@@ -34,7 +34,7 @@
 3	-k	ka	ADP	_	Case=Gen	4	case	_	_
 4	hunong	hunong	NOUN	_	_	1	ccomp	_	Gloss=stop
 5	ka	ka	ADP	_	Case=Gen	6	case	_	_
-6	sigupan	sigupan	NOUN	_	_	4	obj	_	Gloss=smoking
+6	sigupan	sigup	NOUN	_	_	4	obj	_	Gloss=smoking
 7	ak	ak	CCONJ	_	_	8	cc	_	Gloss=and
 8	ginám	ginám	NOUN	_	_	6	obj	_	Gloss=drinking|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
