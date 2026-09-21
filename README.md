@@ -10,9 +10,10 @@ Annotation is done manually by Glyd Jun Arañes. This treebank is also part of G
 
 # Acknowledgments
 Mary Jane Cooke, Phd (Tagabawa native speaker and Philippine linguist) provided Tagabawa translations of some sentences. Geoffrey Marfa, PhD (Philippine linguist) assisted in the annotation.
-...
+
 
 ## References
+
 * DuBois, Carl & DuBois, Lauretta (1991). Tagabawa Grammar Essentials. Summer Institute of Linguistics.
 * DuBois, Carl & DuBois, Lauretta (2005). Tagabawa Texts. Studies in Philippine Languages & Cultures. Vol 14. Summer Institute of Linguistics.
 * DuBois, Carl (2025). The Focus System and Participant Roles of Tagabawa. Summer Insitute of Linguistics.
