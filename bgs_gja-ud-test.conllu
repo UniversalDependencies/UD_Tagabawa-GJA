@@ -29,7 +29,7 @@
 # text_gloss = tried he stop smoking and drinking.
 # text_en = He tried to stop smoking and drinking.
 1	Igsulayan	sulay	VERB	_	_	0	root	_	Gloss=tried
-2-3	niyak  _  _  _  _  _  _  _  _
+2-3	niyak	_	_	_	_	_	_	_	_
 2	niya	niya	PRON	_	_	1	nmod	_	Gloss=he
 3	-k	ka	ADP	_	_	4	case	_	_
 4	hunong	hunong	NOUN	_	_	1	ccomp	_	Gloss=stop
