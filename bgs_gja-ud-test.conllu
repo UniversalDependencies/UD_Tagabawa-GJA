@@ -11,7 +11,7 @@
 6	para	para	ADP	_	_	8	case	_	Gloss=for
 7	ka	ka	ADP	_	Case=Dat	6	fixed	_	_
 8	rarak	rarak	NOUN	_	_	1	obl	_	Gloss=friend
-9	nya	nya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Gloss=her|SpaceAfter=No
+9	nya	niya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Gloss=her|SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-2
