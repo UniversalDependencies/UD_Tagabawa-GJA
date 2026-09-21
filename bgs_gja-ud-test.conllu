@@ -28,7 +28,7 @@
 # text = Igsulayan niyak hunong ka sigupan ak ginám.
 # text_gloss = tried he stop smoking and drinking.
 # text_en = He tried to stop smoking and drinking.
-1	Igsulayan	sulay	VERB		Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=tried
+1	Igsulayan	sulay	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=tried
 2-3	niyak	_	_	_	_	_	_	_	_
 2	niya	niya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nmod	_	Gloss=he
 3	-k	ka	ADP	_	Case=Gen	4	case	_	_
