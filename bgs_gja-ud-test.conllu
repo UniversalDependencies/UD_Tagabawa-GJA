@@ -424,7 +424,7 @@
 # gloss = love I you.
 # text_en = I love you.
 # tatoeba_author = Josefwintzent
-1	Kadiggeran	diggeran	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pas	0	root	_	Gloss=love
+1	Kadiggeran	diggeran	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=love
 2	ak	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
 3	neko	neko	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	obj	_	Gloss=you|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
