@@ -366,7 +366,7 @@
 # gloss = tall this.
 # text_en = This is tall.
 1	Mallayat	mallayat	ADJ	_	Degree=Pos	0	root	_	Gloss=tall
-2	ni	ni	PRON	_	Deixis=Prox|PronType=Dem	1	amod	_	Gloss=this|SpaceAfter=No
+2	ni	kani	PRON	_	Deixis=Prox|PronType=Dem	1	amod	_	Gloss=this|SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_bunyeyap-09
