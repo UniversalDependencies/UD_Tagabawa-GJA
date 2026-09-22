@@ -72,15 +72,15 @@
 # text = Igsugo nya to sawa din na iglimpyo ka kotse.
 # text_gloss = Told she husband her to wash the car.
 # text_en = She made her husband wash the car.
-1	Igsugo	sugo	VERB	_	_	0	root	_	Gloss=made
-2	nya	nya	PRON	_	_	1	nmod	_	Gloss=she
-3	to	to	ADP	_	_	4	case	_	_
+1	Igsugo	sugo	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=made
+2	nya	niya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nmod	_	Gloss=she
+3	to	to	ADP	_	Case=Nom	4	case	_	_
 4	sawa	sawa	NOUN	_	_	1	nsubj	_	Gloss=husband
-5	din	nya	PRON	_	_	4	nmod	_	Gloss=her
+5	din	niya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Gloss=her
 6	na	na	PART	_	_	7	mark	_	_
-7	iglimpyo	limpyo	VERB	_	_	1	ccomp	_	Gloss=wash
-8	ka	ka	ADP	_	_	9	case	_	Gloss=the
-9	kotse	kotse	NOUN	_	_	7	obj	_	Gloss=car|SpaceAfter=No
+7	iglimpyo	limpyo	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	1	ccomp	_	Gloss=wash
+8	ka	ka	ADP	_	Case=Nom	9	case	_	Gloss=the
+9	kotse	kotse	NOUN	_	_	7	nsubj	_	Gloss=car|SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-7
