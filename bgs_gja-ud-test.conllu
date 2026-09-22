@@ -376,13 +376,13 @@
 # text_en = Ditang will sweep the kitchen for Tonying.
 1	Dunnakan	dunnak	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=will.sweep
 2	ni	ni	ADP	_	Case=Gen	3	case	_	_
-3	Ditang	Ditang	PROPN	_	Gender=Fem	1	obj	_	Gloss=Ditang
+3	Ditang	Ditang	PROPN	_	_	1	obj	_	Gloss=Ditang
 4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
 5	kusina	kusina	NOUN	_	_	1	nsubj	_	Gloss=kitchen
 6-7	parak	_	_	_	_	_	_	_	_
 6	para	para	ADP	_	_	8	case	_	Gloss=for
 7	-k	ka	ADP	_	Case=Gen	6	fixed	_	_
-8	Tonying	Tonying	PROPN	_	Gender=Masc	1	obl	_	Gloss=Tonying|SpaceAfter=No
+8	Tonying	Tonying	PROPN	_	_	1	obl	_	Gloss=Tonying|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_bunyeyap-13
