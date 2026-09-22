@@ -217,7 +217,7 @@
 # text_gloss = bought he a cat but brother bike bought.
 # text_en = He bought a car but his brother just a bike.
 1	Igbál’le	bál’li	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=bought
-2	sikandin	sikandin	PRON	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he
+2	sikandin	sikandin	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he
 3	ka	ka	ADP	_	Case=Dat	4	case	_	Gloss=a
 4	kotse	kotse	NOUN	_	_	1	obj	_	Gloss=car
 5	pero	pero	CCONJ	_	_	11	cc	_	Gloss=but
