@@ -217,7 +217,7 @@
 # text_gloss = bought he a cat but brother bike bought.
 # text_en = He bought a car but his brother just a bike.
 1	Igbál’le	bál’li	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=bought
-2	sikandin	sikandin	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he
+2	sikandin	sikandin	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he
 3	ka	ka	ADP	_	Case=Dat	4	case	_	Gloss=a
 4	kotse	kotse	NOUN	_	_	1	obj	_	Gloss=car
 5	pero	pero	CCONJ	_	_	11	cc	_	Gloss=but
@@ -276,20 +276,20 @@
 # sent_id = bgs_cairo-18
 # parallel_id = cairo/18
 # text = ánda ko nakaya na lupog ka kandin kay bákkár sunnod sikandin palaguy.
-# text_gloss = was.not I able keep.up because fast too he ran.
+# text_gloss = was.not I able keep.up him because fast too he ran.
 # text_en = I wasn't able to keep up, because he ran too fast.
-1	ánda	ánda	ADV	_	_	3	advmod	_	Gloss=was.not
-2	ko	ko	PRON	_	_	3	nsubj	_	Gloss=I
-3	nakaya	kaya	VERB	_	_	0	root	_	Gloss=able
+1	ánda	ánda	PART	_	Polarity=Neg	3	advmod	_	Gloss=was.not
+2	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I
+3	nakaya	kaya	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	0	root	_	Gloss=able
 4	na	na	PART	_	_	5	mark	_	_
-5	lupog	lupog	VERB	_	_	3	ccomp	_	Gloss=keep.up
-6	ka	ka	ADP	_	_	7	case	_	_
-7	kandin	kandin	PRON	_	_	5	obj	_	_
+5	lupog	lupog	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	3	ccomp	_	Gloss=keep.up
+6	ka	ka	ADP	_	Case=Gen	7	case	_	_
+7	kandin	kandin	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	obj	_	Gloss=him
 8	kay	kay	SCONJ	_	_	12	mark	_	Gloss=because
 9	bákkár	bákkár	ADV	_	_	12	advmod	_	Gloss=fast
 10	sunnod	sunnod	ADV	_	_	9	advmod	_	Gloss=too
-11	sikandin	sikandin	PRON	_	_	12	nsubj	_	Gloss=he
-12	palaguy	palaguy	VERB	_	_	5	advcl	_	Gloss=ran|SpaceAfter=No
+11	sikandin	sikandin	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Gloss=he
+12	palaguy	palaguy	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	5	advcl	_	Gloss=ran|SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-19
