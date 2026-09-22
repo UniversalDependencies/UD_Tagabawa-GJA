@@ -132,7 +132,7 @@
 10	silver	silver	NOUN	_	Foreign=Yes	8	obj	_	Gloss=silver|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=,
 12	ak	ak	CCONJ	_	_	14	cc	_	Gloss=and
-13	si	si	ADP	_	Case=Gen	14	case	_	_
+13	si	si	ADP	_	Case=Nom	14	case	_	_
 14	Jane	Jane	PROPN	_	_	8	conj	_	Gloss=Jane
 15	ka	ka	ADP	_	Case=Gen	16	case	_	Gloss=the
 16	gold	gold	NOUN	_	Foreign=Yes	14	obj	_	Gloss=gold|SpaceAfter=No
