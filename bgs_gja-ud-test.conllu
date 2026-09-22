@@ -195,7 +195,7 @@
 2	man	man	PART	_	_	4	advmod	_	_
 3	to	to	ADP	_	Case=Nom	4	case	_	_
 4	igsillig	sillig	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=looking
-5	no	no	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Gloss=you|SpaceAfter=No
+5	no	ka	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Gloss=you|SpaceAfter=No
 6	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
 # sent_id = bgs_cairo-14
@@ -486,7 +486,7 @@
 # tatoeba_author = Josefwintzent
 1	Indin	indin	PRON	_	PronType=Int	0	root	_	Gloss=what
 2	ngadan	ngadan	NOUN	_	_	1	nsubj	_	Gloss=name
-3	no	no	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Gloss=your|SpaceAfter=No
+3	no	ka	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Gloss=your|SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = bgs_tatoeba-46
