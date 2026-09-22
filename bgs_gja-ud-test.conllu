@@ -92,7 +92,7 @@
 2	ka	ka	ADP	_	Case=Dat	3	case	_	_
 3	silingan	silingan	NOUN	_	_	1	obj	_	Gloss=neighbor
 4	ni	ni	ADP	_	Case=Gen	5	case	_	Gloss=of
-5	Peter	Peter	PROPN	_	_  3	obl	_	Gloss=Peter
+5	Peter	Peter	PROPN	_	_	3	obl	_	Gloss=Peter
 6	to	to	ADP	_	Case=Nom	7	case	_	Gloss=the
 7	koral	koral	NOUN	_	_	1	nsubj	_	Gloss=fence
 8	ka	ka	ADP	_	Case=Dat	9	case	_	_
