@@ -216,18 +216,18 @@
 # text = Igbál’le sikandin ka kotse pero to igsoon din kay bisekleta digbál’li.
 # text_gloss = bought he a cat but brother bike bought.
 # text_en = He bought a car but his brother just a bike.
-1	Igbál’le	bál’li	VERB	_	_	0	root	_	Gloss=bought
-2	sikandin	sikandin	PRON	_	_	1	nsubj	_	Gloss=he
-3	ka	ka	ADP	_	_	4	case	_	Gloss=a
+1	Igbál’le	bál’li	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=bought
+2	sikandin	sikandin	PRON	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he
+3	ka	ka	ADP	_	Case=Dat	4	case	_	Gloss=a
 4	kotse	kotse	NOUN	_	_	1	obj	_	Gloss=car
 5	pero	pero	CCONJ	_	_	11	cc	_	Gloss=but
-6	to	to	ADP	_	_	7	case	_	_
+6	to	to	ADP	_	Case=Nom	7	case	_	_
 7	igsoon	igsoon	NOUN	_	_	11	nsubj	_	Gloss=brother
-8	din	din	PRON	_	_	7	nmod	_	Gloss=his
+8	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	nmod	_	Gloss=his
 9	kay	kay	PART	_	_	11	mark	_	_
 10	bisekleta	bisekleta	NOUN	_	_	11	obj	_	Gloss=bicycle
-11	digbál’li	bál’li	VERB	_	_	1	advmod	_	Gloss=bought|SpaceAfter=No
-12	.	.	PUNCT	_	_	11	punct	_	Gloss.
+11	digbál’li	bál’li	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	1	advmod	_	Gloss=bought|SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-16
 # parallel_id = cairo/16
