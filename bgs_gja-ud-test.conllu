@@ -191,11 +191,11 @@
 # text = Indin man to igsillig no?
 # text_gloss = what looking you?
 # text_en = What are you looking at?
-1	Indin	indin	PRON	_	_	4	nmod	_	Gloss=what
+1	Indin	indin	PRON	_	PronType=Int	4	nmod	_	Gloss=what
 2	man	man	PART	_	_	4	advmod	_	_
-3	to	to	ADP	_	_	4	case	_	_
-4	igsillig	sillig	VERB	_	_	0	root	_	Gloss=looking
-5	no	no	PRON	_	_	4	nmod	_	Gloss=you|SpaceAfter=No
+3	to	to	ADP	_	Case=Nom	4	case	_	_
+4	igsillig	sillig	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=looking
+5	no	no	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Gloss=you|SpaceAfter=No
 6	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
 # sent_id = bgs_cairo-14
