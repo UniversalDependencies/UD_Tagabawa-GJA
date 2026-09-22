@@ -159,18 +159,18 @@
 # text = Si Peter Smith ak Mary Brown kay dire pwedeng mapili.
 # text_gloss = Peter Smith and Mary brown not could.be selected.
 # text_en = Neither Peter Smith nor Mary Brown could be selected.
-1	Si	si	ADP	_	_	2	case	_	_
+1	Si	si	ADP	_	Case=Nom	2	case	_	_
 2	Peter	Peter	PROPN	_	_	11	nsubj	_	Gloss=Peter
 3	Smith	Smith	PROPN	_	_	2	flat	_	Gloss=Smith
 4	ak	ak	CCONJ	_	_	5	cc	_	Gloss=and
 5	Mary	Mary	PROPN	_	_	2	conj	_	Gloss=Mary
 6	Brown	Brown	PROPN	_	_	5	flat	_	Gloss=Brown
 7	kay	kay	PART	_	_	11	mark	_	_
-8	dire	dire	PART	_	_	11	advmod	_	Gloss=not
+8	dire	dire	PART	_	Polarity=Neg	11	advmod	_	Gloss=not
 9-10	pwedeng	_	_	_	_	_	_	_	_
 9	pwede	pwede	PART	_	_	11	advmod	_	Gloss=could.be
 10	na	na	PART	_	_	9	mark	_	Gloss=LINK
-11	mapili	pili	VERB	_	_	0	root	_	Gloss=selected|SpaceAfter=No
+11	mapili	pili	VERB	_	Aspect=Prosp|Mood=Pot|Voice=Act	0	root	_	Gloss=selected|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-12
