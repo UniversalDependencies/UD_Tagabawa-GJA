@@ -89,7 +89,7 @@
 # text_gloss = Painted neighbor of Peter the fence red.
 # text_en = Peter's neighbor painted the fence red.
 1	Igpinturahan	pintura	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=painted
-2	ka	ka	ADP	_	Case=Nom	3	case	_	_
+2	ka	ka	ADP	_	Case=Dat	3	case	_	_
 3	silingan	silingan	NOUN	_	_	1	obj	_	Gloss=neighbor
 4	ni	ni	ADP	_	Case=Gen	5	case	_	Gloss=of
 5	Peter	Peter	PROPN	_	Gender=Male	3	obl	_	Gloss=Peter
