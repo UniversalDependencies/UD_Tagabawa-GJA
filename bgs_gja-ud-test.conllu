@@ -51,7 +51,7 @@
 4	pano	pano	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	1	ccomp	_	Gloss=go
 5-6	ked	_	_	_	_	_	_	_	_
 5	ke	ke	PRON	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Prs	4	nmod	_	_
-6	d	na	ADV	_	_	5	advmod	_	SpaceAfter=No
+6	d	na	ADV	_	_	5	advmod	_	_
 7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = bgs_cairo-5
