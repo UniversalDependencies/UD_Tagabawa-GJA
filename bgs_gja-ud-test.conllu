@@ -314,16 +314,18 @@
 # text = Igdakál sikandin diyak Paris, to ulo ka France.
 # text_gloss = grew.up she in Paris, the capital of France.
 # text_en = She grew up in Paris, the capital of France.
-1	Igdakál	dakál	VERB	_	_	0	root	_	Gloss=grew.up
-2	sikandin	sikandin	PRON	_	_	1	nsubj	_	Gloss=she
-3	diyak	diyak	ADP	_	_	4	case	_	Gloss=in
-4	Paris	Paris	PROPN	_	_	1	obj	_	Gloss=Paris|SpaceAfter=No
-5	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-6	to	to	ADP	_	_	7	case	_	Gloss=the
-7	ulo	ulo	NOUN	_	_	4	parataxis	_	Gloss=capital
-8	ka	ka	ADP	_	_	9	case	_	Gloss=of
-9	France	France	PROPN	_	_	7	obj	_	Gloss=France|SpaceAfter=No
-10	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+1	Igdakál	dakál	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=grew.up
+2	sikandin	sikandin	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=she
+3-4	diyak	_	_	_	_	_	_	_	_
+3	diya	diya	ADV	_	Deixis=Med	1	advmod	_	Gloss=there
+4	-k	ak	ADP	_	Case=Gen	5	case	_	Gloss=in
+5	Paris	Paris	PROPN	_	_	1	obj	_	Gloss=Paris|SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+7	to	to	ADP	_	Case=Nom	8	case	_	Gloss=the
+8	ulo	ulo	NOUN	_	_	5	parataxis	_	Gloss=capital
+9	ka	ka	ADP	_	Case=Gen	10	case	_	Gloss=of
+10	France	France	PROPN	_	_	8	obj	_	Gloss=France|SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = bgs_bunyeyap-01
 # ceb_parallel = bunyeyap-01
