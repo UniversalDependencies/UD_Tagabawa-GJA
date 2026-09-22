@@ -5,7 +5,7 @@
 # text_en = The girl wrote a letter to her friend.
 1	Igsulat	sulat	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=wrote
 2	to	to	ADP	_	Case=Nom	3	case	_	Gloss=the
-3	baye	baye	NOUN	_	Gender=Fem	1	nsubj	_	Gloss=girl
+3	baye	baye	NOUN	_	_  1	nsubj	_	Gloss=girl
 4	ka	ka	ADP	_	Case=Gen	5	case	_	Gloss=a
 5	sulat	sulat	NOUN	_	_	1	obj	_	Gloss=letter
 6	para	para	ADP	_	_	8	case	_	Gloss=for
@@ -59,7 +59,7 @@
 # text = Sam, abrihi no to bintana!
 # text_gloss = Sam, open you the window!
 # text_en = Sam, open the window!
-1	Sam	Sam	PROPN	_	Gender=Masc	3	vocative	_	Gloss=Sam|SpaceAfter=No
+1	Sam	Sam	PROPN	_	_  3	vocative	_	Gloss=Sam|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 3	abrihi	abri	VERB	_	Mood=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=open
 4	no	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nmod	_	Gloss=you
@@ -92,7 +92,7 @@
 2	ka	ka	ADP	_	Case=Dat	3	case	_	_
 3	silingan	silingan	NOUN	_	_	1	obj	_	Gloss=neighbor
 4	ni	ni	ADP	_	Case=Gen	5	case	_	Gloss=of
-5	Peter	Peter	PROPN	_	Gender=Male	3	obl	_	Gloss=Peter
+5	Peter	Peter	PROPN	_	_  3	obl	_	Gloss=Peter
 6	to	to	ADP	_	Case=Nom	7	case	_	Gloss=the
 7	koral	koral	NOUN	_	_	1	nsubj	_	Gloss=fence
 8	ka	ka	ADP	_	Case=Dat	9	case	_	_
