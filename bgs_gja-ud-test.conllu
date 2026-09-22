@@ -355,7 +355,7 @@
 # text_en = Maria called the child.
 1	Igtawar	tawar	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=called
 2	ni	ni	ADP	_	Case=Gen	3	case	_	_
-3	Maria	Maria	PROPN	_	Gender=Fem	1	obj	_	Gloss=Maria
+3	Maria	Maria	PROPN	_	_	1	obj	_	Gloss=Maria
 4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
 5	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
