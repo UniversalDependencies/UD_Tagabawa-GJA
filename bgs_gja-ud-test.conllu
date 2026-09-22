@@ -467,7 +467,7 @@
 # sent_id = bgs_tatoeba-17
 # ceb_parallel = tatoeba-17
 # text = Inda ad gustok neko. 
-# gloss =  not anymore like I you.
+# gloss = not anymore like I you.
 # text_en = I don't like you anymore.
 # tatoeba_author = Josefwintzent
 1	Inda	inda	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
