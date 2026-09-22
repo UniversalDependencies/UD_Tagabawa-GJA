@@ -616,9 +616,9 @@
 # gloss = not we accompany.
 # text_en = We will not accompany [him].
 # text_original = Dì ki tumákkás.
-1	Di	di	ADV	_	_	3	advmod	_	Gloss=no
-2	ki	ki	PRON	_	_	3	nsubj	_	Gloss=we
-3	tumákkás	tákkás	VERB	_	_	0	root	_	Gloss=will.accompany|SpaceAfter=No
+1	Di	dire	ADV	_	Polarity=Neg	3	advmod	_	Gloss=no
+2	ki	ki	PRON	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Gloss=we
+3	tumákkás	tákkás	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	0	root	_	Gloss=will.accompany|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-03
