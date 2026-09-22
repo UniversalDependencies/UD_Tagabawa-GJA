@@ -232,7 +232,7 @@
 # sent_id = bgs_cairo-16
 # parallel_id = cairo/16
 # text = Si Peter ak si Mary ággakos ak pángngá igtanan sikandan ka kwarto.
-# text_gloss = Peter and Mary hugged.each.other and then left they the room.
+# text_gloss = Peter and Mary hugged and then left they the room.
 # text_en = Peter and Mary hugged each other and then left the room.
 1	Si	si	ADP	_	Case=Nom	2	case	_	_
 2	Peter	Peter	PROPN	_	_	5	conj	_	Gloss=Peter
