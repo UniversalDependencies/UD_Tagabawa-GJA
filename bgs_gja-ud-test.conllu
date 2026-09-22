@@ -251,7 +251,7 @@
 # sent_id = bgs_cairo-17
 # parallel_id = cairo/17
 # text = Dapat piyaan nya to ulo nya pero sa pipila ka rason dire nya gusto lumon ni to el'lo.
-# text_gloss =
+# text_gloss = should.have.been doing she hair but for some reason not she would.do that day.
 # text_en = She should have been doing her hair but for some reason she wouldn't that day.
 1	Dapat	dapat	ADV	_	_	2	advmod	_	Gloss=should.have.been
 2	piyaan	piyaan	VERB	_	Aspect=Prosp|Mood=Pot|Voice=Pass	0	root	_	Gloss=doing
