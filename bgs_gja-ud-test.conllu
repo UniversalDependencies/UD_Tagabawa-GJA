@@ -573,7 +573,7 @@
 # gloss = do.not worry.
 # text_en = Don't worry.
 # tatoeba_author = Josefwintzent
-1	Yaka	yaka	PART	_	_	3	advmod	_	Gloss=do.not
+1	Yaka	yaka	PART	_	Polarity=Neg	3	advmod	_	Gloss=do.not
 2	ka	ka	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=you
 3	guol	guol	VERB	_	_	0	root	_	Gloss=worry|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
