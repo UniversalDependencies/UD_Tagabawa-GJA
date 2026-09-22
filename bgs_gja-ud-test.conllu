@@ -332,7 +332,7 @@
 # text = Igbelle sikandan ka umpak.
 # gloss = will.buy they dress.
 # text_en = They will buy a dress.
-1	Igbelle	belle	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	0	root	_	Gloss=will.buy
+1	Igbelle	belle	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=will.buy
 2	sikandan	sikandan	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they
 3	ka	ka	ADP	_	Case=Gen	4	case	_	_
 4	umpak	umpak	NOUN	_	_	1	obj	_	Gloss=dress|SpaceAfter=No
