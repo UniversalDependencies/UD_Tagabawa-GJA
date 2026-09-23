@@ -709,7 +709,7 @@
 # text_original = Duwán amayánnán katô ámmà ku.
 1	Duwán	duwán	VERB	_	_	0	root	_	Gloss=has
 2	amayánnán	amayánnán	NOUN	_	_	1	obj	_	Gloss=uncle
-3	kato	kato	ADP	_	Case=Nom	2	case	_	Gloss=an
+3	kato	kato	ADP	_	Case=Nom	2	case	_	_
 4	ámma	ámma	NOUN	_	_	1	nsubj	_	Gloss=father
 5	ku	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod	_	Gloss=my|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
