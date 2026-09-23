@@ -634,15 +634,16 @@
 
 # sent_id = bgs_dubois-04
 # text = Uin ku ilusán ni gátták ku.
-# gloss = 
+# gloss = own I massage stomach my.
 # text_en = I massaged my own stomach.
 # text_original = Uin ku ilusán ni gátták ku.
-1	Uin	uin	VERB	_	_	0	root	_	_
-2	ku	ku	PRON	_	_	1	nsubj	_	Gloss=I
-3	ilusán	ilusán	VERB	_	_	1	advmod	_	Gloss=massage
-4	ni	ni	ADP	_	_	5	case	_	_
-5	gátták	gátták	NOUN	_	_	1	obj	_	Gloss=stomach
-6	ku	ku	PRON	_	_	5	nmod	_	Gloss=my|SpaceAfter=No
+# Note = DuBois said that "ui" could be a reflexive verb meaning "to do something to oneself".
+1	Uin	ui	VERB	_	_	0	root	_	Gloss=own
+2	ku	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+3	ilusán	ilusán	VERB	_	_	1	ccomp	_	Gloss=massage
+4	ni	ni	ADP	_	Case=Gen	5	case	_	_
+5	gátták	gátták	NOUN	_	_	3	obj	_	Gloss=stomach
+6	ku	ku	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Gloss=my|SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-05
