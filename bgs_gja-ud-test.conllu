@@ -780,12 +780,12 @@
 
 # sent_id = bgs_dubois-17
 # text = Kadángngan ko mano?
-# gloss = 
+# gloss = when you will.leave?
 # text_en = When will you leave?
 # text_original = Kadángngan kó manó?
-1	Kadángngan	kadángngan	ADV	_	_	3	advmod	_	Gloss=when
-2	ko	ko	PRON	_	_	3	nsubj	_	Gloss=you
-3	mano	mano	VERB	_	_	0	root	_	Gloss=will.leave|SpaceAfter=No
+1	Kadángngan	kadángngan	ADV	_	PronType=Int	3	advmod	_	Gloss=when
+2	ko	ko	PRON	_	Case=Gen|Number=Plural|Person=2|PronType=Prs	3	nsubj	_	Gloss=you
+3	mano	mano	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=will.leave|SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	Gloss=?
 
 # sent_id = bgs_dubois-18
