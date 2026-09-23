@@ -682,11 +682,11 @@
 # gloss = 
 # text_en = My name is Umanan Lambac.
 # text_original = Tô ngadan ku si Umanan Lambac.
-1	To	to	ADP	_	_	2	case	_	_
+1	To	to	ADP	_	Case=Gen	2	case	_	_
 2	ngadan	ngadan	NOUN	_	_	0	root	_	Gloss=name
-3	ku	ku	PRON	_	_	2	nmod	_	Gloss=my
-4	si	si	ADP	_	_	5	case	_	_
-5	Umanan	Umanan	PROPN	_	_	2	obj	_	Gloss=Umanan
+3	ku	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	Gloss=my
+4	si	si	ADP	_	Case=Nom	5	case	_	_
+5	Umanan	Umanan	PROPN	_	_	2	nsubj	_	Gloss=Umanan
 6	Lambac	Lambac	PROPN	_	_	5	flat	_	Gloss=Lambac|SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
