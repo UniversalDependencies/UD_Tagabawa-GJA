@@ -1472,166 +1472,166 @@
 
 # sent_id = bgs_cooke-marfa-01
 # text = Megkan din si Halila.
-# gloss = 
+# gloss = ate already Halila.
 # text_en = Halila ate already.
-1	Megkan	_	_	_	_	_	_	_	_
-2	din	_	_	_	_	_	_	_	_
-3	si	_	_	_	_	_	_	_	_
-4	Halila	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Megkan	kan	VERB	_	_	0	root	_	Gloss=ate
+2	din	din	ADV	_	_	1	advmod	_	Gloss=already
+3	si	si	ADP	_	_	4	case	_	_
+4	Halila	Halila	PROPN	_	_	1	nsubj	_	Gloss=Halila|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-02
 # text = Padigosan ko to bata.
-# gloss = 
+# gloss = will.bathe I the child.
 # text_en = I will bathe the child.
-1	Padigosan	_	_	_	_	_	_	_	_
-2	ko	_	_	_	_	_	_	_	_
-3	to	_	_	_	_	_	_	_	_
-4	bata	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Padigosan	padigos	VERB	_	_	0	root	_	Gloss=will.bathe
+2	ko	ko	PRON	_	_	1	nsubj	_	Gloss=I
+3	to	to	ADP	_	_	4	case	_	Gloss=the
+4	bata	bata	NOUN	_	_	1	obj	_	Gloss=child|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-03
 # text = Pamulaan ni Nena to tana e kasila.
-# gloss = 
+# gloss = will.plant Nena in land sweet potatoes.
 # text_en = Nena will plant sweet potato(es) in this land.
-1	Pamulaan	_	_	_	_	_	_	_	_
-2	ni	_	_	_	_	_	_	_	_
-3	Nena	_	_	_	_	_	_	_	_
-4	to	_	_	_	_	_	_	_	_
-5	tana	_	_	_	_	_	_	_	_
-6	e	_	_	_	_	_	_	_	_
-7	kasila	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Pamulaan	pamula	VERB	_	_	0	root	_	Gloss=will.plant
+2	ni	ni	ADP	_	_	3	obj	_	_
+3	Nena	Nena	PROPN	_	_	1	case	_	Gloss=Nena
+4	to	to	ADP	_	_	5	case	_	Gloss=in
+5	tana	tana	NOUN	_	_	1	nsubj	_	Gloss=land
+6	e	e	ADP	_	_	7	case	_	_
+7	kasila	kasila	NOUN	_	_	1	obl	_	Gloss=sweet.potatoes|SpaceAfter=No 
+8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-04
 # text = Gamitin to bata to lapis ko para pambatik.
-# gloss = 
+# gloss = will.use the child pencil my to write.
 # text_en = The child will use my pencil to write.
-1	Gamitin	_	_	_	_	_	_	_	_
-2	to	_	_	_	_	_	_	_	_
-3	bata	_	_	_	_	_	_	_	_
-4	to	_	_	_	_	_	_	_	_
-5	lapis	_	_	_	_	_	_	_	_
-6	ko	_	_	_	_	_	_	_	_
-7	para	_	_	_	_	_	_	_	_
-8	pambatik	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Gamitin	gamit	VERB	_	_	0	root	_	Gloss=will.use
+2	to	to	ADP	_	_	3	case	_	Gloss=the
+3	bata	bata	NOUN	_	_	1	obj	_	Gloss=child
+4	to	to	ADP	_	_	5	case	_	_
+5	lapis	lapis	NOUN	_	_	1	nsubj	_	Gloss=pencil
+6	ko	ko	PRON	_	_	5	nmod	_	Gloss=my
+7	para	para	CCONJ	_	_	8	mark	_	Gloss=to
+8	pambatik	batik	NOUN	_	_	1	ccomp	_	Gloss=write|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-05
 # text = Kuman ke simag.
-# gloss = 
+# gloss = will.eat we tomorrow.
 # text_en = We will eat tomorrow.
-1	Kuman	_	_	_	_	_	_	_	_
-2	ke	_	_	_	_	_	_	_	_
-3	simag	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Kuman	kan	VERB	_	_	0	root	_	Gloss=will.eat
+2	ke	ke	PRON	_	_	1	nsubj	_	Gloss=we
+3	simag	simag	ADV	_	_	1	advmod	_	Gloss=tomorrow|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-06
 # text = Gamitan ni Gina to pinggan.
-# gloss = 
+# gloss = will.use Gina the plate.
 # text_en = Gina will use that plate.
-1	Gamitan	_	_	_	_	_	_	_	_
-2	ni	_	_	_	_	_	_	_	_
-3	Gina	_	_	_	_	_	_	_	_
-4	to	_	_	_	_	_	_	_	_
-5	pinggan	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Gamitan	gamit	VERB	_	_	0	root	_	Gloss=will.use
+2	ni	ni	ADP	_	_	3	case	_	_
+3	Gina	Gina	PROPN	_	_	1	obj	_	Gloss=Gina
+4	to	to	ADP	_	_	5	case	_	Gloss=the
+5	pinggan	pinggan	NOUN	_	_	1	nsubj	_	Gloss=plate|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-07
 # text = Egkan ke ka sidda.
-# gloss = 
+# gloss = are.eating we a fish.
 # text_en = We are eating a fish.
-1	Egkan	_	_	_	_	_	_	_	_
-2	ke	_	_	_	_	_	_	_	_
-3	ka	_	_	_	_	_	_	_	_
-4	sidda	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Egkan	kan	VERB	_	_	0	root	_	Gloss=are.eating
+2	ke	ke	PRON	_	_	1	nsubj	_	Gloss=we
+3	ka	ka	ADP	_	_	4	case	_	Gloss=a
+4	sidda	sidda	NOUN	_	_	1	obj	_	Gloss=fish|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-08
 # text = Egpadigusan ko to bata.
-# gloss = 
+# gloss = am.bathing I the child.
 # text_en = I am bathing the child.
-1	Egpadigusan	_	_	_	_	_	_	_	_
-2	ko	_	_	_	_	_	_	_	_
-3	to	_	_	_	_	_	_	_	_
-4	bata	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Egpadigusan	padigos	VERB	_	_	0	root	_	Gloss=am.bathing
+2	ko	ko	PRON	_	_	1	obj	_	Gloss=I
+3	to	to	ADP	_	_	4	case	_	Gloss=the
+4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-09
 # text = Egpamulaan ni Mario to tana ka saging.
-# gloss = 
+# gloss = is.planting Mario in land banana.
 # text_en = Mario is planting banana in this land.
-1	Egpamulaan	_	_	_	_	_	_	_	_
-2	ni	_	_	_	_	_	_	_	_
-3	Mario	_	_	_	_	_	_	_	_
-4	to	_	_	_	_	_	_	_	_
-5	tana	_	_	_	_	_	_	_	_
-6	ka	_	_	_	_	_	_	_	_
-7	saging	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Egpamulaan	pamula	VERB	_	_	0	root	_	Gloss=is.planting
+2	ni	ni	ADP	_	_	3	case	_	_
+3	Mario	Mario	PROPN	_	_	1	obj	_	Gloss=Mario
+4	to	to	ADP	_	_	5	case	_	Gloss=in
+5	tana	tana	NOUN	_	_	1	nsubj	_	Gloss=land
+6	ka	ka	ADP	_	_	7	case	_	_
+7	saging	saging	NOUN	_	_	1	obl	_	Gloss=banana|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-10
 # text = Eggamitan ni Maria to kutsilyo.
-# gloss = 
+# gloss = is.using Maria the knife.
 # text_en = Maria is using the knife.
-1	Eggamitan	_	_	_	_	_	_	_	_
-2	ni	_	_	_	_	_	_	_	_
-3	Maria	_	_	_	_	_	_	_	_
-4	to	_	_	_	_	_	_	_	_
-5	kutsilyo	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Eggamitan	gamit	VERB	_	_	0	root	_	Gloss=is.using
+2	ni	ni	ADP	_	_	3	case	_	_
+3	Maria	Maria	PROPN	_	_	1	obj	_	Gloss=Maria
+4	to	to	ADP	_	_	5	case	_	Gloss=the
+5	kutsilyo	kutsilyo	NOUN	_	_	1	nsubj	_	Gloss=knife|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-11
 # text = Megpadigusan ko to bata bani.
-# gloss = 
+# gloss = bathed I the child yesterday.
 # text_en = I bathed the child yesterday.
-1	Megpadigusan	_	_	_	_	_	_	_	_
-2	ko	_	_	_	_	_	_	_	_
-3	to	_	_	_	_	_	_	_	_
-4	bata	_	_	_	_	_	_	_	_
-5	bani	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Megpadigusan	padigos	VERB	_	_	0	root	_	Gloss=bathed
+2	ko	ko	PRON	_	_	1	obj	_	Gloss=I
+3	to	to	ADP	_	_	4	case	_	Gloss=the
+4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
+5	bani	bani	ADV	_	_	1	advmod	_	Gloss=yesterday|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-12
 # text = Megpamulaan den to tana ka saging bani.
-# gloss = 
+# gloss = planted they in land banana yesterday.
 # text_en = They planted bananas in this land yesterday.
-1	Megpamulaan	_	_	_	_	_	_	_	_
-2	den	_	_	_	_	_	_	_	_
-3	to	_	_	_	_	_	_	_	_
-4	tana	_	_	_	_	_	_	_	_
-5	ka	_	_	_	_	_	_	_	_
-6	saging	_	_	_	_	_	_	_	_
-7	bani	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Megpamulaan	pamula	VERB	_	_	0	root	_	Gloss=planted
+2	den	den	PRON	_	_	1	nsubj	_	Gloss=they
+3	to	to	ADP	_	_	4	case	_	Gloss=in
+4	tana	tana	NOUN	_	_	1	obl	_	Gloss=land
+5	ka	ka	ADP	_	_	6	case	_	_
+6	saging	saging	NOUN	_	_	1	obj	_	Gloss=banana
+7	bani	bani	ADV	_	_	1	advmod	_	Gloss=yesterday|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-13
 # text = Meggamitan ko to pinggan gena.
-# gloss = 
+# gloss = used I the plate a.while.ago.
 # text_en = I used the plate a while ago.
-1	Meggamitan	_	_	_	_	_	_	_	_
-2	ko	_	_	_	_	_	_	_	_
-3	to	_	_	_	_	_	_	_	_
-4	pinggan	_	_	_	_	_	_	_	_
-5	gena	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Meggamitan	gamit	VERB	_	_	0	root	_	Gloss=used
+2	ko	ko	PRON	_	_	1	obj	_	Gloss=I
+3	to	to	ADP	_	_	4	case	_	Gloss=the
+4	pinggan	pinggan	NOUN	_	_	1	nsubj	_	Gloss=plate
+5	gena	gena	ADV	_	_	1	advmod	_	Gloss=a.while.ago|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-14
 # text = Megtindig to bata.
-# gloss = 
+# gloss = stood.up the child. 
 # text_en = The child stood up.
-1	Megtindig	_	_	_	_	_	_	_	_
-2	to	_	_	_	_	_	_	_	_
-3	bata	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Megtindig	tindig	VERB	_	_	0	root	_	Gloss=stood.up
+2	to	to	ADP	_	_	3	case	_	Gloss=the
+3	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-15
-# text = Megkan ni maria to mangga.
-# gloss = 
+# text = Megkan ni Maria to mangga.
+# gloss = ate Maria the mango.
 # text_en = Maria ate the mango.
-1	Megkan	_	_	_	_	_	_	_	_
-2	ni	_	_	_	_	_	_	_	_
-3	maria	_	_	_	_	_	_	_	_
-4	to	_	_	_	_	_	_	_	_
-5	mangga	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Megkan	kan	VERB	_	_	0	root	_	Gloss=ate
+2	ni	ni	ADP	_	_	3	case	_	_
+3	Maria	Maria	PROPN	_	_	1	obj	_	Gloss=Maria
+4	to	to	ADP	_	_	5	case	_	Gloss=the
+5	mangga	mangga	NOUN	_	_	1	nsubj	_	Gloss=mango|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
