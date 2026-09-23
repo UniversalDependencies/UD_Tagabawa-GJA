@@ -673,8 +673,8 @@
 # gloss = 
 # text_en = She was angry.
 # text_original = Misókó áskandin.
-1	Misoko	soko	VERB	_	_	0	root	_	GLoss=was.angry
-2	áskandin	áskandin	PRON	_	_	1	nsubj	_	Gloss=she|SpaceAfter=No
+1	Misoko	soko	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=was.angry
+2	áskandin	áskandin	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=she|SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-08
