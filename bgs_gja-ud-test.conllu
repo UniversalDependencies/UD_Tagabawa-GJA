@@ -1469,3 +1469,169 @@
 2	dád	dád	PART	_	_	1	advmod	_	Gloss=only
 3	go	go	PART	_	_	1	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = bgs_cooke-marfa-01
+# text = Megkan din si Halila.
+# gloss = 
+# text_en = Halila ate already.
+1	Megkan	_	_	_	_	_	_	_	_
+2	din	_	_	_	_	_	_	_	_
+3	si	_	_	_	_	_	_	_	_
+4	Halila	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-02
+# text = Padigosan ko to bata.
+# gloss = 
+# text_en = I will bathe the child.
+1	Padigosan	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	bata	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-03
+# text = Pamulaan ni Nena to tana e kasila.
+# gloss = 
+# text_en = Nena will plant sweet potato(es) in this land.
+1	Pamulaan	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	Nena	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	tana	_	_	_	_	_	_	_	_
+6	e	_	_	_	_	_	_	_	_
+7	kasila	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-04
+# text = Gamitin to bata to lapis ko para pambatik.
+# gloss = 
+# text_en = The child will use my pencil to write.
+1	Gamitin	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	bata	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	lapis	_	_	_	_	_	_	_	_
+6	ko	_	_	_	_	_	_	_	_
+7	para	_	_	_	_	_	_	_	_
+8	pambatik	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-05
+# text = Kuman ke simag.
+# gloss = 
+# text_en = We will eat tomorrow.
+1	Kuman	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	simag	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-06
+# text = Gamitan ni Gina to pinggan.
+# gloss = 
+# text_en = Gina will use that plate.
+1	Gamitan	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	Gina	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	pinggan	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-07
+# text = Egkan ke ka sidda.
+# gloss = 
+# text_en = We are eating a fish.
+1	Egkan	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	sidda	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-08
+# text = Egpadigusan ko to bata.
+# gloss = 
+# text_en = I am bathing the child.
+1	Egpadigusan	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	bata	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-09
+# text = Egpamulaan ni Mario to tana ka saging.
+# gloss = 
+# text_en = Mario is planting banana in this land.
+1	Egpamulaan	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	Mario	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	tana	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	saging	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-10
+# text = Eggamitan ni Maria to kutsilyo.
+# gloss = 
+# text_en = Maria is using the knife.
+1	Eggamitan	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	Maria	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	kutsilyo	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-11
+# text = Megpadigusan ko to bata bani.
+# gloss = 
+# text_en = I bathed the child yesterday.
+1	Megpadigusan	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	bata	_	_	_	_	_	_	_	_
+5	bani	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-12
+# text = Megpamulaan den to tana ka saging bani.
+# gloss = 
+# text_en = They planted bananas in this land yesterday.
+1	Megpamulaan	_	_	_	_	_	_	_	_
+2	den	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	tana	_	_	_	_	_	_	_	_
+5	ka	_	_	_	_	_	_	_	_
+6	saging	_	_	_	_	_	_	_	_
+7	bani	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-13
+# text = Meggamitan ko to pinggan gena.
+# gloss = 
+# text_en = I used the plate a while ago.
+1	Meggamitan	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	pinggan	_	_	_	_	_	_	_	_
+5	gena	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-14
+# text = Megtindig to bata.
+# gloss = 
+# text_en = The child stood up.
+1	Megtindig	_	_	_	_	_	_	_	_
+2	to	_	_	_	_	_	_	_	_
+3	bata	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = bgs_cooke-marfa-15
+# text = Megkan ni maria to mangga.
+# gloss = 
+# text_en = Maria ate the mango.
+1	Megkan	_	_	_	_	_	_	_	_
+2	ni	_	_	_	_	_	_	_	_
+3	maria	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	mangga	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
