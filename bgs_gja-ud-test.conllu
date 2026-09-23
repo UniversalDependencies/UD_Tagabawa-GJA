@@ -770,13 +770,13 @@
 
 # sent_id = bgs_dubois-16
 # text = Mánda ka saru?
-# gloss = 
+# gloss = where you are.going?
 # text_en = Where are you going?
 # text_original = Mánda ka saru?
-1	Mánda	mánda	ADV	_	_	3	advmod	_	Gloss=where
-2	ka	ka	PRON	_	_	3	nsubj	_	Gloss=you
-3	saru	saru	VERB	_	_	0	root	_	Gloss=are.going|SpaceAfter=No
-4	?	?	PUNCT	_	_	3	punct	_	Gloss=.
+1	Mánda	mánda	ADV	_	PronType=Int	3	advmod	_	Gloss=where
+2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you
+3	saru	saru	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=are.going|SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	Gloss=?
 
 # sent_id = bgs_dubois-17
 # text = Kadángngan ko mano?
