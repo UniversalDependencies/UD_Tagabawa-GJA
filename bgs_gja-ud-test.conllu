@@ -692,10 +692,10 @@
 
 # sent_id = bgs_dubois-09
 # text = Áskandin e mange ka wayig.
-# gloss = 
+# gloss = he fetch water.
 # text_en = He is the one who will fetch water.
 # text_original = Áskandin é mangé ka wayig.
-1	Áskandin	áskandin	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=He
+1	Áskandin	áskandin	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he
 2	e	e	ADP	_	Case=Nom	3	case	_	_
 3	mange	mange	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=fetch
 4	ka	ka 	ADP	_	Case=Gen	5	case	_	_
@@ -704,14 +704,14 @@
 
 # sent_id = bgs_dubois-10
 # text = Duwán amayánnán kato ámma ku.
-# gloss = 
+# gloss = has uncle father.
 # text_en = My father has an uncle.
 # text_original = Duwán amayánnán katô ámmà ku.
 1	Duwán	duwán	VERB	_	_	0	root	_	Gloss=has
 2	amayánnán	amayánnán	NOUN	_	_	1	obj	_	Gloss=uncle
-3	kato	kato	ADP	_	_	2	case	_	_
+3	kato	kato	ADP	_	Case=Nom	2	case	_	Gloss=an
 4	ámma	ámma	NOUN	_	_	1	nsubj	_	Gloss=father
-5	ku	ku	PRON	_	_	4	nmod	_	Gloss=my|SpaceAfter=No
+5	ku	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod	_	Gloss=my|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-11
