@@ -670,7 +670,7 @@
 
 # sent_id = bgs_dubois-07
 # text = Misoko áskandin.
-# gloss = 
+# gloss = was.angry I.
 # text_en = She was angry.
 # text_original = Misókó áskandin.
 1	Misoko	soko	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=was.angry
@@ -679,7 +679,7 @@
 
 # sent_id = bgs_dubois-08
 # text = To ngadan ku si Umanan Lambac.
-# gloss = 
+# gloss = name my Umanan Lambac.
 # text_en = My name is Umanan Lambac.
 # text_original = Tô ngadan ku si Umanan Lambac.
 1	To	to	ADP	_	Case=Gen	2	case	_	_
