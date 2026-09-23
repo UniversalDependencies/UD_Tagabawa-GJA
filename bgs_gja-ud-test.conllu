@@ -758,13 +758,14 @@
 
 # sent_id = bgs_dubois-15
 # text = Kannun dán si kuwa.
-# gloss = 
+# gloss = here already whats-his-name.
 # text_en = Whats-his-name is already here.
 # text_original = Kannun dán si kuwa.
-1	Kannun	kannun	ADV	_	_	0	root	_	Gloss=here
-2	dán	dán	PRON	_	_	1	nmod	_	_
-3	si	si	ADP	_	_	4	case	_	_
-4	kuwa	kuwa	NOUN	_	_	1	nsubj	_	SpaceAfter=No
+# Note = "kuwa" is most likely an empty filler word, hence "whats-his-name" in Dubois's translation. This word is most likely similar to the Cebuano word "kuan" which has the same function.
+1	Kannun	kannun	ADV	_	Deixis=Prox	0	root	_	Gloss=here
+2	dán	dán	ADV	_	_	1	advmod	_	Gloss=already
+3	si	si	ADP	_	Case=Nom	4	case	_	_
+4	kuwa	kuwa	NOUN	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-16
