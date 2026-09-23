@@ -226,7 +226,7 @@
 8	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	nmod	_	Gloss=his
 9	kay	kay	PART	_	_	11	mark	_	_
 10	bisekleta	bisekleta	NOUN	_	_	11	obj	_	Gloss=bicycle
-11	digbál’li	bál’li	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	1	advmod	_	Gloss=bought|SpaceAfter=No
+11	digbál’li	bál’li	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	1	ccomp	_	Gloss=bought|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-16
