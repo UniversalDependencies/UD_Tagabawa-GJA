@@ -626,10 +626,10 @@
 # gloss = do.not be.sad and be.crying.
 # text_en = Don't be sad and be crying.
 # text_original = Yakó ágranu asta ágsággó.
-1	Yako	yako	ADV	_	_	2	advmod	_	Gloss=do.not
-2	ágranu	ranu	VERB	_	_	0	root	_	Gloss=be.sad
+1	Yako	yako	ADV	_	Polarity=Neg	2	advmod	_	Gloss=do.not
+2	ágranu	ranu	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	0	root	_	Gloss=be.sad
 3	asta	asta	CCONJ	_	_	4	cc	_	Gloss=and
-4	ágsággo	sággo	VERB	_	_	2	cc	_	Gloss=be.crying|SpaceAfter=No
+4	ágsággo	sággo	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	2	cc	_	Gloss=be.crying|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-04
