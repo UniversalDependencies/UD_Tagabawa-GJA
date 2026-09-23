@@ -127,13 +127,13 @@
 5	bronze	bronze	NOUN	_	Foreign=Yes	1	obj	_	Gloss=bronze|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=,
 7	si	si	ADP	_	Case=Nom	8	case	_	_
-8	Peter	Peter	PROPN	_	_	3	conj	_	Gloss=Peter
+8	Peter	Peter	PROPN	_	_	1	nsubj	_	Gloss=Peter
 9	ka	ka	ADP	_	Case=Gen	10	case	_	Gloss=the
 10	silver	silver	NOUN	_	Foreign=Yes	8	obj	_	Gloss=silver|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=,
 12	ak	ak	CCONJ	_	_	14	cc	_	Gloss=and
 13	si	si	ADP	_	Case=Nom	14	case	_	_
-14	Jane	Jane	PROPN	_	_	8	conj	_	Gloss=Jane
+14	Jane	Jane	PROPN	_	_	1	nsubj	_	Gloss=Jane
 15	ka	ka	ADP	_	Case=Gen	16	case	_	Gloss=the
 16	gold	gold	NOUN	_	Foreign=Yes	14	obj	_	Gloss=gold|SpaceAfter=No
 17	.	.	PUNCT	_	_	1	punct	_	Gloss=.
