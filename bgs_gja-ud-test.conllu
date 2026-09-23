@@ -752,7 +752,7 @@
 # text_en = He bathes daily.
 # text_original = Állówállós kandin ágpadigus.
 1	Állowállos	állowállos	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=bathes
-2	kandin	kandin	PRON	_	_	1	nsubj	_	Gloss=he
+2	kandin	kandin	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he
 3	ágpadigus	ágpadigus	ADV	_	_	1	advmod	_	Gloss=daily|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
