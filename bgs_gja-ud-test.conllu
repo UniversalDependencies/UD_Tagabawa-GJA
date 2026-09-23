@@ -761,7 +761,7 @@
 # gloss = here already whats-his-name.
 # text_en = Whats-his-name is already here.
 # text_original = Kannun dán si kuwa.
-# Note = "kuwa" is most likely an empty filler word, hence "whats-his-name" in Dubois's translation. This word is most likely similar to the Cebuano word "kuan" which has the same function.
+# Note = "kuwa" is most likely an empty filler word and is most likely similar to the Cebuano word "kuan".
 1	Kannun	kannun	ADV	_	Deixis=Prox	0	root	_	Gloss=here
 2	dán	dán	ADV	_	_	1	advmod	_	Gloss=already
 3	si	si	ADP	_	Case=Nom	4	case	_	_
