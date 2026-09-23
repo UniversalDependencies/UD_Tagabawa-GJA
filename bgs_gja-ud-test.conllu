@@ -716,11 +716,11 @@
 
 # sent_id = bgs_dubois-11
 # text = Ánda a pa.
-# gloss = 
+# gloss = did.not I yet.
 # text_en = I did not yet exist [i.e., had not yet been born].
 # text_original = Ándà a pa.
-1	Ánda	ánda	VERB	_	_	0	_	_	Gloss=did.not
-2	a	a	PRON	_	_	1	nsubj	_	Gloss=I
+1	Ánda	ánda	VERB	_	_	0	root	_	Gloss=did.not
+2	a	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
 3	pa	pa	PART	_	_	1	advmod	_	Gloss=yet|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
