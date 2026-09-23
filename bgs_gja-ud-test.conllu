@@ -651,7 +651,7 @@
 # gloss = not we speak.
 # text_en = We were unable to speak.
 # text_original = Dì kéd pakakagi.
-1	Di	di	ADV	_	Polarity=Neg	4	advmod	_	Gloss=not
+1	Di	dire	ADV	_	Polarity=Neg	4	advmod	_	Gloss=not
 2-3	ked	_	_	_	_	_	_	_	_
 2	ke	ke	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	4	nmod	_	Gloss=we
 3	-d	na	ADV	_	_	4	mark	_	_
