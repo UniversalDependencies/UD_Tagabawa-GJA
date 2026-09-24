@@ -953,14 +953,14 @@
 
 # sent_id = bgs_dubois_2025-07
 # text = Di ki patongkoe tingod kanan.
-# gloss = 
+# gloss = will.not we converse about that.
 # text_en = We will not converse with each other about that.
 # text_original = Dì ki patóngkóé tingód kanan.
-1	Di	di	ADV	_	_	3	advmod	_	Gloss=will.not
-2	ki	ki	PRON	_	_	3	nsubj	_	Gloss=we
-3	patongkoe	tongko	VERB	_	_	0	root	_	Gloss=converse
+1	Di	di	ADV	_	Polarity=Neg	3	advmod	_	Gloss=will.not
+2	ki	ki	PRON	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Gloss=we
+3	patongkoe	tongko	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=converse
 4	tingod	tingod	ADV	_	_	3	advmod	_	Gloss=about
-5	kanan	kanan	PRON	_	_	3	advmod	_	Gloss=that|SpaceAfter=No
+5	kanan	kanan	PRON	_	Deixis=Med	3	advmod	_	Gloss=that|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-08
