@@ -1528,10 +1528,10 @@
 # text = Gamitan ni Gina to pinggan.
 # gloss = will.use Gina the plate.
 # text_en = Gina will use that plate.
-1	Gamitan	gamit	VERB	_	_	0	root	_	Gloss=will.use
-2	ni	ni	ADP	_	_	3	case	_	_
+1	Gamitan	gamit	VERB	_	Aspect=Imp|Mood=Ind|Voice=Ifoc	0	root	_	Gloss=will.use
+2	ni	ni	ADP	_	Case=Gen	3	case	_	_
 3	Gina	Gina	PROPN	_	_	1	obj	_	Gloss=Gina
-4	to	to	ADP	_	_	5	case	_	Gloss=the
+4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
 5	pinggan	pinggan	NOUN	_	_	1	nsubj	_	Gloss=plate|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -1539,9 +1539,9 @@
 # text = Egkan ke ka sidda.
 # gloss = are.eating we a fish.
 # text_en = We are eating a fish.
-1	Egkan	kan	VERB	_	_	0	root	_	Gloss=are.eating
-2	ke	ke	PRON	_	_	1	nsubj	_	Gloss=we
-3	ka	ka	ADP	_	_	4	case	_	Gloss=a
+1	Egkan	kan	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=are.eating
+2	ke	ke	PRON	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	Gloss=we
+3	ka	ka	ADP	_	Case=Gen	4	case	_	Gloss=a
 4	sidda	sidda	NOUN	_	_	1	obj	_	Gloss=fish|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
