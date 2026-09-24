@@ -867,16 +867,16 @@
 
 # sent_id = bgs_dubois-25
 # text = Ágkan to mga bisita iring na babuy.
-# gloss = 
+# gloss = ate PLUR visitors like LINK pig.
 # text_en = The visitors ate like pigs.
 # text_original = Ágkan tô mga bisita iring na babuy.
-1	Ágkan	ágkan	VERB	_	_	0	root	_	Gloss=ate
-2	to	to	ADP	_	_	4	case	_	_
-3	mga	mga	DET	_	_	4	det	_	Gloss=PLUR
+1	Ágkan	kan	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=ate
+2	to	to	ADP	_	Case=Nom	4	case	_	_
+3	mga	mga	DET	_	Number=Plur	4	det	_	Gloss=PLUR
 4	bisita	bisita	NOUN	_	_	1	nsubj	_	Gloss=visitors
 5	iring	iring	ADV	_	_	7	advmod	_	Gloss=like
 6	na	na	PART	_	_	7	mark	_	Gloss=LINK
-7	babuy	babuy	NOUN	_	_	1	advcl	_	Gloss=pigs|SpaceAfter=No
+7	babuy	babuy	NOUN	_	_	1	ccomp	_	Gloss=pig|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-01
