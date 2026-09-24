@@ -1472,9 +1472,9 @@
 # text = Megkan din si Halila.
 # gloss = ate already Halila.
 # text_en = Halila ate already.
-1	Megkan	kan	VERB	_	_	0	root	_	Gloss=ate
+1	Megkan	kan	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=ate
 2	din	din	ADV	_	_	1	advmod	_	Gloss=already
-3	si	si	ADP	_	_	4	case	_	_
+3	si	si	ADP	_	Case=Nom	4	case	_	_
 4	Halila	Halila	PROPN	_	_	1	nsubj	_	Gloss=Halila|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -1482,9 +1482,9 @@
 # text = Padigosan ko to bata.
 # gloss = will.bathe I the child.
 # text_en = I will bathe the child.
-1	Padigosan	padigos	VERB	_	_	0	root	_	Gloss=will.bathe
-2	ko	ko	PRON	_	_	1	nsubj	_	Gloss=I
-3	to	to	ADP	_	_	4	case	_	Gloss=the
+1	Padigosan	padigos	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=will.bathe
+2	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
 4	bata	bata	NOUN	_	_	1	obj	_	Gloss=child|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -1492,12 +1492,12 @@
 # text = Pamulaan ni Nena to tana e kasila.
 # gloss = will.plant Nena in land sweet potatoes.
 # text_en = Nena will plant sweet potato(es) in this land.
-1	Pamulaan	pamula	VERB	_	_	0	root	_	Gloss=will.plant
-2	ni	ni	ADP	_	_	3	obj	_	_
+1	Pamulaan	pamula	VERB	_	Aspect=Imp|Mood=Ind|Voice=Lfoc	0	root	_	Gloss=will.plant
+2	ni	ni	ADP	_	Case=Gen	3	obj	_	_
 3	Nena	Nena	PROPN	_	_	1	case	_	Gloss=Nena
-4	to	to	ADP	_	_	5	case	_	Gloss=in
+4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=in
 5	tana	tana	NOUN	_	_	1	nsubj	_	Gloss=land
-6	e	e	ADP	_	_	7	case	_	_
+6	e	e	ADP	_	Case=Dat	7	case	_	_
 7	kasila	kasila	NOUN	_	_	1	obl	_	Gloss=sweet.potatoes|SpaceAfter=No 
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -1505,13 +1505,13 @@
 # text = Gamitin to bata to lapis ko para pambatik.
 # gloss = will.use the child pencil my to write.
 # text_en = The child will use my pencil to write.
-1	Gamitin	gamit	VERB	_	_	0	root	_	Gloss=will.use
-2	to	to	ADP	_	_	3	case	_	Gloss=the
+1	Gamitin	gamit	VERB	_	Aspect=Imp|Mood=Ind|Voice=Ifoc	0	root	_	Gloss=will.use
+2	to	to	ADP	_	Case=Gen	3	case	_	Gloss=the
 3	bata	bata	NOUN	_	_	1	obj	_	Gloss=child
-4	to	to	ADP	_	_	5	case	_	_
+4	to	to	ADP	_	Case=Nom	5	case	_	_
 5	lapis	lapis	NOUN	_	_	1	nsubj	_	Gloss=pencil
-6	ko	ko	PRON	_	_	5	nmod	_	Gloss=my
-7	para	para	CCONJ	_	_	8	mark	_	Gloss=to
+6	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Gloss=my
+7	para	para	ADP	_	Case=Dat	8	case	_	Gloss=to
 8	pambatik	batik	NOUN	_	_	1	ccomp	_	Gloss=write|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -1519,8 +1519,8 @@
 # text = Kuman ke simag.
 # gloss = will.eat we tomorrow.
 # text_en = We will eat tomorrow.
-1	Kuman	kan	VERB	_	_	0	root	_	Gloss=will.eat
-2	ke	ke	PRON	_	_	1	nsubj	_	Gloss=we
+1	Kuman	kan	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=will.eat
+2	ke	ke	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	Gloss=we
 3	simag	simag	ADV	_	_	1	advmod	_	Gloss=tomorrow|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
