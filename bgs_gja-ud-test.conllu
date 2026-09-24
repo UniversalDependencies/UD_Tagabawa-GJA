@@ -1004,12 +1004,12 @@
 
 # sent_id = bgs_dubois_2025-11
 # text = Miggakus dan si Paliman.
-# gloss = 
+# gloss = hugged they Paliman.
 # text_en = They hugged Paliman.
 # text_original = Miggakus dan si Paliman.
-1	Miggakus	gakus	VERB	_	_	0	root	_	Gloss=hugged
-2	dan	dan	PRON	_	_	1	nmod	_	Gloss=they
-3	si	si	ADP	_	_	4	case	_	_
+1	Miggakus	gakus	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=hugged
+2	dan	dan	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nmod	_	Gloss=they
+3	si	si	ADP	_	Case=Nom	4	case	_	_
 4	Paliman	Paliman	PROPN	_	_	1	nsubj	_	Gloss=Paliman|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
