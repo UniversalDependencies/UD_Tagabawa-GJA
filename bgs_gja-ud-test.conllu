@@ -891,13 +891,13 @@
 
 # sent_id = bgs_dubois_2025-02
 # text = Igpid din to kuda din.
-# gloss = 
+# gloss = took he horse his.
 # text_en = He took along his horse.
 # text_original = Igpid din tô kudà din.
 1	Igpid	pid	VERB	_	_	0	root	_	Gloss=took
-2	din	din	PRON	_	_	1	nsubj	_	Gloss=he
+2	din	din	PRON	_	_	1	obj	_	Gloss=he
 3	to	to	ADP	_	_	4	case	_	_
-4	kuda	kuda	NOUN	_	_	1	obj	_	Gloss=horse
+4	kuda	kuda	NOUN	_	_	1	nsubj	_	Gloss=horse
 5	din	din	PRON	_	_	4	nmod	_	Gloss=his|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
