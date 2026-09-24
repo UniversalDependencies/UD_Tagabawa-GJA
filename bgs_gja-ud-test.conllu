@@ -415,7 +415,7 @@
 # tatoeba_author = Josefwintzent
 1	Dun	dun	VERB	_	_	0	root	_	Gloss=have
 2	aso	ako	NOUN	_	_	1	obj	_	Gloss=dog
-3	ke	ke	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	Gloss=we|SpaceAfter=No
+3	ke	ke	PRON	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	Gloss=we|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_tatoeba-16
@@ -653,7 +653,7 @@
 # text_original = Dì kéd pakakagi.
 1	Di	dire	ADV	_	Polarity=Neg	4	advmod	_	Gloss=not
 2-3	ked	_	_	_	_	_	_	_	_
-2	ke	ke	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	4	nmod	_	Gloss=we
+2	ke	ke	PRON	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Prs	4	nmod	_	Gloss=we
 3	-d	na	ADV	_	_	4	mark	_	_
 4	pakakagi	kagi	VERB	_	Aspect=Prosp|Mood=Pot|Voice=Act	0	root	_	Gloss=speak|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
@@ -1520,7 +1520,7 @@
 # gloss = will.eat we tomorrow.
 # text_en = We will eat tomorrow.
 1	Kuman	kan	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=will.eat
-2	ke	ke	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	Gloss=we
+2	ke	ke	PRON	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	Gloss=we
 3	simag	simag	ADV	_	_	1	advmod	_	Gloss=tomorrow|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
