@@ -846,26 +846,24 @@
 
 # sent_id = bgs_dubois-23
 # text = Magunawa e kallayatan ta.
-# gloss = 
+# gloss = same height our.
 # text_en = Our height is the same.
 # text_original = Magunawa é kallayatan ta.
 1	Magunawa	magunawa	ADJ	_	_	0	root	_	Gloss=same
-2	e	e	ADP	_	_	3	case	_	_
+2	e	e	ADP	_	Case=Nom	3	case	_	_
 3	kallayatan	kallayatan	NOUN	_	_	1	nsubj	_	Gloss=height
-4	ta	ta	PRON	_	_	3	nmod	_	Gloss=our|SpaceAfter=No
+4	ta	ta	PRON	_	Case=Gen|Clusivity=In|Number=Plur|Person=1|PronType=Prs	3	nmod	_	Gloss=our|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-24
 # text = Mallayat áskandin kanak.
-# gloss = 
+# gloss = taller he I.
 # text_en = He is taller than I am.
 # text_original = Mallayat áskandin kanak.
-1	Mallayat	_	ADJ	_	_	0	root	_	Gloss=taller
-2	áskandin	_	PRON	_	_	1	nsubj	_	Gloss=he
-3-4	kanak	_	_	_	_	_	_	_	_
-3	kana	kana	SCONJ	_	_	4	mark	_	Gloss=than
-4	-k	ak	PRON	_	_	1	obj	_	Gloss=I|SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+1	Mallayat	mallayat	ADJ	_	Degree=Pos	0	root	_	Gloss=taller
+2	áskandin	áskandin	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he
+3	kanak	kanak	kanak	PRON	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=I|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-25
 # text = Ágkan to mga bisita iring na babuy.
