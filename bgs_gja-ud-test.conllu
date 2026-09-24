@@ -894,23 +894,23 @@
 # gloss = took he horse his.
 # text_en = He took along his horse.
 # text_original = Igpid din tô kudà din.
-1	Igpid	pid	VERB	_	_	0	root	_	Gloss=took
-2	din	din	PRON	_	_	1	obj	_	Gloss=he
-3	to	to	ADP	_	_	4	case	_	_
+1	Igpid	pid	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=took
+2	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	obj	_	Gloss=he
+3	to	to	ADP	_	Case=Nom	4	case	_	_
 4	kuda	kuda	NOUN	_	_	1	nsubj	_	Gloss=horse
-5	din	din	PRON	_	_	4	nmod	_	Gloss=his|SpaceAfter=No
+5	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Gloss=his|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-03
 # text = su mimu ki ka inámmán.
-# gloss = 
+# gloss = because will.make we to.drink.
 # text_en = because we will make something to drink.
 # text_original = su mimu ki ka inámmán.
 1	su	su	SCONJ	_	_	2	mark	_	Gloss=because
-2	mimu	imu	VERB	_	_	0	root	_	Gloss=will.make
-3	ki	ki	PRON	_	_	2	nsubj	_	Gloss=we
-4	ka	ka	PART	_	_	5	advmod	_	_
-5	inámmán	inám	VERB	_	_	2	ccomp	_	Gloss=to.drink|SpaceAfter=No
+2	mimu	imu	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=will.make
+3	ki	ki	PRON	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Gloss=we
+4	ka	ka	ADP	_	Case=Gen	5	case	_	_
+5	inámmán	inám	NOUN	_	_	2	ccomp	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-04
