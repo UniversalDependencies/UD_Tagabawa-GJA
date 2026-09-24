@@ -44,7 +44,7 @@
 # text = Gusto ka'd pano ked?
 # text_gloss = want you to go?
 # text_en = Do you want to go?
-1	Gusto	gusto	VERB	_	_	0	root	_	Gloss=want
+1	Gusto	gusto	VERB	_	Aspect=Hab|Mood=Ind|Voice=Pass	0	root	_	Gloss=want
 2-3	ka'd	_	_	_	_	_	_	_	_
 2	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nmod	_	Gloss=you
 3	'd	na	PART	_	_	2	mark	_	_
@@ -266,7 +266,7 @@
 11	rason	rason	NOUN	_	_	14	advcl	_	Gloss=reason
 12	dire	dire	ADV	_	Polarity=Neg	14	advmod	_	Gloss=not
 13	nya	niya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Gloss=she
-14	gusto	gusto	VERB	_	_	2	advcl	_	_
+14	gusto	gusto	VERB	_	Aspect=Hab|Mood=Ind|Voice=Pass	2	advcl	_	_
 15	lumon	lumon	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	14	ccomp	_	Gloss=would.do
 16	ni	kani	PRON	_	Deixis=Prox|PronType=Dem	15	nmod	_	Gloss=that
 17	to	to	ADP	_	Case=Nom	18	case	_	_
@@ -473,7 +473,7 @@
 1	Inda	inda	PART	_	Polarity=Neg	3	advmod	_	Gloss=not
 2	ad	ad	ADV	_	_	3	advmod	_	Gloss=anymore
 3-4	gustok	_	_	_	_	_	_	_	_
-3	gusto	gusto	VERB	_	_	0	root	_	Gloss=like
+3	gusto	gusto	VERB	_	Aspect=Hab|Mood=Ind|Voice=Pass	0	root	_	Gloss=like
 4	-k	ak	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I
 5	neko	neko	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	obj	_	Gloss=you|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
@@ -563,7 +563,7 @@
 # text_en = What do you want?
 # tatoeba_author = Josefwintzent
 1	Indin	indin	PRON	_	PronType=Int	0	root	_	Gloss=What
-2	gusto	gusto	NOUN	_	_	1	obj	_	Gloss=want
+2	gusto	gusto	NOUN	_	Aspect=Hab|Mood=Ind|Voice=Pass	1	obj	_	Gloss=want
 3	mo	mo	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	1	nmod	_	Gloss=you|SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
