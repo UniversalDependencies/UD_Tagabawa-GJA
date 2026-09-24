@@ -811,13 +811,13 @@
 
 # sent_id = bgs_dubois-20
 # text = Kumusta to apu nu?
-# gloss = 
+# gloss = how grandparent/grandchild your? 
 # text_en = How is your grandparent/grandchild?
 # text_original = Kumusta tô apù nu?
-1	Kumusta	kumusta	PART	_	_	0	root	_	Gloss=how
-2	to	to	ADP	_	_	3	case	_	_
+1	Kumusta	kumusta	PRON	_	PronType=Int	0	root	_	Gloss=how
+2	to	to	ADP	_	Case=Nom	3	case	_	_
 3	apu	apu	NOUN	_	_	1	nsubj	_	Gloss=grandparent/grandchild
-4	nu	nu	PRON	_	_	3	nmod	_	Gloss=your|SpaceAfter=No
+4	nu	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nmod	_	Gloss=your|SpaceAfter=No
 5	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = bgs_dubois-21
