@@ -1028,21 +1028,21 @@
 
 # sent_id = bgs_dubois_2025-13
 # text = Na, ándasu minate dán to áppuy, igpudut din to bulawan.
-# gloss = 
+# gloss = then, when were.dead the snake, picked.up he the gold.
 # text_en = Then when the snakes were dead, he picked up the gold.
 # text_original = Na, ándasu minaté dán tô áppuy, igpudut din tô bulawan.
-1	Na	na	PART	_	_	4	mark	_	Gloss=LINK|SpaceAfter=No
+1	Na	na	SCONJ	_	_	4	mark	_	Gloss=then|SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-3	ándasu	andasu	ADV	_	_	4	advcl	_	Gloss=when
-4	minate	mate	VERB	_	_	0	root	_	Gloss=were.dead
+3	ándasu	ándasu	SCONJ	_	_	4	mark	_	Gloss=when
+4	minate	mate	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=were.dead
 5	dán	dán	PART	_	_	4	advmod	_	_
-6	to	to	ADP	_	_	7	case	_	Gloss=the
-7	áppuy	appuy	NOUN	_	_	4	nsubj	_	Gloss=snakes|SpaceAfter=No
+6	to	to	ADP	_	Case=Nom	7	case	_	Gloss=the
+7	áppuy	appuy	NOUN	_	_	4	nsubj	_	Gloss=snake|SpaceAfter=No
 8	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-9	igpudut	pudut	VERB	_	_	4	advcl	_	Gloss=picked.up
-10	din	din	PRON	_	_	9	nsubj	_	Gloss=he
-11	to	to	ADP	_	_	12	case	_	Gloss=the
-12	bulawan	bulawan	NOUN	_	_	9	obj	_	Gloss=gold|SpaceAfter=No
+9	igpudut	pudut	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	4	advcl	_	Gloss=picked.up
+10	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	obj	_	Gloss=he
+11	to	to	ADP	_	Case=Nom	12	case	_	Gloss=the
+12	bulawan	bulawan	NOUN	_	_	9	nsubj	_	Gloss=gold|SpaceAfter=No
 13	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-14
