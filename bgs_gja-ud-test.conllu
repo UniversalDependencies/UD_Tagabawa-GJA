@@ -170,7 +170,7 @@
 9-10	pwedeng	_	_	_	_	_	_	_	_
 9	pwede	pwede	PART	_	_	11	advmod	_	Gloss=could.be
 10	na	na	PART	_	_	9	mark	_	Gloss=LINK
-11	mapili	pili	VERB	_	Aspect=Prosp|Mood=Pot|Voice=Act	0	root	_	Gloss=selected|SpaceAfter=No
+11	mapili	pili	VERB	_	Aspect=Prosp|Mood=Pot|Voice=Pass	0	root	_	Gloss=selected|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-12
@@ -881,12 +881,12 @@
 
 # sent_id = bgs_dubois_2025-01
 # text = Mamasusu dán sikandin.
-# gloss = 
+# gloss = is.going.to.give.birth now she.
 # text_en = She is going to give birth now
 # text_original = Mamasusu dán sikandin.
-1	Mamasusu	pamasusu	VERB	_	_	0	root	_	Gloss=is.going.to.give.birth
+1	Mamasusu	pamasusu	VERB	_	Aspect=Prosp|Mood=Pot|Voice=Pass	0	root	_	Gloss=is.going.to.give.birth
 2	dán	dán	ADV	_	_	1	advmod	_	Gloss=now
-3	sikandin	sikandin	PRON	_	_	1	nsubj	_	Gloss=she|SpaceAfter=No
+3	sikandin	sikandin	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=she|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-02
