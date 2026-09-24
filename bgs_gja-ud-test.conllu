@@ -981,7 +981,7 @@
 # gloss = became.very.many the people there at Banga.
 # text_en = The people at Banga became very many.
 # text_original = Migmarapung é manubù dutun ta Banga.
-1	Migmarapung	rapung	VERB	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=became.very.many
+1	Migmarapung	rapung	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=became.very.many
 2	e	e	PART	_	Case=Nom	3	case	_	Gloss=the
 3	manubu	manubu	NOUN	_	_	1	nsubj	_	Gloss=people
 4	dutun	dutun	ADP	_	Case=Dat	6	case	_	Gloss=there.at
