@@ -1583,9 +1583,9 @@
 # text = Megpadigusan ko to bata bani.
 # gloss = bathed I the child yesterday.
 # text_en = I bathed the child yesterday.
-1	Megpadigusan	padigos	VERB	_	_	0	root	_	Gloss=bathed
-2	ko	ko	PRON	_	_	1	obj	_	Gloss=I
-3	to	to	ADP	_	_	4	case	_	Gloss=the
+1	Megpadigusan	padigos	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=bathed
+2	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=I
+3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
 4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
 5	bani	bani	ADV	_	_	1	advmod	_	Gloss=yesterday|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -1594,11 +1594,11 @@
 # text = Megpamulaan den to tana ka saging bani.
 # gloss = planted they in land banana yesterday.
 # text_en = They planted bananas in this land yesterday.
-1	Megpamulaan	pamula	VERB	_	_	0	root	_	Gloss=planted
-2	den	den	PRON	_	_	1	nsubj	_	Gloss=they
-3	to	to	ADP	_	_	4	case	_	Gloss=in
+1	Megpamulaan	pamula	VERB	_	Aspect=Perf|Mood=Ind|Voice=Lfoc	0	root	_	Gloss=planted
+2	den	dan	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Gloss=they
+3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=in
 4	tana	tana	NOUN	_	_	1	obl	_	Gloss=land
-5	ka	ka	ADP	_	_	6	case	_	_
+5	ka	ka	ADP	_	Case=Gen	6	case	_	_
 6	saging	saging	NOUN	_	_	1	obj	_	Gloss=banana
 7	bani	bani	ADV	_	_	1	advmod	_	Gloss=yesterday|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
