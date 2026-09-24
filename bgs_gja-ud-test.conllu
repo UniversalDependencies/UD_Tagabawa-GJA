@@ -1464,7 +1464,8 @@
 # gloss = there only.
 # text_en = There only for sure.
 # text_original = Taddô dád gó.
-1	Taddo	taddo	ADV	_	_	0	root	_	Gloss=there
+# Note = According to DuBois, "taddo" can be both "far from speaker or near addressee".
+1	Taddo	taddo	ADV	_	Deixis=Remt	0	root	_	Gloss=there
 2	dád	dád	PART	_	_	1	advmod	_	Gloss=only
 3	go	go	PART	_	_	1	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
