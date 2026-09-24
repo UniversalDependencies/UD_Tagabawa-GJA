@@ -1483,9 +1483,9 @@
 # gloss = will.bathe I the child.
 # text_en = I will bathe the child.
 1	Padigosan	padigos	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=will.bathe
-2	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=I
+2	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=I
 3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
-4	bata	bata	NOUN	_	_	1	obj	_	Gloss=child|SpaceAfter=No
+4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-03
