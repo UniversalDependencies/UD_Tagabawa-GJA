@@ -833,16 +833,16 @@
 
 # sent_id = bgs_dubois-22
 # text = Batad ku asta ámme ku isira.
-# gloss = 
+# gloss = corn my and rice my were.destroyed
 # text_en = My corn and my rice were destroyed.
 # text_original = Batad ku asta ámmé ku isirà.
 1	Batad	batad	NOUN	_	_	6	nsubj	_	Gloss=corn
-2	ku	ku	PRON	_	_	1	nmod	_	Gloss=my
+2	ku	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Gloss=my
 3	asta	asta	CCONJ	_	_	4	cc	_	Gloss=and
 4	ámme	ámme	NOUN	_	_	1	conj	_	Gloss=rice
-5	ku	ku	PRON	_	_	4	nmod	_	Gloss=my
-6	isira	isira	VERB	_	_	0	root	_	Gloss=were.destroyed|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+5	ku	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod	_	Gloss=my
+6	isira	sira	VERB	_	_	0	root	_	Gloss=were.destroyed|SpaceAfter=No
+7	.	.	PUNCT	_	Aspect=Perf|Mood=Ind|Voice=Pass	6	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-23
 # text = Magunawa e kallayatan ta.
