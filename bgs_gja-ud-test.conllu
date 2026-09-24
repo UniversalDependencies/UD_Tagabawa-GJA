@@ -991,15 +991,15 @@
 
 # sent_id = bgs_dubois_2025-10
 # text = Diya tumindág su ágdipanugánna.
-# gloss = 
+# gloss = not I will.stand because am.menstruating.
 # text_en = I will not stand up because I am menstruating.
 # text_original = Diya tumindág su ágdipanugánna.
 1-2	Diya	_	_	_	_	_	_	_	_
-1	Di	di	ADV	_	_	3	advmod	_	Gloss=not
-2	ya	a	PRON	_	_	1	nsubj	_	Gloss=I
-3	tumindág	tindág	VERB	_	_	0	root	_	Gloss=will.stand
+1	Di	di	ADV	_	Polarity=Neg	3	advmod	_	Gloss=not
+2	ya	a	PRON	_	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	nsubj	_	Gloss=I
+3	tumindág	tindág	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	0	root	_	Gloss=will.stand
 4	su	su	SCONJ	_	_	5	mark	_	Gloss=because
-5	ágdipanugánna	dipanug	VERB	_	_	3	ccomp	_	Gloss=am.menstruating|SpaceAfter=No
+5	ágdipanugánna	dipanug	VERB	_	Aspect=Hab|Mood=Ind|Voice=Pass	3	ccomp	_	Gloss=am.menstruating|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-11
