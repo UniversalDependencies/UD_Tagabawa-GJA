@@ -937,18 +937,18 @@
 
 # sent_id = bgs_dubois_2025-06
 # text = Marikit dán ágsakal to bata dutun ta gátták din.
-# gloss = 
+# gloss = continually now moving the child toward abdomen her.
 # text_en = The child was continually moving (toward birth) in her abdomen.
 # text_original = Marikit dán ágsakal tô batà dutun ta gátták din.
 1	Marikit	rikit	ADV	_	_	3	advmod	_	Gloss=continually
-2	dán	dán	PART	_	_	3	advmod	_	_
-3	ágsakal	sakal	VERB	_	_	0	root	_	Gloss=moving
-4	to	_	ADP	_	_	5	case	_	_
+2	dán	dán	PART	_	_	3	advmod	_	Gloss=now
+3	ágsakal	sakal	VERB	_	Aspect=Hab|Mood=Ind|Voice=Act	0	root	_	Gloss=moving
+4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
 5	bata	bata	NOUN	_	_	3	nsubj	_	Gloss=child
-6	dutun	_	PRON	_	_	8	nmod	_	_
-7	ta	_	PART	_	_	6	mark	_	_
-8	gátták	gátták	NOUN	_	_	3	obl	_	_
-9	din	din	PRON	_	_	8	nmod	_	Gloss=her|SpaceAfter=No
+6	dutun	dutun	ADP	_	_	8	case	_	Glodd=toward
+7	ta	ta	ADP	_	Case=Gen	6	fixed	_	_
+8	gátták	gátták	NOUN	_	_	3	obl	_	Gloss=abdomen
+9	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Gloss=her|SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-07
