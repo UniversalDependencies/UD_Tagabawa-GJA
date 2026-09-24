@@ -1015,15 +1015,15 @@
 
 # sent_id = bgs_dubois_2025-12
 # text = asta migtampád din to duwa ikug.
-# gloss = 
+# gloss = and cut.off he two tails.
 # text_en = and he cut off the two tails.
 # text_original = asta migtampád din tô duwa ikug.
 1	asta	asta	CCONJ	_	_	2	cc	_	Gloss=and
-2	migtampád	tampád	VERB	_	_	0	root	_	Gloss=cut.off
-3	din	din	PRON	_	_	2	nsubj	_	Gloss=he
-4	to	to	ADP	_	_	6	case	_	_
+2	migtampád	tampád	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=cut.off
+3	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	obj	_	Gloss=he
+4	to	to	ADP	_	Case=Nom	6	case	_	_
 5	duwa	duwa	NUM	_	_	6	nummod	_	Gloss=two
-6	ikug	ikug	NOUN	_	_	2	obj	_	Gloss=tails|SpaceAfter=No
+6	ikug	ikug	NOUN	_	_	2	nsubj	_	Gloss=tails|SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-13
