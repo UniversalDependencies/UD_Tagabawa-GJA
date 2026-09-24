@@ -1549,9 +1549,9 @@
 # text = Egpadigusan ko to bata.
 # gloss = am.bathing I the child.
 # text_en = I am bathing the child.
-1	Egpadigusan	padigos	VERB	_	_	0	root	_	Gloss=am.bathing
-2	ko	ko	PRON	_	_	1	obj	_	Gloss=I
-3	to	to	ADP	_	_	4	case	_	Gloss=the
+1	Egpadigusan	padigos	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=am.bathing
+2	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=I
+3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
 4	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -1559,12 +1559,12 @@
 # text = Egpamulaan ni Mario to tana ka saging.
 # gloss = is.planting Mario in land banana.
 # text_en = Mario is planting banana in this land.
-1	Egpamulaan	pamula	VERB	_	_	0	root	_	Gloss=is.planting
-2	ni	ni	ADP	_	_	3	case	_	_
+1	Egpamulaan	pamula	VERB	_	Aspect=Imp|Mood=Ind|Voice=Lfoc	0	root	_	Gloss=is.planting
+2	ni	ni	ADP	_	Case=Gen	3	case	_	_
 3	Mario	Mario	PROPN	_	_	1	obj	_	Gloss=Mario
-4	to	to	ADP	_	_	5	case	_	Gloss=in
+4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=in
 5	tana	tana	NOUN	_	_	1	nsubj	_	Gloss=land
-6	ka	ka	ADP	_	_	7	case	_	_
+6	ka	ka	ADP	_	Case=Dat	7	case	_	_
 7	saging	saging	NOUN	_	_	1	obl	_	Gloss=banana|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -1572,10 +1572,10 @@
 # text = Eggamitan ni Maria to kutsilyo.
 # gloss = is.using Maria the knife.
 # text_en = Maria is using the knife.
-1	Eggamitan	gamit	VERB	_	_	0	root	_	Gloss=is.using
-2	ni	ni	ADP	_	_	3	case	_	_
+1	Eggamitan	gamit	VERB	_	Aspect=Imp|Mood=Ind|Case=Ifoc	0	root	_	Gloss=is.using
+2	ni	ni	ADP	_	Case=Gen	3	case	_	_
 3	Maria	Maria	PROPN	_	_	1	obj	_	Gloss=Maria
-4	to	to	ADP	_	_	5	case	_	Gloss=the
+4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
 5	kutsilyo	kutsilyo	NOUN	_	_	1	nsubj	_	Gloss=knife|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
