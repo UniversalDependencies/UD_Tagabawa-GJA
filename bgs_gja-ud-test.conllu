@@ -965,12 +965,12 @@
 
 # sent_id = bgs_dubois_2025-08
 # text = Mga manubu, palimude ko langun
-# gloss = PLUR Manubu, gather you all
+# gloss = PLUR people, gather you all
 # text_en = People, all of you gather together....
 # text_original = Mga Manubù, palimudé kó langun
-# Note = "Manubu" here can refer to the Manubu people or people in general.
+# Note = "Manubu" can refer to the Manubu people, but can also be used as a general term form for "people".
 1	Mga	mga	DET	_	Number=PLUR	2	det	_	Gloss=PLUR
-2	Manubu	Manubu	PROPN	_	_	4	vocative	_	Gloss=Manubu|SpaceAfter=No
+2	manubu	manubu	NOUN	_	_	4	vocative	_	Gloss=people|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 4	palimude	limud	VERB	_	Aspect=Prosp|Mood=Pot|Voice=Act	0	root	_	Gloss=gather
 5	ko	ko	PRON	_	Case=Gen|Number=Plural|Person=2|PronType=Prs	4	nsubj	_	Gloss=you
