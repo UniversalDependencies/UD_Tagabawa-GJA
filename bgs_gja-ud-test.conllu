@@ -790,23 +790,23 @@
 
 # sent_id = bgs_dubois-18
 # text = Kadángngan igdunggu to Hapun?
-# gloss = 
+# gloss = when arrived the Japanese?
 # text_en = When did the Japanese arrive?
 # text_original = Kadángngan igdunggù tô Hapun?
-1	Kadángngan	kadángngan	ADV	_	_	2	advmod	_	Gloss=when
-2	igdunggu	dunggu	VERB	_	_	0	root	_	Gloss=arrive
-3	to	to	ADP	_	_	4	case	_	_
+1	Kadángngan	kadángngan	ADV	_	PronType=Int	2	advmod	_	Gloss=when
+2	igdunggu	dunggu	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=arrived
+3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
 4	Hapun	Hapun	PROPN	_	_	2	nsubj	_	Gloss=Japanese|SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
 # sent_id = bgs_dubois-19
 # text = Ángngan e kadugayan?
-# gloss = 
+# gloss = how.far the length.of.time?
 # text_en = How far is the length of time?
 # text_original = Ángngan é kadugayan?
-1	Ángngan	ángngan	ADV	_	_	0	root	_	Gloss=how.far
-2	e	e	ADP	_	_	3	case	_	_
-3	kadugayan	kadugayan	NOUN	_	_	1	nsubj	_	Gloss=length.of.time|SpaceAfter=No
+1	Ángngan	ángngan	ADV	_	PronType=Int	0	root	_	Gloss=how.far
+2	e	e	ADP	_	Case=Nom	3	case	_	Gloss=the
+3	kadugayan	dugay	NOUN	_	_	1	nsubj	_	Gloss=length.of.time|SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = bgs_dubois-20
