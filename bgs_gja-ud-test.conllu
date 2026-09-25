@@ -1053,7 +1053,7 @@
 1	Miglugsuan	rugsu	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=was.drenched
 2-3	kodan	_	_	_	_	_	_	_	SpaceAfter=No
 2	k-	ka	ADP	_	Case=Gen	3	case	_	Gloss=by
-3	odan	udan	NOUN	_	_	1	obj	_	Gloss=rain|SpaceAfter=No
+3	odan	udan	NOUN	_	_	1	obj	_	Gloss=rain
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-15
