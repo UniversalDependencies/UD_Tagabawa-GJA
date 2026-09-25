@@ -1074,7 +1074,7 @@
 # text_en = The child was not able to control himself.
 # text_original = Ándà mikapáttud tô batà.
 1	Ánda	ánda	ADV	_	Polarity=Neg	2	advmod	_	Gloss=not
-2	mikapáttud	páttud	VERB	Aspect=Perf|Mood=Pot|Voice=Pass	0	root	_	Gloss=control
+2	mikapáttud	páttud	VERB	_	Aspect=Perf|Mood=Pot|Voice=Pass	0	root	_	Gloss=control
 3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
 4	bata	bata	NOUN	_	_	2	nsubj	_	Gloss=child|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
