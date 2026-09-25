@@ -409,7 +409,7 @@
 
 # sent_id = bgs_tatoeba-10
 # ceb_parallel = tatoeba-10
-# text = Dun aso ke. 
+# text = Dun aso ke.
 # gloss =  have dog we.
 # text_en = We have a dog.
 # tatoeba_author = Josefwintzent
@@ -420,7 +420,7 @@
 
 # sent_id = bgs_tatoeba-16
 # ceb_parallel = tatoeba-16
-# text = Kadiggeran ak neko. 
+# text = Kadiggeran ak neko.
 # gloss = love I you.
 # text_en = I love you.
 # tatoeba_author = Josefwintzent
@@ -466,7 +466,7 @@
 
 # sent_id = bgs_tatoeba-17
 # ceb_parallel = tatoeba-17
-# text = Inda ad gustok neko. 
+# text = Inda ad gustok neko.
 # gloss = not anymore like I you.
 # text_en = I don't like you anymore.
 # tatoeba_author = Josefwintzent
@@ -491,7 +491,7 @@
 
 # sent_id = bgs_tatoeba-46
 # ceb_parallel = tatoeba-46
-# text = Igmenno ka? 
+# text = Igmenno ka?
 # gloss = doing.what you?
 # text_en = What are you doing?
 # tatoeba_author = Josefwintzent
@@ -525,7 +525,7 @@
 
 # sent_id = bgs_tatoeba-51
 # ceb_parallel = tatoeba-51
-# text = Duwa to mengko ko. 
+# text = Duwa to mengko ko.
 # gloss = two have cats two.
 # text_en = I have two cats.
 # tatoeba_author = Josefwintzent
@@ -558,7 +558,7 @@
 
 # sent_id = bgs_tatoeba-61
 # ceb_parallel = tatoeba-61
-# text = Indin gusto mo? 
+# text = Indin gusto mo?
 # gloss = what want you?
 # text_en = What do you want?
 # tatoeba_author = Josefwintzent
@@ -580,7 +580,7 @@
 
 # sent_id = bgs_tatoeba-70
 # ceb_parallel = tatoeba-70
-# text = Manan man seggo ka? 
+# text = Manan man seggo ka?
 # gloss = why are crying you?
 # text_en = Why are you crying?
 # tatoeba_author = Josefwintzent
