@@ -663,7 +663,7 @@
 # gloss = many have.been.destroyed.
 # text_en = Many [crops] have been destroyed.
 # text_original = Dakál é misirà.
-1	Dakál	dakál	DET	_	_	3	det	_	Gloss=many
+1	Dakál	dakál	DET	_	Number=Plur|PronType=Ind	3	det	_	Gloss=many
 2	e	e	ADP	_	Case=Nom	3	case	_	_
 3	misira	sira	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=have.been.destroyed|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
