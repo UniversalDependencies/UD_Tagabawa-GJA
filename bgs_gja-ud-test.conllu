@@ -1382,14 +1382,14 @@
 # gloss = from there now Sandawa, was.transformed mountain.
 # text_en = From that time on Sandawa, he was transformed into a mountain.
 # text_original = Takud taddô dán si Sandawà, mibaluy pabungan.
-1	Takud	tikud	ADV	_	_	2	_	_	Gloss=from
+1	Takud	tikud	ADV	_	_	2	mark	_	Gloss=from
 2	taddo	taddo	ADV	_	_	0	root	_	Gloss=there
-3	dán	dán	PART	_	_	2	_	_	Gloss=now
-4	si	si	ADP	_	_	5	_	_	_
-5	Sandawa	Sandawa	PROPN	_	_	2	_	_	Gloss=Sandawa|SpaceAfter=No
+3	dán	dán	PART	_	_	2	advmod	_	Gloss=now
+4	si	si	ADP	_	_	5	case	_	_
+5	Sandawa	Sandawa	PROPN	_	_	2	nsubj	_	Gloss=Sandawa|SpaceAfter=No
 6	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-7	mibaluy	baluy	VERB	_	_	2	_	_	Gloss=was.transformed
-8	pabungan	pabungan	NOUN	_	_	7	_	_	Gloss=mountain|SpaceAfter=No
+7	mibaluy	baluy	VERB	_	_	2	parataxis	_	Gloss=was.transformed
+8	pabungan	pabungan	NOUN	_	_	7	obj	_	Gloss=mountain|SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-17
