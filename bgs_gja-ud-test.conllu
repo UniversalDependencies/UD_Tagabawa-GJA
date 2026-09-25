@@ -235,10 +235,10 @@
 # text_gloss = Peter and Mary hugged and then left they the room.
 # text_en = Peter and Mary hugged each other and then left the room.
 1	Si	si	ADP	_	Case=Nom	2	case	_	_
-2	Peter	Peter	PROPN	_	_	5	conj	_	Gloss=Peter
+2	Peter	Peter	PROPN	_	_	6	nsubj	_	Gloss=Peter
 3	ak	ak	CCONJ	_	_	5	cc	_	Gloss=and
 4	si	si	ADP	_	Case=Nom	5	case	_	_
-5	Mary	Mary	PROPN	_	_	6	nsubj	_	Gloss=Mary
+5	Mary	Mary	PROPN	_	_	2	conj	_	Gloss=Mary
 6	ággakos	gakos	VERB	_	Aspect=Hab|Mood=Ind|Voice=Act	0	root	_	Gloss=hugged
 7	ak	ak	CCONJ	_	_	9	cc	_	Gloss=and
 8	pángngá	pángngá	ADV	_	_	9	advmod	_	Gloss=then
