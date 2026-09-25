@@ -1260,7 +1260,7 @@
 4	i	i	ADP	_	_	5	case	_	_
 5	Matutum	Matutum	PROPN	_	_	3	nsubj	_	Gloss=Matutum
 6	ka	ka	ADP	_	_	7	case	_	Gloss=the
-7	barira	barira	NOUN	_	_	3	obj	_	Gloss=batten|SpacAfter=No
+7	barira	barira	NOUN	_	_	3	obj	_	Gloss=batten|SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-09
