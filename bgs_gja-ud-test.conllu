@@ -1498,8 +1498,8 @@
 # gloss = will.plant Nena in land sweet potatoes.
 # text_en = Nena will plant sweet potato(es) in this land.
 1	Pamulaan	pamula	VERB	_	Aspect=Imp|Mood=Ind|Voice=Lfoc	0	root	_	Gloss=will.plant
-2	ni	ni	ADP	_	Case=Gen	3	obj	_	_
-3	Nena	Nena	PROPN	_	_	1	case	_	Gloss=Nena
+2	ni	ni	ADP	_	Case=Gen	3	case	_	_
+3	Nena	Nena	PROPN	_	_	1	obj	_	Gloss=Nena
 4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=in
 5	tana	tana	NOUN	_	_	1	nsubj	_	Gloss=land
 6	e	e	ADP	_	Case=Dat	7	case	_	_
