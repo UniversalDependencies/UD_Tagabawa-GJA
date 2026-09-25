@@ -1130,20 +1130,21 @@
 # gloss = long.time now earth belief that PLUR Bagobo Sandawa, manubu.
 # text_en = A long time ago on the earth, the belief of the Bagobo (people) was that Sandawa, he was a person.
 # text_original = Tô midugé dán banuwa, tô pagbánnal katô mga Bagóbô as Sandawà, manubú.
-1	To	to	ADP	_	_	2	case	_	_
-2	miduge	duge	VERB	_	_	7	_	_	Gloss=long.time
+# Note = In Southern Philippine folklore, Sandawa is the goddess of nature who is the keeper of Mount Apo where the indigenous groups reside.
+1	To	to	ADP	_	Case=Dat	2	case	_	_
+2	miduge	duge	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=long.time
 3	dán	dan	ADV	_	_	2	advmod	_	Gloss=now
-4	banuwa	banuwa	NOUN	_	_	2	_	_	Gloss=earth|SpaceAfter=No
+4	banuwa	banuwa	NOUN	_	_	2	nsubj	_	Gloss=earth|SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-6	to	to	ADP	_	_	7	case	_	_
-7	pagbánnal	bánnal	VERB	_	_	0	root	_	Gloss=belief
-8	kato	kato	ADP	_	_	10	case	_	Gloss=that
-9	mga	mga	DET	_	_	10	det	_	Gloss=PLUR
-10	Bagobo	Bagobo	PROPN	_	_	7	_	_	Gloss=Bagobo
-11	as	si	ADP	_	_	12	case	_	_
-12	Sandawa	Sandawa	PROPN	_	_	7	_	_	Gloss=Sandawa|SpaceAfter=No
-13	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-14	manubu	manubu	PROPN	_	_	7	_	_	Gloss=person|SpaceAfter=No
+6	to	to	ADP	_	Case=Dat	7	case	_	_
+7	pagbánnal	bánnal	NOUN	_	_	2	advcl	_	Gloss=belief
+8	kato	kato	ADP	_	Case=Gen	10	case	_	Gloss=that
+9	mga	mga	DET	_	Number=Plur|PronType=Ind	10	det	_	Gloss=PLUR
+10	Bagobo	Bagobo	PROPN	_	_	7	obj	_	Gloss=Bagobo
+11	as	si	ADP	_	Case=Nom	12	case	_	_
+12	Sandawa	Sandawa	PROPN	_	_	7	nsubj	_	Gloss=Sandawa|SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	Gloss=,
+14	manubu	manubu	NOUN	_	_	12	appos	_	Gloss=person|SpaceAfter=No
 15	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-02
