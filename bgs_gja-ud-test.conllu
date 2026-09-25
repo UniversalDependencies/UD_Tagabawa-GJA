@@ -698,7 +698,7 @@
 1	Áskandin	áskandin	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Gloss=he
 2	e	e	ADP	_	Case=Nom	3	case	_	_
 3	mange	mange	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=fetch
-4	ka	ka 	ADP	_	Case=Gen	5	case	_	_
+4	ka	ka	ADP	_	Case=Gen	5	case	_	_
 5	wayig	wayig	NOUN	_	_	3	obj	_	Gloss=water|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
