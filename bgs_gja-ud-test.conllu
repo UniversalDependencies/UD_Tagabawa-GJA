@@ -1130,7 +1130,7 @@
 # gloss = long.time now earth belief that PLUR Bagobo Sandawa, manubu.
 # text_en = A long time ago on the earth, the belief of the Bagobo (people) was that Sandawa, he was a person.
 # text_original = Tô midugé dán banuwa, tô pagbánnal katô mga Bagóbô as Sandawà, manubú.
-# Note = In Southern Philippine folklore, Sandawa is the goddess of nature who is the keeper of Mount Apo where the indigenous groups reside.
+# Note = In Southern Philippine folklore, Sandawa is the goddess of nature who is the keeper of Mount Apo where the indigenous groups reside. But in Dubois's transcription, DuBois assumes Sandawa is a man.
 1	To	to	ADP	_	Case=Dat	2	case	_	_
 2	miduge	duge	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=long.time
 3	dán	dan	ADV	_	_	2	advmod	_	Gloss=now
