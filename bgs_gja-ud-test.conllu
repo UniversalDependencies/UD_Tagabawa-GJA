@@ -1170,17 +1170,17 @@
 # gloss = there again one day Sandawa, felt.love for Mibulo.
 # text_en = There was another (later) time when Sandawa, he felt love for Mibulo.
 # text_original = Duwán puman sábbad álló ás Sandawà, minarigan ki Mibuló.
-1	Duwán	Duwán	ADV	_	_	8	_	_	Gloss=there
-2	puman	puman	ADV	_	_	1	_	_	Gloss=again
-3	sábbad	sábbad	NUM	_	_	1	_	_	Gloss=one
-4	állo	állo	NOUN	_	_	1	_	_	Gloss=day
-5	ás	si	ADP	_	_	6	_	_	_
-6	Sandawa	Sandawa	PROPN	_	_	1	_	_	Gloss=Sandawa|SpaceAfter=No
-7	,	,	PUNCT	_	_	1	_	_	Gloss=,
-8	minarigan	arig	VERB	_	_	0	root	_	Gloss=felt.love
-9	ki	ki	ADP	_	_	10	_	_	Gloss=for
-10	Mibulo	Mibulo	PROPN	_	_	8	_	_	Gloss=Mibulo|SpaceAfter=No
-11	.	.	PUNCT	_	_	8	_	_	Gloss=.
+1	Duwán	Duwán	VERB	_	Polarity=Pos	0	root	_	Gloss=there
+2	puman	puman	ADV	_	_	1	advmod	_	Gloss=again
+3	sábbad	sábbad	NUM	_	_	4	nummod	_	Gloss=one
+4	állo	állo	NOUN	_	_	1	obj	_	Gloss=day
+5	ás	si	ADP	_	Case=Nom	6	case	_	_
+6	Sandawa	Sandawa	PROPN	_	_	1	nmod	_	Gloss=Sandawa|SpaceAfter=No
+7	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+8	minarigan	arig	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	1	parataxis	_	Gloss=felt.love
+9	ki	ki	ADP	_	Case=Dat	10	case	_	Gloss=for
+10	Mibulo	Mibulo	PROPN	_	_	8	obl	_	Gloss=Mibulo|SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-04
 # text = Na takud ta taladuma man si Sandawa asta si Matutum, si Matutum ágtanud.
