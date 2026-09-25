@@ -1503,7 +1503,7 @@
 4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=in
 5	tana	tana	NOUN	_	_	1	nsubj	_	Gloss=land
 6	e	e	ADP	_	Case=Dat	7	case	_	_
-7	kasila	kasila	NOUN	_	_	1	obl	_	Gloss=sweet.potatoes|SpaceAfter=No 
+7	kasila	kasila	NOUN	_	_	1	obl	_	Gloss=sweet.potatoes|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_cooke-marfa-04
