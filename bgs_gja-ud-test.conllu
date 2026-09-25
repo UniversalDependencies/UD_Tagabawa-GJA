@@ -945,7 +945,7 @@
 3	ágsakal	sakal	VERB	_	Aspect=Hab|Mood=Ind|Voice=Act	0	root	_	Gloss=moving
 4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
 5	bata	bata	NOUN	_	_	3	nsubj	_	Gloss=child
-6	dutun	dutun	ADP	_	_	8	case	_	Gloss=toward
+6	dutun	dutun	ADP	_	ExtPos=ADP	8	case	_	Gloss=toward
 7	ta	ta	ADP	_	Case=Gen	6	fixed	_	_
 8	gátták	gátták	NOUN	_	_	3	obl	_	Gloss=abdomen
 9	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Gloss=her|SpaceAfter=No
