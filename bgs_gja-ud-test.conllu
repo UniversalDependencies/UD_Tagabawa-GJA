@@ -1212,7 +1212,7 @@
 3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
 4	barira	barira	NOUN	_	_	1	nsubj	_	Gloss=batten
 5	ággamitán	gamit	VERB	_	Aspect=Hab|Mood=Ind|Voice=Pass	1	ccomp	_	Gloss=is.used
-6	ka	ka	PART	_	Case=Dat	7	case	_	Gloss=for
+6	ka	ka	ADP	_	Case=Dat	7	case	_	Gloss=for
 7	gabál	abál	NOUN	_	_	5	obl	_	Gloss=weaving|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
