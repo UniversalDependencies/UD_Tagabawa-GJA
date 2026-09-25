@@ -1209,7 +1209,7 @@
 # text_en = She picked up the batten that is used for weaving.
 # text_original = Migpudut din tô barira ággamitán ka gabál.
 1	Migpudut	pudut	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=picked.up
-2	din	din	PRON	_	_	1	obj	_	Gloss=she
+2	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	obj	_	Gloss=she
 3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
 4	barira	barira	NOUN	_	_	1	nsubj	_	Gloss=batten
 5	ággamitán	gamit	VERB	_	Aspect=Hab|Mood=Ind|Voice=Pass	1	ccomp	_	Gloss=is.used
