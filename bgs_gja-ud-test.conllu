@@ -261,7 +261,7 @@
 6	nya	niya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 7	pero	pero	CCONJ	_	_	14	cc	_	Gloss=but
 8	sa	sa	ADP	_	Case=Dat	11	case	_	Gloss=for
-9	pipila	pila	ADV	_	_	11	mark	_	Gloss=some
+9	pipila	pila	ADV	_	ExtPos=ADV	11	mark	_	Gloss=some
 10	ka	ka	PART	_	_	9	fixed	_	_
 11	rason	rason	NOUN	_	_	14	advcl	_	Gloss=reason
 12	dire	dire	ADV	_	Polarity=Neg	14	advmod	_	Gloss=not
