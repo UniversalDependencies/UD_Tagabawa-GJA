@@ -872,7 +872,7 @@
 # text_original = Ágkan tô mga bisita iring na babuy.
 1	Ágkan	kan	VERB	_	Aspect=Hab|Mood=Ind|Voice=Act	0	root	_	Gloss=ate
 2	to	to	ADP	_	Case=Nom	4	case	_	_
-3	mga	mga	DET	_	Number=Plur	4	det	_	Gloss=PLUR
+3	mga	mga	DET	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLUR
 4	bisita	bisita	NOUN	_	_	1	nsubj	_	Gloss=visitors
 5	iring	iring	ADV	_	_	7	advmod	_	Gloss=like
 6	na	na	PART	_	_	7	mark	_	Gloss=LINK
@@ -969,7 +969,7 @@
 # text_en = People, all of you gather together....
 # text_original = Mga Manubù, palimudé kó langun
 # Note = "Manubu" can refer to the Manubu people, but can also be used as a general term form for "people".
-1	Mga	mga	DET	_	Number=Plur	2	det	_	Gloss=PLUR
+1	Mga	mga	DET	_	Number=Plur|PronType=Ind	2	det	_	Gloss=PLUR
 2	manubu	manubu	NOUN	_	_	4	vocative	_	Gloss=people|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=,
 4	palimude	limud	VERB	_	Aspect=Prosp|Mood=Pot|Voice=Act	0	root	_	Gloss=gather
@@ -1107,7 +1107,7 @@
 # text_original = Misókó tô mga tábbé din.
 1	Misoko	soko	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=became.angry
 2	to	to	ADP	_	Case=Nom	4	case	_	_
-3	mga	mga	DET	_	Number=Plur	4	det	_	Gloss=PLUR
+3	mga	mga	DET	_	Number=Plur|PronType=Ind	4	det	_	Gloss=PLUR
 4	tábbe	tábbe	NOUN	_	_	1	nsubj	_	Gloss=sisters
 5	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Gloss=his|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
