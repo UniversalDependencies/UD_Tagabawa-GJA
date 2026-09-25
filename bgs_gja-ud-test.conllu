@@ -8,7 +8,7 @@
 3	baye	baye	NOUN	_	_	1	nsubj	_	Gloss=girl
 4	ka	ka	ADP	_	Case=Gen	5	case	_	Gloss=a
 5	sulat	sulat	NOUN	_	_	1	obj	_	Gloss=letter
-6	para	para	ADP	_	_	8	case	_	Gloss=for
+6	para	para	ADP	_	ExtPos=ADP	8	case	_	Gloss=for
 7	ka	ka	ADP	_	Case=Dat	6	fixed	_	_
 8	rarak	rarak	NOUN	_	_	1	obl	_	Gloss=friend
 9	nya	niya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Gloss=her|SpaceAfter=No
