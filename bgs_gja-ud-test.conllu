@@ -862,7 +862,7 @@
 # text_original = Mallayat áskandin kanak.
 1	Mallayat	mallayat	ADJ	_	Degree=Pos	0	root	_	Gloss=tall
 2	áskandin	áskandin	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he
-3	kanak	kanak	kanak	PRON	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=I|SpaceAfter=No
+3	kanak	kanak	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	obj	_	Gloss=I|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-25
