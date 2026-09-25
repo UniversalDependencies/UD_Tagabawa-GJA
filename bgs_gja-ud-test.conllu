@@ -320,7 +320,7 @@
 3	diya	diya	ADV	_	Deixis=Med	1	advmod	_	Gloss=there
 4	-k	ak	ADP	_	Case=Gen	5	case	_	Gloss=in
 5	Paris	Paris	PROPN	_	_	1	obj	_	Gloss=Paris|SpaceAfter=No
-6	,	,	PUNCT	_	_	1	punct	_	Gloss=,
+6	,	,	PUNCT	_	_	8	punct	_	Gloss=,
 7	to	to	ADP	_	Case=Nom	8	case	_	Gloss=the
 8	ulo	ulo	NOUN	_	_	5	parataxis	_	Gloss=capital
 9	ka	ka	ADP	_	Case=Gen	10	case	_	Gloss=of
