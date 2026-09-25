@@ -1222,9 +1222,9 @@
 # gloss = beat.on.head she Sandawa.
 # text_en = She beat Sandawa on the head.
 # text_original = Migbunal din ás Sandawà.
-1	Migbunal	bunal	VERB	_	_	0	root	_	Gloss=beat.on.head
-2	din	din	PRON	_	_	1	obj	_	Gloss=she
-3	ás	si	ADP	_	_	4	case	_	_
+1	Migbunal	bunal	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=beat.on.head
+2	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	obj	_	Gloss=she
+3	ás	si	ADP	_	Case=Nom	4	case	_	_
 4	Sandawa	Sandawa	PROPN	_	_	1	nsubj	_	Gloss=Sandawa|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
