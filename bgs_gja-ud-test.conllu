@@ -788,16 +788,15 @@
 3	mano	mano	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=will.leave|SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	Gloss=?
 
-# sent_id = bgs_dubois-18
-# text = Kadángngan igdunggu to Hapun?
-# gloss = when arrived the Japanese?
-# text_en = When did the Japanese arrive?
-# text_original = Kadángngan igdunggù tô Hapun?
-1	Kadángngan	kadángngan	ADV	_	PronType=Int	2	advmod	_	Gloss=when
-2	igdunggu	dunggu	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=arrived
-3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
-4	Hapun	Hapun	PROPN	_	_	2	nsubj	_	Gloss=Japanese|SpaceAfter=No
-5	?	?	PUNCT	_	_	2	punct	_	Gloss=?
+# sent_id = bgs_dubois_2025-18
+# text = Minemu sikandin midinág.
+# gloss = became he well.known.
+# text_en = He became well known [lit. heard about].
+# text_original = Minému sikandin midinág.
+1	Minemu	imu	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=became
+2	sikandin	sikandin	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he
+3	midinág	dinág	ADJ	_	1	2	amod	_	Gloss=well.known|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-19
 # text = Ángngan e kadugayan?
