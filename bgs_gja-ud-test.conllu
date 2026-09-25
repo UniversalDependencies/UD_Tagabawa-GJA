@@ -986,7 +986,7 @@
 3	manubu	manubu	NOUN	_	_	1	nsubj	_	Gloss=people
 4	dutun	dutun	ADP	_	ExtPos=ADP	6	case	_	Gloss=there.at
 5	ta	ta	ADP	_	Case=Dat	4	fixed	_	_
-6	Banga	Banga	PROPN	_	_	3	obl	_	Gloss=Banga|SpaceAfter=No
+6	Banga	Banga	PROPN	_	_	1	obl	_	Gloss=Banga|SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-10
