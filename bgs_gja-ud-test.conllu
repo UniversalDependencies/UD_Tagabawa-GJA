@@ -1577,7 +1577,7 @@
 # text = Eggamitan ni Maria to kutsilyo.
 # gloss = is.using Maria the knife.
 # text_en = Maria is using the knife.
-1	Eggamitan	gamit	VERB	_	Aspect=Imp|Mood=Ind|Case=Ifoc	0	root	_	Gloss=is.using
+1	Eggamitan	gamit	VERB	_	Aspect=Imp|Mood=Ind|Voice=Ifoc	0	root	_	Gloss=is.using
 2	ni	ni	ADP	_	Case=Gen	3	case	_	_
 3	Maria	Maria	PROPN	_	_	1	obj	_	Gloss=Maria
 4	to	to	ADP	_	Case=Nom	5	case	_	Gloss=the
