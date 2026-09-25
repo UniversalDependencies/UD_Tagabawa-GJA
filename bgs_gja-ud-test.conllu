@@ -1187,21 +1187,21 @@
 # gloss = LNK from spouses naturally Sanda and Matutum, Matutum was jealous.
 # text_en = And naturally since Sandawa and Matutum were spouses to each other, Matutum, she was jealous.
 # text_original = Na takud ta taladuma man si Sandawà asta si Matutum, si Matutum ágtanud.
-1	Na	na	PART	_	_	4	_	_	Gloss=LNK
-2	takud	tikud	PART	_	_	4	_	_	Gloss=from
-3	ta	ta	PART	_	_	2	_	_	_
-4	taladuma	taladuma	NOUN	_	_	0	root	_	Gloss=spouses
-5	man	man	PART	_	_	4	_	_	Gloss=naturally
-6	si	si	ADP	_	_	7	case	_	_
-7	Sandawa	Sandawa	PROPN	_	_	4	_	_	Gloss=Sandawa
+1	Na	na	PART	_	_	4	mark	_	Gloss=LINK
+2	takud	tikud	ADP	_	ExtPos=ADP	4	case	_	Gloss=from
+3	ta	ta	ADP	_	Case=Dat	2	fixed	_	_
+4	taladuma	taladuma	NOUN	_	_	14	parataxis	_	Gloss=spouses
+5	man	man	PART	_	_	4	advmod	_	Gloss=naturally
+6	si	si	ADP	_	Case=Nom	7	case	_	_
+7	Sandawa	Sandawa	PROPN	_	_	4	nsubj	_	Gloss=Sandawa
 8	asta	asta	CCONJ	_	_	10	cc	_	Gloss=and
-9	si	si	ADP	_	_	10	case	_	_
-10	Matutum	Matutum	PROPN	_	_	7	_	_	Gloss=Matutum|SpaceAfter=No
+9	si	si	ADP	_	Case=Nom	10	case	_	_
+10	Matutum	Matutum	PROPN	_	_	7	conj	_	Gloss=Matutum|SpaceAfter=No
 11	,	,	PUNCT	_	_	4	punct	_	Gloss=,
-12	si	si	ADP	_	_	13	case	_	_
-13	Matutum	Matutum	PROPN	_	_	4	_	_	Gloss=Matutum
-14	ágtanud	tanud	ADJ	_	_	13	_	_	Gloss=was.jealous|SpaceAfter=No
-15	.	.	PUNCT	_	_	13	punct	_	Gloss=.
+12	si	si	ADP	_	Case=Nom	13	case	_	_
+13	Matutum	Matutum	PROPN	_	_	14	nsubj	_	Gloss=Matutum
+14	ágtanud	tanud	VERB	_	Aspect=Hab|Mood=Ind|Voice=Act	0	root	_	Gloss=was.jealous|SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-05
 # text = Migpudut din to barira ággamitán ka gabál.
