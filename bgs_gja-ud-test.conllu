@@ -1070,35 +1070,35 @@
 
 # sent_id = bgs_dubois_2025-16
 # text = Ánda mikapáttud to bata.
-# gloss = 
+# gloss = not control the child.
 # text_en = The child was not able to control himself.
 # text_original = Ándà mikapáttud tô batà.
-1	Ánda	ánda	ADV	_	_	2	advmod	_	Gloss=not
-2	mikapáttud	páttud	VERB	_	_	0	root	_	Gloss=control
-3	to	to	ADP	_	_	4	case	_	Gloss=the
+1	Ánda	ánda	ADV	_	Polarity=Neg	2	advmod	_	Gloss=not
+2	mikapáttud	páttud	VERB	Aspect=Perf|Mood=Pot|Voice=Pass	0	root	_	Gloss=control
+3	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
 4	bata	bata	NOUN	_	_	2	nsubj	_	Gloss=child|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-17
 # text = Minate to duwa áppuy.
-# gloss = 
+# gloss = had.died the two snakes.
 # text_en = The two snakes had already died.
 # text_original = Minaté tô duwa áppuy.
-1	Minate	mate	VERB	_	_	0	root	_	Gloss=had.died
-2	to	to	ADP	_	_	4	case	_	Gloss=the
+1	Minate	mate	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=had.died
+2	to	to	ADP	_	Case=Nom	4	case	_	Gloss=the
 3	duwa	duwa	NUM	_	_	4	nummod	_	Gloss=two
 4	áppuy	áppuy	NOUN	_	_	1	nsubj	_	Gloss=snakes|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-18
 # text = Minemu sikandin midinág.
-# gloss = 
+# gloss = became he well.known.
 # text_en = He became well known [lit. heard about].
 # text_original = Minému sikandin midinág.
-1	Minemu	imu	VERB	_	_	0	root	_	Gloss=became
-2	sikandin	sikandin	PRON	_	_	1	nsubj	_	Gloss=he
+1	Minemu	imu	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=became
+2	sikandin	sikandin	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he
 3	midinág	dinág	ADJ	_	1	1	amod	_	Gloss=well.known|SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+4	.	.	PUNCT	_	Aspect=Perf|Mood=Ind|Voice=Pass	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois_2025-19
 # text = Misoko to mga tábbe din.
