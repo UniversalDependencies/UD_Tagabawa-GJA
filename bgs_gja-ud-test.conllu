@@ -841,8 +841,8 @@
 3	asta	asta	CCONJ	_	_	4	cc	_	Gloss=and
 4	ámme	ámme	NOUN	_	_	1	conj	_	Gloss=rice
 5	ku	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod	_	Gloss=my
-6	isira	sira	VERB	_	_	0	root	_	Gloss=were.destroyed|SpaceAfter=No
-7	.	.	PUNCT	_	Aspect=Perf|Mood=Ind|Voice=Pass	6	punct	_	Gloss=.
+6	isira	sira	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=were.destroyed|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-23
 # text = Magunawa e kallayatan ta.
