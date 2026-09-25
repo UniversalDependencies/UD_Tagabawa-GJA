@@ -1233,20 +1233,20 @@
 # gloss = therefore if look you at Sandawa, something will.see you here head its split.apart.
 # text_en = Therefore if you look at Sandawa (Mt. Apo), you will see something here on its head (that has been) split apart.
 # text_original = Purisu atin sumállág ka ki Sandawà, duwán kitanán nu nit ulu din ibállà.
-1	Purisu	purisu	ADV	_	_	3	_	_	Gloss=therefore
-2	atin	atin	SCONJ	_	_	3	_	_	Gloss=if
+1	Purisu	purisu	ADV	_	_	3	advmod	_	Gloss=therefore
+2	atin	atin	SCONJ	_	_	3	mark	_	Gloss=if
 3	sumállág	sállág	VERB	_	_	0	root	_	Gloss=look
-4	ka	ka	PRON	_	_	3	_	_	Gloss=you
-5	ki	ki	ADP	_	_	6	_	_	Gloss=at
-6	Sandawa	Sandawa	PROPN	_	_	3	_	_	Gloss=Sandawa|SpaceAfter=No
+4	ka	ka	PRON	_	_	3	obj	_	Gloss=you
+5	ki	ki	ADP	_	_	6	case	_	Gloss=at
+6	Sandawa	Sandawa	PROPN	_	_	3	obl	_	Gloss=Sandawa|SpaceAfter=No
 7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-8	duwán	duwán	ADV	_	_	9	_	_	Gloss=something
-9	kitanán	kita	VERB	_	_	3	_	_	Gloss=will.see
-10	nu	nu	PRON	_	_	9	_	_	Gloss=you
-11	nit	dini	ADV	_	_	9	_	_	Gloss=here
-12	ulu	ulu	NOUN	_	_	8	_	_	Gloss=head
-13	din	din	PRON	_	_	12	_	_	Gloss=its
-14	ibálla	bálla	VERB	_	_	9	_	_	Gloss=split.apart|SpaceAfter=No
+8	duwán	duwán	PART	_	_	9	advmod	_	Gloss=something
+9	kitanán	kita	VERB	_	_	3	advcl	_	Gloss=will.see
+10	nu	nu	PRON	_	_	9	obj	_	Gloss=you
+11	nit	dini	ADV	_	_	9	advmod	_	Gloss=here
+12	ulu	ulu	NOUN	_	_	9	nsubj	_	Gloss=head
+13	din	din	PRON	_	_	12	nmod	_	Gloss=its
+14	ibálla	bálla	ADJ	_	_	12	amod	_	Gloss=split.apart|SpaceAfter=No
 15	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-08
