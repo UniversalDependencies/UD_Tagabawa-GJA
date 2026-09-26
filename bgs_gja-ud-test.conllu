@@ -1268,8 +1268,8 @@
 # gloss = was.angry Sandawa.
 # text_en = Sandawa was angry.
 # text_original = Misókó si Sandawà.
-1	Misoko	soko	VERB	_	_	0	root	_	Gloss=was.angry
-2	si	si	ADP	_	_	3	case	_	_
+1	Misoko	soko	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=was.angry
+2	si	si	ADP	_	Case=Nom	3	case	_	_
 3	Sandawa	Sandawa	PROPN	_	_	1	nsubj	_	Gloss=Sandawa|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -1278,9 +1278,9 @@
 # gloss = kicked he Matutum.
 # text_en = He kicked Matutum.
 # text_original = Migsipà din ás Matutum.
-1	Migsipa	sipa	VERB	_	_	0	root	_	Gloss=kicked.
-2	din	din	PRON	_	_	1	obj	_	Gloss=he
-3	ás	si	ADP	_	_	4	case	_	_
+1	Migsipa	sipa	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=kicked.
+2	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	obj	_	Gloss=he
+3	ás	si	ADP	_	Case=Nom	4	case	_	_
 4	Matutum	Matutum	PROPN	_	_	1	nsubj	_	Gloss=Matutum|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
