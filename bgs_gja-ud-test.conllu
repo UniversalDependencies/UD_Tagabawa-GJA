@@ -1355,7 +1355,7 @@
 1	Ni	ni	ADP	_	Case=Nom	3	case	_	Gloss=this
 2	duma	duma	ADJ	_	_	3	amod	_	Gloss=other
 3	gabata	bata	NOUN	_	Number=Plur	5	nsubj	_	Gloss=children
-4	igoddo	goddo	ADJ	_	Aspect=Perf|Mood=Ind|Voice=Act	3	amod	_	Gloss=stayed
+4	igoddo	goddo	ADJ	_	_	3	amod	_	Gloss=stayed
 5	migtákkás	tákkás	VERB	_	_	0	root	_	Gloss=accompany
 6	kani	kani	PRON	_	Deixis=Prox|PronType=Dem	7	nmod	_	Gloss=this
 7	ame	ame	NOUN	_	_	5	nsubj	_	Gloss=father
