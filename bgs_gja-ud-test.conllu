@@ -1382,14 +1382,14 @@
 # gloss = from there now Sandawa, was.transformed mountain.
 # text_en = From that time on Sandawa, he was transformed into a mountain.
 # text_original = Takud taddô dán si Sandawà, mibaluy pabungan.
-1	Takud	tikud	ADV	_	_	2	mark	_	Gloss=from
-2	taddo	taddo	ADV	_	_	0	root	_	Gloss=there
-3	dán	dán	PART	_	_	2	advmod	_	Gloss=now
-4	si	si	ADP	_	_	5	case	_	_
-5	Sandawa	Sandawa	PROPN	_	_	2	nsubj	_	Gloss=Sandawa|SpaceAfter=No
-6	,	,	PUNCT	_	_	2	punct	_	Gloss=,
-7	mibaluy	baluy	VERB	_	_	2	parataxis	_	Gloss=was.transformed
-8	pabungan	pabungan	NOUN	_	_	7	obj	_	Gloss=mountain|SpaceAfter=No
+1	Takud	tikud	ADV	_	ExtPos=ADV	5	advmod	_	Gloss=from
+2	taddo	taddo	ADV	_	_	1	fixed	_	Gloss=there
+3	dán	dán	PART	_	_	5	advmod	_	Gloss=now
+4	si	si	ADP	_	Case=Nom	5	case	_	_
+5	Sandawa	Sandawa	PROPN	_	_	7	nsubj	_	Gloss=Sandawa|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+7	mibaluy	baluy	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=was.transformed
+8	pabungan	pabungan	NOUN	_	_	7	nsubj	_	Gloss=mountain|SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-17
@@ -1397,13 +1397,13 @@
 # gloss = Matutum, Mibulo, were.transformed also mountain.
 # text_en = Matutum and Mibulo, they were also transformed into mountains.
 # text_original = Ás Matutum, ás Mibuló, mibaluy pagsik pabungan.
-1	Ás	si	ADP	_	_	2	case	_	_
+1	Ás	si	ADP	_	Case=Nom	2	case	_	_
 2	Matutum	Matutum	PROPN	_	_	7	nsubj	_	Gloss=Matutum|SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-4	ás	si	ADP	_	_	5	case	_	_
+4	ás	si	ADP	_	Case=Nom	5	case	_	_
 5	Mibulo	Mibulo	PROPN	_	_	7	nsubj	_	Gloss=Mibulo|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-7	mibaluy	baluy	VERB	_	_	0	root	_	Gloss=were.transformed
+7	mibaluy	baluy	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=were.transformed
 8	pagsik	pagsik	PART	_	_	7	advmod	_	Gloss=also
 9	pabungan	pabungan	NOUN	_	_	7	obj	_	Gloss=mountain|SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	_	Gloss=.
