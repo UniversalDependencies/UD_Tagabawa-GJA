@@ -1256,7 +1256,7 @@
 # text_original = Tô gó miglagpás i Matutum ka barira.
 1	To	to	ADP	_	Case=Dat	3	case	_	Gloss=that.is.where
 2	go	go	PART	_	ExtPos=ADP	1	fixed	_	_
-3	miglagpás	lagpas	VERB	Aspect=Imp|Mood=Ind|Voice=Pass		0	root	_	Gloss=beat
+3	miglagpás	lagpas	VERB	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=beat
 4	i	i	ADP	_	Case=Nom	5	case	_	_
 5	Matutum	Matutum	PROPN	_	_	3	nsubj	_	Gloss=Matutum
 6	ka	ka	ADP	_	Case=	7	case	_	Gloss=the
