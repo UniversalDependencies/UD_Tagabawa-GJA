@@ -1451,15 +1451,15 @@
 # text_original = Purisu atin ágngadan ki Apù Sandawà, su apù ta yan.
 1	Purisu	purisu	ADV	_	_	3	advmod	_	Gloss=therefore
 2	atin	atin	ADV	_	_	3	advmod	_	Gloss=when
-3	ágngadan	ngadan	VERB	_	_	0	root	_	Gloss=named
-4	ki	ki	PRON	_	_	3	nsubj	_	Gloss=we
+3	ágngadan	ngadan	VERB	_	Aspect=Hab|Mood=Ind|Voice=Act	0	root	_	Gloss=named
+4	ki	ki	PRON	_	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Gloss=we
 5	Apu	Apu	NOUN	_	_	6	flat	_	Gloss=Grandparent
 6	Sandawa	Sandawa	PROPN	_	_	9	appos	_	Gloss=Sandawa|SpaceAfter=No
-7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+7	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 8	su	su	SCONJ	_	_	9	mark	_	Gloss=because
-9	apu	apu	NOUN	_	_	3	obj	_	Gloss=grandparent
-10	ta	ta	PRON	_	_	9	nmod	_	Gloss=our
-11	yan	yan	PRON	_	_	9	nmod	_	Gloss=that|SpaceAfter=No
+9	apu	apu	NOUN	_	_	3	ccomp	_	Gloss=grandparent
+10	ta	ta	PRON	_	Case=Gen|Clusivity=In|Number=Plur|Person=1|PronType=Prs	9	nmod	_	Gloss=our
+11	yan	yan	PRON	_	Deixis=Remt|PronType=Dem	9	nmod	_	Gloss=that|SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-21
