@@ -1437,10 +1437,10 @@
 4	e	e	ADP	_	Case=Nom	5	case	_	Gloss=the
 5	Bagobo	Bagobo	PROPN	_	_	3	nsubj	_	Gloss=Bagobo
 6	Apu	Apu	NOUN	_	_	7	flat	_	Gloss=grandparent
-7	Sandawa	Sandawa	PROPN	_	_	10	appos	_	Gloss=Sandawa|SpaceAfter=No
+7	Sandawa	Sandawa	PROPN	_	_	3	nsubj	_	Gloss=Sandawa|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	Gloss=,
 9	su	su	SCONJ	_	_	10	mark	_	Gloss=because
-10	apu	apu	NOUN	_	_	3	obj	_	Gloss=grandparent
+10	apu	apu	NOUN	_	_	7	appos	_	Gloss=grandparent
 11	ta	ta	PRON	_	Case=Gen|Clusivity=In|Number=Plur|Person=1|PronType=Prs	10	nmod	_	Gloss=our|SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
