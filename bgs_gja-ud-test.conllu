@@ -1293,8 +1293,8 @@
 2	Matutum	Matutum	PROPN	_	_	4	parataxis	_	Gloss=Matutum|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
 4	minantug	antug	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	0	root	_	Gloss=thrown
-5	tun	dutun	ADV	_	ExtPos=ADP	6	fixed	_	Gloss=there
-6	ta	ta	ADP	_	Case=Dat	4	case	_	_
+5	tun	dutun	ADV	_	_	6	fixed	_	Gloss=there
+6	ta	ta	ADP	_	Case=Dat|ExtPos=ADP	4	case	_	_
 7	madiyu	diyu	ADJ	_	_	4	amod	_	Gloss=far.away|SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
