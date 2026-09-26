@@ -22,7 +22,7 @@ Mary Jane Cooke, Phd (Tagabawa native speaker and Philippine linguist) provided 
 
 # Changelog
 * 2026-09-26
-   * Completed the annotation of 
+   * Completed the annotation of 125 sentences.
 * 2024-11-15 v2.15
   * Initial release in Universal Dependencies.
 
