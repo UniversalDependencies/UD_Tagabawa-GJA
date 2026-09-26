@@ -1,6 +1,6 @@
 # Summary
 
-UD_Tagabawa_GJA is a collection of annotated Bagobo-Tagabawa sentences which are some translations of the Cebuano UD and DuBois's sample sentences from various book sources. It is currently under development.
+UD_Tagabawa_GJA is a collection of annotated Bagobo-Tagabawa sentences which are some translations of the Cebuano UD, DuBois's sample sentences from his publications, and Cooke and Marfa's article about Bagobo-Tagabawa verbs. The treebank is in further development with more planned sentences.
 
 
 # Introduction
@@ -21,7 +21,8 @@ Mary Jane Cooke, Phd (Tagabawa native speaker and Philippine linguist) provided 
 
 
 # Changelog
-
+* 2026-09-26
+   * Completed the annotation of 
 * 2024-11-15 v2.15
   * Initial release in Universal Dependencies.
 
