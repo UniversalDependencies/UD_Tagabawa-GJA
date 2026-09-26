@@ -1254,8 +1254,8 @@
 # gloss = that.is.where beat Matutum the batten.
 # text_en = That is where Matutum beat him with the batten.
 # text_original = Tô gó miglagpás i Matutum ka barira.
-1	To	to	ADP	_	Case=Dat	3	case	_	Gloss=that.is.where
-2	go	go	PART	_	ExtPos=ADP	1	fixed	_	_
+1	To	to	ADP	_	Case=Dat|ExtPos=ADP	3	case	_	Gloss=that.is.where
+2	go	go	PART	_	_	1	fixed	_	_
 3	miglagpás	lagpas	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=beat
 4	i	i	ADP	_	Case=Nom	5	case	_	_
 5	Matutum	Matutum	PROPN	_	_	3	nsubj	_	Gloss=Matutum
