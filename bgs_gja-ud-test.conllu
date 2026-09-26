@@ -1313,20 +1313,20 @@
 7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-13
-# text = Duwán to migtákkás ki Matutum dutut south.
+# text = Duwán to mistakes ki Matutum dutut south.
 # gloss = there.were accompanied Matutum there south.
 # text_en = There were those who accompanied Matutum to the south.
 # text_original = Duwán tô migtákkás ki Matutum dutut south.
-1	Duwán	Duwan	ADV	_	_	3	advmod	_	Gloss=there.were
-2	to	to	ADP	_	_	3	case	_	_
-3	migtákkás	tákkás	VERB	_	_	0	root	_	Gloss=accompanied
-4	ki	ki	ADP	_	_	5	case	_	_
-5	Matutum	Matutum	PROPN	_	_	3	nsubj	_	Gloss=Matutum
+1	Duwán	Duwan	VERB	_	_	0	root	_	Gloss=there.were
+2	to	to	ADP	_	Case=Nom	3	case	_	_
+3	migtákkás	tákkás	NOUN	_	_	1	nsubj	_	Gloss=accompanied
+4	ki	ki	ADP	_	Case=Gen	5	case	_	_
+5	Matutum	Matutum	PROPN	_	_	1	obj	_	Gloss=Matutum
 6-7	dutut	_	_	_	_	_	_	_	_
 6	dutun	dutun	ADV	_	ExtPos=ADP	8	case	_	Gloss=there
 7	-t	ta	ADP	_	Case=Dat	6	fixed	_	_
-8	south	south	NOUN	_	_	3	obj	_	Gloss=south|SpaceAfter=No
-9	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+8	south	south	NOUN	_	Foreign=Yes	1	obj	_	Gloss=south|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-14
 # text = Yan go mga Biraan, Tagakolu, Tagaboli, Kalagan, Manubu.
