@@ -1422,7 +1422,7 @@
 7	ás	si	ADP	_	Case=Nom	8	case	_	_
 8	Sandawa	Sandawa	PROPN	_	_	10	appos	_	Gloss=Sandawa|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
-10	apu	apu	NOUN	_	_	1	obj	_	Gloss=grandparent
+10	apu	apu	NOUN	_	_	1	parataxis	_	Gloss=grandparent
 11	ta	ta	PRON	_	Case=Gen|Clusivity=In|Number=Plur|Person=1|PronType=Prs	10	nmod	_	Gloss=our|SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
