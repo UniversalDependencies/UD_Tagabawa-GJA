@@ -1369,7 +1369,7 @@
 15	Ubu	Ubu	PROPN	_	_	5	list	_	Gloss=Obo-Manobos|SpaceAfter=No
 16	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 17	Átto	Átto	PROPN	_	_	5	list	_	Gloss=Guiangans|SpaceAfter=No
-18	,	,	PUNCT	_	_	5	punct	_	Gloss=,
+18	,	,	PUNCT	_	_	23	punct	_	Gloss=,
 19	asta	asta	CCONJ	_	_	23	cc	_	Gloss=and
 20	sikita	sikita	PRON	_	Case=Gen|Clusivity=In|Number=Plur|Person=1|PronType=Prs	23	nmod	_	Gloss=we
 21	go	go	PART	_	_	23	advmod	_	_
