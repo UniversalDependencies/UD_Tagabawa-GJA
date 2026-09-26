@@ -1389,7 +1389,7 @@
 5	Sandawa	Sandawa	PROPN	_	_	7	nsubj	_	Gloss=Sandawa|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 7	mibaluy	baluy	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=was.transformed
-8	pabungan	pabungan	NOUN	_	_	7	nsubj	_	Gloss=mountain|SpaceAfter=No
+8	pabungan	pabungan	NOUN	_	_	7	obj	_	Gloss=mountain|SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = bgs_dubois-2005-17
