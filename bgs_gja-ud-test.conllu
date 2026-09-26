@@ -1236,16 +1236,16 @@
 1	Purisu	purisu	ADV	_	_	3	advmod	_	Gloss=therefore
 2	atin	atin	SCONJ	_	_	3	mark	_	Gloss=if
 3	sumállág	sállág	VERB	_	_	0	root	_	Gloss=look
-4	ka	ka	PRON	_	_	3	obj	_	Gloss=you
-5	ki	ki	ADP	_	_	6	case	_	Gloss=at
+4	ka	ka	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	obj	_	Gloss=you
+5	ki	ki	ADP	_	Case=Dat	6	case	_	Gloss=at
 6	Sandawa	Sandawa	PROPN	_	_	3	obl	_	Gloss=Sandawa|SpaceAfter=No
 7	,	,	PUNCT	_	_	3	punct	_	Gloss=,
-8	duwán	duwán	PART	_	_	9	advmod	_	Gloss=something
-9	kitanán	kita	VERB	_	_	3	advcl	_	Gloss=will.see
-10	nu	nu	PRON	_	_	9	obj	_	Gloss=you
-11	nit	dini	ADV	_	_	9	advmod	_	Gloss=here
+8	duwán	duwán	ADV	_	Polarity=Pos	9	advmod	_	Gloss=something
+9	kitanán	kita	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	3	advcl	_	Gloss=will.see
+10	nu	nu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	obj	_	Gloss=you
+11	nit	dini	ADV	_	Deixis=Prox	9	advmod	_	Gloss=here
 12	ulu	ulu	NOUN	_	_	9	nsubj	_	Gloss=head
-13	din	din	PRON	_	_	12	nmod	_	Gloss=its
+13	din	din	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	12	nmod	_	Gloss=its
 14	ibálla	bálla	ADJ	_	_	12	amod	_	Gloss=split.apart|SpaceAfter=No
 15	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
