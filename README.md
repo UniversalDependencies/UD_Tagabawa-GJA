@@ -29,7 +29,7 @@ Mary Jane Cooke, Phd (Tagabawa native speaker and Philippine linguist) provided 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.15
+Data available since: UD v2.19
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: cairo
