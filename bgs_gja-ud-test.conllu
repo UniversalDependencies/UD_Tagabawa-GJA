@@ -176,7 +176,7 @@
 # sent_id = bgs_cairo-12
 # parallel_id = cairo/12
 # text = ánda kasud'dor sikandan sadan igsulat kato.
-# text_gloss = have.no idea they who write it.
+# text_gloss = have.no idea they who wrote it.
 # text_en = They have no idea who wrote it.
 1	ánda	ánda	VERB	_	Polarity=Neg	0	root	_	Gloss=have.no
 2	kasud'dor	kasud'dor	NOUN	_	_	1	obj	_	Gloss=idea
