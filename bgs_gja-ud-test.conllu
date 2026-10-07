@@ -214,7 +214,7 @@
 # sent_id = bgs_cairo-15
 # parallel_id = cairo/15
 # text = Igbál’le sikandin ka kotse pero to igsoon din kay bisekleta digbál’li.
-# text_gloss = bought he a cat but brother bike bought.
+# text_gloss = bought he a cat but brother his bicycle bought.
 # text_en = He bought a car but his brother just a bike.
 1	Igbál’le	bál’li	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=bought
 2	sikandin	sikandin	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=he
