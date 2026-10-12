@@ -968,7 +968,7 @@
 # gloss = PLUR people, gather you all
 # text_en = People, all of you gather together....
 # text_original = Mga Manubù, palimudé kó langun
-# Note = "Manubu" can refer to the Manubu people, but can also be used as a general term form for "people".
+# Note = "Manubu" can refer to the Manubu people, but can also be used as a general term for "people".
 1	Mga	mga	DET	_	Number=Plur|PronType=Ind	2	det	_	Gloss=PLUR
 2	manubu	manubu	NOUN	_	_	4	vocative	_	Gloss=people|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=,
