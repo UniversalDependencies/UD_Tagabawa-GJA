@@ -245,7 +245,7 @@
 9	igtanan	tanan	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	6	advcl	_	Gloss=left
 10	sikandan	sikandan	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	Gloss=they
 11	ka	ka	ADP	_	Case=Dat	12	case	_	Gloss=the
-12	kwarto	kwarto	NOUN	_	_	9	obj	_	Gloss=room|SpaceAfter=No
+12	kwarto	kwarto	NOUN	_	_	9	obl	_	Gloss=room|SpaceAfter=No
 13	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-17
