@@ -110,7 +110,7 @@
 4	mas	mas	ADV	_	_	5	advmod	_	_
 5	kuyaw	kuyaw	ADJ	_	Degree=Pos	2	amod	_	Gloss=cool
 6	kaysa	kaysa	SCONJ	_	_	8	mark	_	Gloss=than
-7	to	to	ADP	_	Case=Nom	8	case	_	_
+7	to	to	ADP	_	Case=Gen	8	case	_	_
 8	apa	apa	NOUN	_	_	2	ccomp	_	Gloss=dad
 9	no	ka	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	8	nmod	_	Gloss=your|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
