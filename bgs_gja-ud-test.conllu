@@ -170,7 +170,7 @@
 9-10	pwedeng	_	_	_	_	_	_	_	_
 9	pwede	pwede	PART	_	_	11	advmod	_	Gloss=could.be
 10	na	na	PART	_	_	9	mark	_	Gloss=LINK
-11	mapili	pili	VERB	_	Aspect=Prosp|Mood=Pot|Voice=Pass	0	root	_	Gloss=selected|SpaceAfter=No
+11	mapili	pili	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	0	root	_	Gloss=selected|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = bgs_cairo-12
