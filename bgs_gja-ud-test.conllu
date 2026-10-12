@@ -267,7 +267,7 @@
 12	dire	dire	ADV	_	Polarity=Neg	14	advmod	_	Gloss=not
 13	nya	niya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Gloss=she
 14	gusto	gusto	VERB	_	Aspect=Hab|Mood=Ind|Voice=Pass	2	advcl	_	_
-15	lumon	lumon	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	14	ccomp	_	Gloss=would.do
+15	lumon	lumon	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	14	xcomp	_	Gloss=would.do
 16	ni	kani	PRON	_	Deixis=Prox|PronType=Dem	15	nmod	_	Gloss=that
 17	to	to	ADP	_	Case=Nom	18	case	_	_
 18	el'lo	el'lo	NOUN	_	_	15	nsubj	_	Gloss=day|SpaceAfter=No
