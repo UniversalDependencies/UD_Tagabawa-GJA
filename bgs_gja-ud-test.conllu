@@ -323,7 +323,7 @@
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=,
 7	to	to	ADP	_	Case=Nom	8	case	_	Gloss=the
 8	ulo	ulo	NOUN	_	_	5	parataxis	_	Gloss=capital
-9	ka	ka	ADP	_	Case=Gen	10	case	_	Gloss=of
+9	ka	ka	ADP	_	Case=Dat	10	case	_	Gloss=of
 10	France	France	PROPN	_	_	8	obj	_	Gloss=France|SpaceAfter=No
 11	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
