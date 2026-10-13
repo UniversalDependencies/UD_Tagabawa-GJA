@@ -275,10 +275,10 @@
 
 # sent_id = bgs_cairo-18
 # parallel_id = cairo/18
-# text = ánda ko nakaya na lupog ka kandin kay bákkár sunnod sikandin palaguy.
+# text = Ánda ko nakaya na lupog ka kandin kay bákkár sunnod sikandin palaguy.
 # text_gloss = was.not I able keep.up him because fast too he ran.
 # text_en = I wasn't able to keep up, because he ran too fast.
-1	ánda	ánda	PART	_	Polarity=Neg	3	advmod	_	Gloss=was.not
+1	Ánda	ánda	PART	_	Polarity=Neg	3	advmod	_	Gloss=was.not
 2	ko	ko	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I
 3	nakaya	kaya	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	0	root	_	Gloss=able
 4	na	na	PART	_	_	5	mark	_	_
