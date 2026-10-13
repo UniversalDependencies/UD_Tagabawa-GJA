@@ -318,7 +318,7 @@
 2	sikandin	sikandin	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Gloss=she
 3-4	diyak	_	_	_	_	_	_	_	_
 3	diya	diya	ADV	_	Deixis=Med	1	advmod	_	Gloss=there
-4	-k	ak	ADP	_	Case=Gen	5	case	_	Gloss=in
+4	-k	ak	ADP	_	Case=Dat	5	case	_	Gloss=in
 5	Paris	Paris	PROPN	_	_	1	obj	_	Gloss=Paris|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=,
 7	to	to	ADP	_	Case=Nom	8	case	_	Gloss=the
