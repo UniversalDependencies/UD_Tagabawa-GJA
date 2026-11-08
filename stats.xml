@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>125</sentences><tokens>860</tokens><words>874</words><fused>13</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>125</sentences><tokens>860</tokens><words>874</words><fused>13</fused></test>
+  </size>
+  <lemmas unique="305" /><!-- ., to, ka, ,, si, ?, ko, din, Sandawa, bata, ak, ni, na, ta, Matutum -->
+  <forms unique="342" /><!-- ., to, ka, ,, ?, din, si, ni, Sandawa, ko, bata, ás, Matutum, ak, mga -->
+  <fusions unique="12" /><!-- ked, Diya, diyak, dutut, gustok, ka'd, kag, kodan, mitángnga-tángnga, niyak, parak, pwedeng -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="13">
+    <tag name="ADJ">12</tag><!-- mallayat, bálla, dakál, dilak, dinág, diyu, duma, goddo, kuyaw, magunawa -->
+    <tag name="ADP">139</tag><!-- to, ka, si, ni, e, ta, ki, para, ak, kato -->
+    <tag name="ADV">62</tag><!-- dutun, bani, dire, purisu, atin, di, din, dini, dán, iring -->
+    <tag name="CCONJ">15</tag><!-- ak, asta, pero, o, su -->
+    <tag name="DET">11</tag><!-- mga, dakál, langun, rapung -->
+    <tag name="NOUN">113</tag><!-- bata, apu, manubu, ngadan, sulat, tana, apa, barira, baye, bintana -->
+    <tag name="NUM">5</tag><!-- duwa, sábbad -->
+    <tag name="PART">38</tag><!-- na, man, dire, go, kay, dán, ba, duton, dád, eg -->
+    <tag name="PRON">120</tag><!-- ko, ka, din, sikandin, kani, niya, ke, indin, ki, ta -->
+    <tag name="PROPN">66</tag><!-- Sandawa, Matutum, Peter, Maria, Bagobo, Mary, Mibulo, Paliman, Banga, Biraan -->
+    <tag name="PUNCT">158</tag><!-- ., ,, ?, !, - -->
+    <tag name="SCONJ">11</tag><!-- su, atin, kay, kaysa, na, pa, yan, ándasu -->
+    <tag name="VERB">124</tag><!-- gamit, kan, duwán, gusto, padigos, pamula, soko, ánda, baluy, bál’li -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="36">
+    <feat name="Aspect" value="Hab" upos="VERB">17</feat><!-- gusto, ágngadan, Ágkan, Áglipáddáng, ágdipanugánna, ággakos, ággamitán, ággatid, ágkamáddangan, ágotep -->
+    <feat name="Aspect" value="Imp" upos="VERB">25</feat><!-- pano, Dunnakan, Eggamitan, Egkan, Egpadigusan, Egpamulaan, Gamitan, Gamitin, Kaballosan, Kuman -->
+    <feat name="Aspect" value="Perf" upos="VERB">58</feat><!-- Misoko, Megkan, igsulat, mibaluy, minate, Igambak, Igbelle, Igbággayan, Igbál’le, Igdakál -->
+    <feat name="Aspect" value="Prosp" upos="VERB">8</feat><!-- Mamasusu, mapili, nakaya, pakakagi, palimude, piyaan, tumindág, tumákkás -->
+    <feat name="Case" value="Dat" upos="ADP">24</feat><!-- ka, ta, to, ki, -k, -t, e, kak, para, sa -->
+    <feat name="Case" value="Gen" upos="ADP,PRON">99</feat><!-- ka, din, ko, ni, ku, no, nya, ta, áskandin, to -->
+    <feat name="Case" value="Nom" upos="ADP,PRON">112</feat><!-- to, si, ka, ás, e, sikandin, ke, ki, ak, -k -->
+    <feat name="Clusivity" value="In" upos="PRON">14</feat><!-- ke, ki, ta, sikita -->
+    <feat name="Degree" value="Pos" upos="ADJ">6</feat><!-- Mallayat, dakál, dilak, kuyaw, midinág -->
+    <feat name="Deixis" value="Med" upos="ADV,PRON">2</feat><!-- diya, kanan -->
+    <feat name="Deixis" value="Prox" upos="ADV,PRON">10</feat><!-- ni, kani, Kannun, dini, nit -->
+    <feat name="Deixis" value="Remt" upos="ADV,PRON">5</feat><!-- yan, Taddo, kato -->
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV">9</feat><!-- dutun, para, To, takud, tikod, tun -->
+    <feat name="ExtPos" value="ADV" upos="ADV">2</feat><!-- Takud, pipila -->
+    <feat name="Foreign" value="Yes" upos="NOUN">4</feat><!-- bronze, gold, silver, south -->
+    <feat name="Gender" value="Fem" upos="PROPN">1</feat><!-- Maria -->
+    <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- abrihi -->
+    <feat name="Mood" value="Ind" upos="VERB">103</feat><!-- Misoko, gusto, Megkan, igsulat, mibaluy, minate, pano, ágngadan, Dunnakan, Eggamitan -->
+    <feat name="Mood" value="Pot" upos="VERB">5</feat><!-- Mamasusu, mikapáttud, pakakagi, palimude, piyaan -->
+    <feat name="Number" value="Plur" upos="DET,NOUN,PRON">33</feat><!-- mga, ke, ki, ta, ko, sikandan, gabata, Dakál, den, marapung -->
+    <feat name="Number" value="Sing" upos="PRON">78</feat><!-- din, ka, ko, ku, sikandin, no, nya, áskandin, a, ak -->
+    <feat name="PartType" value="Int" upos="PART">1</feat><!-- ba -->
+    <feat name="Person" value="1" upos="PRON">39</feat><!-- ko, ku, ke, ki, ta, a, ak, ka, -k, kanak -->
+    <feat name="Person" value="2" upos="PRON">22</feat><!-- ka, no, ko, neko, nu, mo -->
+    <feat name="Person" value="3" upos="PRON">38</feat><!-- din, sikandin, nya, áskandin, sikandan, dan, kandin, den, niya -->
+    <feat name="Polarity" value="Neg" upos="ADV,PART,VERB">16</feat><!-- di, dire, Ánda, Inda, Yaka, Yako -->
+    <feat name="Polarity" value="Pos" upos="ADV,VERB">2</feat><!-- duwán -->
+    <feat name="PronType" value="Dem" upos="PRON">12</feat><!-- ni, yan, kani, kanan, kato -->
+    <feat name="PronType" value="Ind" upos="DET">10</feat><!-- mga, Dakál, marapung -->
+    <feat name="PronType" value="Int" upos="ADV,PRON">17</feat><!-- Indin, Kadángngan, Kumusta, Menda, sadan, Kadánggan, Manan, Mánda, Pila, Ángngan -->
+    <feat name="PronType" value="Prs" upos="PRON">99</feat><!-- din, ko, ka, ku, sikandin, ke, no, nya, ki, ta -->
+    <feat name="PronType" value="Tot" upos="DET">1</feat><!-- langun -->
+    <feat name="Voice" value="Act" upos="VERB">58</feat><!-- igsulat, pano, ágngadan, Egkan, Igambak, Igbelle, Igdakál, Igkadaug, Igmenno, Igpid -->
+    <feat name="Voice" value="Ifoc" upos="VERB">5</feat><!-- Eggamitan, Gamitan, Gamitin, Meggamitan, abrihi -->
+    <feat name="Voice" value="Lfoc" upos="VERB">3</feat><!-- Egpamulaan, Megpamulaan, Pamulaan -->
+    <feat name="Voice" value="Pass" upos="VERB">43</feat><!-- Misoko, gusto, mibaluy, minate, Dunnakan, Egpadigusan, Igbággayan, Igbál’le, Igkange, Igsugo -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="24">
+    <dep name="advcl">9</dep>
+    <dep name="advmod">75</dep>
+    <dep name="amod">9</dep>
+    <dep name="appos">6</dep>
+    <dep name="case">137</dep>
+    <dep name="cc">14</dep>
+    <dep name="ccomp">14</dep>
+    <dep name="compound:redup">1</dep>
+    <dep name="conj">10</dep>
+    <dep name="det">11</dep>
+    <dep name="fixed">11</dep>
+    <dep name="flat">5</dep>
+    <dep name="list">9</dep>
+    <dep name="mark">26</dep>
+    <dep name="nmod">48</dep>
+    <dep name="nsubj">117</dep>
+    <dep name="nummod">5</dep>
+    <dep name="obj">64</dep>
+    <dep name="obl">14</dep>
+    <dep name="parataxis">3</dep>
+    <dep name="punct">158</dep>
+    <dep name="root">125</dep>
+    <dep name="vocative">2</dep>
+    <dep name="xcomp">1</dep>
+  </deps>
+</treebank>
